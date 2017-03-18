@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>picture</key>
+			<string>p111.jpg</string>
+			<key>audio</key>
+			<string></string>
+			<key>answer</key>
+			<string>D</string>
+			<key>script</key>
+			<string>(A) The man is adjusting a TV set.
+(B) The man is wearing gloves and glasses.
+(C) The man is trying to light a fire.
+(D) The man is holding a book in his left hand.</string>
+		</dict>
+		<dict>
+			<key>picture</key>
+			<string>p112.jpg</string>
+			<key>audio</key>
+			<string></string>
+			<key>answer</key>
+			<string>B</string>
+			<key>script</key>
+			<string>(A) The picture shows the facade of a modern office block.
+(B) The solar energy panels are turned towards the sun.
+(C) Some of the panels seem to be broken.
+(D) You can&apos;t see any shadows in the picture.</string>
+		</dict>
+		<dict>
+			<key>picture</key>
+			<string>p113.jpg</string>
+			<key>audio</key>
+			<string></string>
+			<key>answer</key>
+			<string>C</string>
+			<key>script</key>
+			<string>(A) All the buildings are painted white.
+(B) There are two gondolas in the picture.
+(C) The gondolier is standing up in the gondola.
+(D) The sky is very dark.</string>
+		</dict>
+		<dict>
+			<key>picture</key>
+			<string>p114.jpg</string>
+			<key>audio</key>
+			<string></string>
+			<key>answer</key>
+			<string>B</string>
+			<key>script</key>
+			<string>(A) The man holds a fish in his hand.
+(B) The man is standing between rocks.
+(C) The sea is completely calm.
+(D) You can see several vessels on the horizon.</string>
+		</dict>
+		<dict>
+			<key>picture</key>
+			<string>p115.jpg</string>
+			<key>audio</key>
+			<string></string>
+			<key>answer</key>
+			<string>B</string>
+			<key>script</key>
+			<string>(A) There are three people in the picture.
+(B) You can see the shadow of the barrier on the ground.
+(C) The man is walking away from the camera.
+(D) The street lamps are all on.</string>
+		</dict>
+		<dict>
+			<key>picture</key>
+			<string>p116.jpg</string>
+			<key>audio</key>
+			<string></string>
+			<key>answer</key>
+			<string>A</string>
+			<key>script</key>
+			<string>(A) All three children are holding on to the bar.
+(B) The girl&apos;s feet are touching the ground.
+(C) The children are standing on an escalator.
+(D) The children are holding each other.</string>
+		</dict>
+		<dict>
+			<key>picture</key>
+			<string>p117.jpg</string>
+			<key>audio</key>
+			<string></string>
+			<key>answer</key>
+			<string>B</string>
+			<key>script</key>
+			<string>(A) Both women are wearing black shoes.
+(B) Both women are jogging with their heads up.
+(C) There are no trees in the picture.
+(D) The grass looks very brown.</string>
+		</dict>
+		<dict>
+			<key>picture</key>
+			<string>p118.jpg</string>
+			<key>audio</key>
+			<string></string>
+			<key>answer</key>
+			<string>D</string>
+			<key>script</key>
+			<string>(A) Both fighters are standing upright.
+(B) Both fighters are sitting in easy chairs.
+(C) One of the fighters is riding a bike.
+(D) You can see one of the fighters holding his épée.</string>
+		</dict>
+		<dict>
+			<key>picture</key>
+			<string>p119.jpg</string>
+			<key>audio</key>
+			<string></string>
+			<key>answer</key>
+			<string>C</string>
+			<key>script</key>
+			<string>(A) The pipe has no visible means of support.
+(B) There are no bushes either side of the picture.
+(C) You can see some bands round the pipe.
+(D) There are some people walking along the path.</string>
+		</dict>
+		<dict>
+			<key>picture</key>
+			<string>p1110.jpg</string>
+			<key>audio</key>
+			<string></string>
+			<key>answer</key>
+			<string>A</string>
+			<key>script</key>
+			<string>(A) Two of the people are wearing black backpacks.
+(B) The baby being held appears to be crying.
+(C) The mountain tops in the background are covered with snow.
+(D) It looks like it&apos;s about to rain.</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>picture</key>
+			<string>p121.jpg</string>
+			<key>audio</key>
+			<string></string>
+			<key>answer</key>
+			<string>B</string>
+			<key>script</key>
+			<string>(A) The man is using a screwdriver.
+(B) The man is using a spanner.
+(C) The man is using one hand only.
+(D) The man is standing upright.</string>
+		</dict>
+		<dict>
+			<key>picture</key>
+			<string>p122.jpg</string>
+			<key>audio</key>
+			<string></string>
+			<key>answer</key>
+			<string>D</string>
+			<key>script</key>
+			<string>(A) The man and the woman are both using paint brushes.
+(B) They are painting the roof of the house.
+(C) The man is wearing a white top.
+(D) The woman is using a paint roller.</string>
+		</dict>
+		<dict>
+			<key>picture</key>
+			<string>p123.jpg</string>
+			<key>audio</key>
+			<string></string>
+			<key>answer</key>
+			<string>C</string>
+			<key>script</key>
+			<string>(A) All the wheelie bins in the picture are green.
+(B) The man is bareheaded.
+(C) The refuse collector is wearing orange trousers.
+(D) All the wheelie bin lids are closed.</string>
+		</dict>
+		<dict>
+			<key>picture</key>
+			<string>p124.jpg</string>
+			<key>audio</key>
+			<string></string>
+			<key>answer</key>
+			<string>C</string>
+			<key>script</key>
+			<string>(A) The man on the right has only one leg.
+(B) The man nearest the camera is holding a golf stick.
+(C) The man nearest the camera is wearing a helmet.
+(D) The man on the right is throwing two balls in the air.</string>
+		</dict>
+		<dict>
+			<key>picture</key>
+			<string>p125.jpg</string>
+			<key>audio</key>
+			<string></string>
+			<key>answer</key>
+			<string>A</string>
+			<key>script</key>
+			<string>(A) The picture shows a swimming pool in someone&apos;s backyard.
+(B) All the sun loungers are blue.
+(C) There are two people swimming.
+(D) It looks like a storm is about to start.</string>
+		</dict>
+		<dict>
+			<key>picture</key>
+			<string>p126.jpg</string>
+			<key>audio</key>
+			<string></string>
+			<key>answer</key>
+			<string>D</string>
+			<key>script</key>
+			<string>(A) The streets are packed with cars.
+(B) The tower in the picture is an office building.
+(C) The picture was taken at night.
+(D) It looks like a beautiful day to be outside.</string>
+		</dict>
+		<dict>
+			<key>picture</key>
+			<string>p127.jpg</string>
+			<key>audio</key>
+			<string></string>
+			<key>answer</key>
+			<string>C</string>
+			<key>script</key>
+			<string>(A) The camel is looking at the camera.
+(B) The man is wearing a brown top.
+(C) The camel is taking a rest.
+(D) The man is sitting up.</string>
+		</dict>
+		<dict>
+			<key>picture</key>
+			<string>p128.jpg</string>
+			<key>audio</key>
+			<string></string>
+			<key>answer</key>
+			<string>B</string>
+			<key>script</key>
+			<string>(A) It looks like a very cold day.
+(B) The man is wearing a white cap.
+(C) The person in the picture is fishing.
+(D) The water looks clear blue.</string>
+		</dict>
+		<dict>
+			<key>picture</key>
+			<string>p129.jpg</string>
+			<key>audio</key>
+			<string></string>
+			<key>answer</key>
+			<string>D</string>
+			<key>script</key>
+			<string>(A) The two people in the picture are fishing.
+(B) The crop they are working on looks like corn.
+(C) The workers are up to their waist in water.
+(D) One of the workers is wearing a purple shirt.</string>
+		</dict>
+		<dict>
+			<key>picture</key>
+			<string>p1210.jpg</string>
+			<key>audio</key>
+			<string></string>
+			<key>answer</key>
+			<string>C</string>
+			<key>script</key>
+			<string>(A) The boy and man are looking at each other.
+(B) Both people are getting ready to fish.
+(C) The man is wearing long pants.
+(D) There are two boats tied to the dock.</string>
+		</dict>
+	</array>
+</array>
+</plist>
