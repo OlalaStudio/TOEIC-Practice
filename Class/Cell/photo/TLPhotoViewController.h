@@ -7,18 +7,27 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "TLBaseViewController.h"
+#import "PlayerBarView.h"
 
-@interface TLPhotoViewController : UIViewController{
+@interface TLPhotoViewController : TLBaseViewController <PlayerBarViewDelegate>{
     NSDictionary    *_dataDic;
 }
 
 @property (assign,nonatomic) NSInteger  index;
+
+@property (weak, nonatomic) IBOutlet PlayerBarView  *playerBar;
 @property (weak, nonatomic) IBOutlet UIImageView *picture;
 @property (weak, nonatomic) IBOutlet UITextView *scriptview;
-@property (weak, nonatomic) IBOutlet UILabel *anwser_A;
-@property (weak, nonatomic) IBOutlet UILabel *anwser_B;
-@property (weak, nonatomic) IBOutlet UILabel *anwser_C;
-@property (weak, nonatomic) IBOutlet UILabel *anwser_D;
+@property (weak, nonatomic) IBOutlet UIButton *anwser_A;
+@property (weak, nonatomic) IBOutlet UIButton *anwser_B;
+@property (weak, nonatomic) IBOutlet UIButton *anwser_C;
+@property (weak, nonatomic) IBOutlet UIButton *anwser_D;
+
+-(IBAction)select_A:(id)sender;
+-(IBAction)select_B:(id)sender;
+-(IBAction)select_C:(id)sender;
+-(IBAction)select_D:(id)sender;
 
 -(void)setData:(NSDictionary*)data;
 -(void)show_script;

@@ -1,18 +1,19 @@
 //
-//  TLCommonViewController.m
+//  TLPart2LearningController.m
 //  Toeic
 //
-//  Created by NguyenThanhLuan on 15/03/2017.
+//  Created by NguyenThanhLuan on 23/03/2017.
 //  Copyright © 2017 Olala. All rights reserved.
 //
 
-#import "TLCommonViewController.h"
+#import "TLPart2LearningController.h"
 
-@interface TLCommonViewController ()
+
+@interface TLPart2LearningController ()
 
 @end
 
-@implementation TLCommonViewController
+@implementation TLPart2LearningController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
@@ -42,7 +43,7 @@
 {
     // code for right Button
     
-    TLPhotoViewController *currentView = (TLPhotoViewController*)[_controllerArr objectAtIndex:[self.pageControll currentPage]];
+    TLQnRViewController *currentView = (TLQnRViewController*)[_controllerArr objectAtIndex:[self.pageControll currentPage]];
     
     [currentView show_script];
 }
@@ -68,7 +69,7 @@
     
     [[self.pageController view] setFrame:[[self view] bounds]];
     
-    TLPhotoViewController *initialView = [self viewControllerAtIndex:0];
+    TLQnRViewController *initialView = [self viewControllerAtIndex:0];
     
     _controllerArr = [NSMutableArray arrayWithObject:initialView];
     
@@ -79,20 +80,22 @@
     
     [self.pageController didMoveToParentViewController:self];
     [self addPageControll];
+    
+    [initialView didMoveToParentViewController:self];
 }
 
 #pragma mark
 #pragma mark PageViewControllerDelegate
 -(void)pageViewController:(UIPageViewController *)pageViewController willTransitionToViewControllers:(NSArray *)pendingViewControllers
 {
-    TLPhotoViewController *pageContentView = (TLPhotoViewController*)pendingViewControllers[0];
+    TLQnRViewController *pageContentView = (TLQnRViewController*)pendingViewControllers[0];
     [self.pageControll setCurrentPage:[pageContentView index]];
     [self.pageControll updateCurrentPageDisplay];
 }
 
 -(UIViewController*)pageViewController:(UIPageViewController *)pageViewController viewControllerAfterViewController:(UIViewController *)viewController
 {
-    NSInteger index = [(TLPhotoViewController*)viewController index];
+    NSInteger index = [(TLQnRViewController*)viewController index];
     
     index++;
     
@@ -109,7 +112,7 @@
 
 -(UIViewController*)pageViewController:(UIPageViewController *)pageViewController viewControllerBeforeViewController:(UIViewController *)viewController
 {
-    NSInteger index = [(TLPhotoViewController*)viewController index];
+    NSInteger index = [(TLQnRViewController*)viewController index];
     if (index == 0) {
         return nil;
     }
@@ -119,9 +122,9 @@
     return [_controllerArr objectAtIndex:index];
 }
 
--(TLPhotoViewController*)viewControllerAtIndex:(NSInteger)index
+-(TLQnRViewController*)viewControllerAtIndex:(NSInteger)index
 {
-    TLPhotoViewController *pageviewcontroller = [[TLPhotoViewController alloc] initWithNibName:@"TLPhotoViewController" bundle:nil];
+    TLQnRViewController *pageviewcontroller = [[TLQnRViewController alloc] initWithNibName:@"TLQnRViewController" bundle:nil];
     [pageviewcontroller setData:[_itemList objectAtIndex:index]];
     pageviewcontroller.index = index;
     [pageviewcontroller.view setFrame:[[self view] frame]];

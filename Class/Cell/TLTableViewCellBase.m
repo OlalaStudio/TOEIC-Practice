@@ -26,7 +26,7 @@
 }
 
 -(void)setQNumber:(NSInteger)qNumber{
-    _qNumber = qNumber; 
+    _qNumber = qNumber;
 }
 
 -(NSInteger)qNumber{

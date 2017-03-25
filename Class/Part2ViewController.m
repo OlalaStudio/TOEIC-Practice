@@ -7,6 +7,7 @@
 //
 
 #import "Part2ViewController.h"
+#import "TLPart2LearningController.h"
 #import "TLTableViewCell.h"
 
 @interface Part2ViewController ()
@@ -67,9 +68,8 @@
     cell.selectionStyle = UITableViewCellSelectionStyleGray;
     cell.textLabel.textColor = [UIColor grayColor];
     
-    NSDictionary *item  = [dataArr objectAtIndex:indexPath.row];
-    NSString *title     = [item objectForKey:@"name"];
-    NSString *avate     = [item objectForKey:@"avata"];
+    NSString *title     = [NSString stringWithFormat:@"Question-Responses Test %ld",(long)indexPath.row + 1];
+    NSString *avate     = @"part2.png";
     
     [cell setDisplayTitle:title];
     [cell setDisplayAvata:avate];
@@ -79,12 +79,17 @@
 }
 
 -(void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath{
+    TLPart2LearningController *lessonViewController = (TLPart2LearningController*)[self.storyboard instantiateViewControllerWithIdentifier:@"idvpart2"];
     
+    [lessonViewController setModalTransitionStyle:UIModalTransitionStyleCoverVertical];
+    [lessonViewController setData:[dataArr objectAtIndex:indexPath.row]];
+    
+    [self.navigationController pushViewController:lessonViewController animated:YES];
 }
 
 -(CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath
 {
-    return 80;
+    return 60;
 }
 
 @end

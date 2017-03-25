@@ -1,15 +1,15 @@
 //
-//  TLCommonViewController.h
+//  TLPart2LearningController.h
 //  Toeic
 //
-//  Created by NguyenThanhLuan on 15/03/2017.
+//  Created by NguyenThanhLuan on 23/03/2017.
 //  Copyright © 2017 Olala. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
-#import "TLPhotoViewController.h"
+#import "TLQnRViewController.h"
 
-@interface TLCommonViewController : UIViewController <UIPageViewControllerDelegate,UIPageViewControllerDataSource>{
+@interface TLPart2LearningController : UIViewController <UIPageViewControllerDelegate,UIPageViewControllerDataSource>{
     NSArray          *_itemList;
     NSMutableArray   *_controllerArr;
 }

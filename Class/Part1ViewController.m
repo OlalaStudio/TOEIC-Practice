@@ -7,7 +7,7 @@
 //
 
 #import "Part1ViewController.h"
-#import "TLCommonViewController.h"
+#import "TLPart1LearningController.h"
 #import "TLTableViewCell.h"
 
 @interface Part1ViewController ()
@@ -81,7 +81,7 @@
 
 -(void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
-    TLCommonViewController *lessonViewController = (TLCommonViewController*)[self.storyboard instantiateViewControllerWithIdentifier:@"idvcommon"];
+    TLPart1LearningController *lessonViewController = (TLPart1LearningController*)[self.storyboard instantiateViewControllerWithIdentifier:@"idvpart1"];
     [lessonViewController setModalTransitionStyle:UIModalTransitionStyleCoverVertical];
     [lessonViewController setData:[dataArr objectAtIndex:indexPath.row]];
     [self.navigationController pushViewController:lessonViewController animated:YES];

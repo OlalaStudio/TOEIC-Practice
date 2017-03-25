@@ -1,5 +1,222 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<array/>
+<array>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— Where are you going?
+— London. How about you?
+— New York first, then Atlanta and Chicago. I&apos;ve got meetings in each city the next three days.
+— Wow, that&apos;s a tight schedule. I&apos;m going to hook up with friends and relax for a couple of weeks. I don&apos;t want to even think about work for awhile.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>Where is this conversation most probably taking place?</string>
+				<key>A</key>
+				<string> In an office</string>
+				<key>B</key>
+				<string>At a bus stop</string>
+				<key>C</key>
+				<string>In an airport</string>
+				<key>D</key>
+				<string>At a train station</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What is the purpose of the woman&apos;s trip?</string>
+				<key>A</key>
+				<string>Business</string>
+				<key>B</key>
+				<string>Pleasure</string>
+				<key>C</key>
+				<string>Personal</string>
+				<key>D</key>
+				<string>Camping</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What does the man plan to do?</string>
+				<key>A</key>
+				<string>Take a vacation</string>
+				<key>B</key>
+				<string>Work for two weeks</string>
+				<key>C</key>
+				<string>Visit family</string>
+				<key>D</key>
+				<string>Go to Chicago</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— Martha, have you met Benjamin yet? He&apos;s our new summer intern from State University.
+— No Scott, I haven&apos;t. I hope he&apos;s as good as the intern we had last summer. That young man worked really hard.
+— Benjamin seems sharp. And he&apos;s ambitious too. He said after he gets his business degree, he wants to go to law school and become a criminal lawyer.
+— Oh my. Maybe we&apos;ll see him on TV one day, defending a celebrity in a famous trial!</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>Who are the speakers talking about?</string>
+				<key>A</key>
+				<string>A lawyer</string>
+				<key>B</key>
+				<string>Martha</string>
+				<key>C</key>
+				<string> A college student</string>
+				<key>D</key>
+				<string>Scott</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What does the man say about Benjamin?</string>
+				<key>A</key>
+				<string>He&apos;s intelligent.</string>
+				<key>B</key>
+				<string>He&apos;s a hard worker.</string>
+				<key>C</key>
+				<string>He&apos;s lazy.</string>
+				<key>D</key>
+				<string>He&apos;s going to be famous.</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What does Benjamin plan to do?</string>
+				<key>A</key>
+				<string>Get married</string>
+				<key>B</key>
+				<string>Attend graduate school.</string>
+				<key>C</key>
+				<string>Defend a celebrity</string>
+				<key>D</key>
+				<string>Become a TV star</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— Excuse me, how much does a case of these printer cartridges cost?
+— A case would be $150.
+— I see. And are there bulk discounts available?
+— Yes there are. If you buy three cases, they&apos;re $125 each. For five or more, they&apos;re $100 apiece.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>Where is the conversation taking place?</string>
+				<key>A</key>
+				<string>In a store.</string>
+				<key>B</key>
+				<string>In an office.</string>
+				<key>C</key>
+				<string>At a school.</string>
+				<key>D</key>
+				<string>At a bank.</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What does the woman ask the man?</string>
+				<key>A</key>
+				<string>To place an order.</string>
+				<key>B</key>
+				<string>For price information.</string>
+				<key>C</key>
+				<string>For change for $100.</string>
+				<key>D</key>
+				<string>If she can pay by check.</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What does the man say about bulk discounts?</string>
+				<key>A</key>
+				<string>There are none available.</string>
+				<key>B</key>
+				<string>They are available for five or more cases.</string>
+				<key>C</key>
+				<string>They are available for three or more cases.</string>
+				<key>D</key>
+				<string>They are available only on the first case.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— Your total is $52.79. Will that be cash, check, credit, or debit?
+— If I use a debit card, can I get cash back? I need change for the bus.
+— Yes you can, up to $50.
+— Debit, then, and I&apos;d like to get $30 cash please. Oh, and could you please give me $2 worth of quarters?</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>Where is the conversation taking place?</string>
+				<key>A</key>
+				<string>In a store.</string>
+				<key>B</key>
+				<string>On an airplane.</string>
+				<key>C</key>
+				<string>In an office.</string>
+				<key>D</key>
+				<string>At a party.</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What problem does the man have?</string>
+				<key>A</key>
+				<string>He forgot his credit card.</string>
+				<key>B</key>
+				<string>He lost his wallet.</string>
+				<key>C</key>
+				<string>He doesn&apos;t have bus fare.</string>
+				<key>D</key>
+				<string>He has too much money.</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What does the man want to do?</string>
+				<key>A</key>
+				<string>Write a check.</string>
+				<key>B</key>
+				<string>Receive cash.</string>
+				<key>C</key>
+				<string>Buy clothes.</string>
+				<key>D</key>
+				<string>Pay a bill.</string>
+			</dict>
+		</array>
+	</dict>
+</array>
 </plist>

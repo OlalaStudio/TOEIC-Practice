@@ -1,5 +1,1026 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<array/>
+<array>
+	<array>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). Did you hear about the first edition book that sold for a million dollars last week?
+(A) I usually buy paperbacks rather than hardback ones.
+(B) All the walls in my living room are covered in bookshelves.
+(C) Yes, I did. I keep hoping I&apos;ll come across a rare book that&apos;s worth a lot of money.
+
+2). Someone told me that in some countries the parents have to pay for their children&apos;s schoolbooks.
+(A) Yes, I heard about that. It just shows how lucky we are in this country.
+(B) No, I spend very little on books really.
+(C) I spend all my money on newspapers.
+
+3). Is it true that you pay less for your meal if you come here on Tuesdays?
+(A) I don&apos;t mind if we don&apos;t eat anything today.
+(B) Yes, that&apos;s right but it has to be between 12 and 3.
+(C) I believe today is Wednesday, isn&apos;t it?</string>
+			<key>question</key>
+			<array>
+				<string>C</string>
+				<string>A</string>
+				<string>B</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). How much longer do we have to go?
+(A) I&apos;ve been there.
+(B) Six feet tall
+(C) Three more hours
+
+2). Weren&apos;t you at the conference last month?
+(A) Yeah, I was there.
+(B) No you weren&apos;t.
+(C) I won&apos;t be able to attend.
+
+3). Are you voting for or against the proposal?
+(A) I&apos;ve already voted.
+(B) I&apos;ll vote for it.
+(C) The vote starts at five.</string>
+			<key>question</key>
+			<array>
+				<string>C</string>
+				<string>A</string>
+				<string>B</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). What did Mark say about working on Saturday?
+(A) She says she will be there.
+(B) Mark is talking on the phone.
+(C) He said he won&apos;t be available.
+
+2). Do you prefer lobster or crab?
+(A) Neither, actually.
+(B) I really love seafood.
+(C) I did like the lobster.
+
+3). Does Simon Smith work here?
+(A) He used to.
+(B) No, he didn&apos;t.
+(C) Yes, I do.</string>
+			<key>question</key>
+			<array>
+				<string>C</string>
+				<string>A</string>
+				<string>A</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). Why hasn&apos;t Gina gotten back to me yet?
+(A) I&apos;ll get back to you tomorrow.
+(B) She&apos;s been very busy.
+(C) It&apos;s the third desk on the left.
+
+2). We can expedite your shipment for an extra $10.
+(A) I didn&apos;t do that.
+(B) Yes, I think I could.
+(C) No thank you. There&apos;s no rush.
+
+3). Where were they going for lunch?
+(A) At 12 o&apos;clock
+(B) No, they weren&apos;t.
+(C) To the Chinese restaurant</string>
+			<key>question</key>
+			<array>
+				<string>B</string>
+				<string>C</string>
+				<string>C</string>
+			</array>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). How many employees are in your division?
+(A) I&apos;m much better at multiplication.
+(B) Let&apos;s see, there are about 22.
+(C) There are three main branches.
+
+2). You&apos;re Jeff Javits, aren&apos;t you?
+(A) Yes you are.
+(B) No I haven&apos;t.
+(C) Yes I am.
+
+3). What do you think of our new manager?
+(A) She seems nice.
+(B) I&apos;m too old.
+(C) Three, I think.</string>
+			<key>question</key>
+			<array>
+				<string>B</string>
+				<string>C</string>
+				<string>A</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). What&apos;s the date today?
+(A) Wednesday
+(B) The 24th
+(C) 2009
+
+2). Which year were you born?
+(A) 1995
+(B) April 21st
+(C) I&apos;m 17
+
+3). How far is it from the office to the metro stop?
+(A) It&apos;s on Third Street
+(B) It&apos;s three blocks
+(C) It&apos;s opposite the library</string>
+			<key>question</key>
+			<array>
+				<string>B</string>
+				<string>A</string>
+				<string>B</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). I have an appointment with Ms. Richardson.
+(A) My appointment is at 9 a.m.
+(B) She&apos;s tall with blond hair.
+(C) I&apos;ll tell her you&apos;re here.
+
+2). Are we the home team or the visitors?
+(A) The score was 4-2.
+(B) We&apos;ll be home today.
+(C) Please let them in.
+
+3). Whose desk would you like to use?
+(A) My disc doesn&apos;t work.
+(B) I&apos;ll take Jamie&apos;s.
+(C) There&apos;s a small one.</string>
+			<key>question</key>
+			<array>
+				<string>C</string>
+				<string>B</string>
+				<string>B</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). How much do we owe our accountant?
+(A) Yes, I own an account.
+(B) Sure I know him.
+(C) Almost $3,000
+
+2). Who&apos;s editing your web page?
+(A) Yeah, she&apos;s doing a good job.
+(B) Tracy is
+(C) www.bigcorp.com
+
+3). What did Mr. Tanner think of our proposal?
+(A) He liked it very much.
+(B) She thought it was too long.
+(C) He reviewed it on Tuesday.</string>
+			<key>question</key>
+			<array>
+				<string>C</string>
+				<string>B</string>
+				<string>A</string>
+			</array>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). I like your suit!
+(A) It&apos;s brown and white.
+(B) My pleasure.
+(C) Thank you. I got it on sale.
+
+2). Would you like a cup of coffee?
+(A) Not right now.
+(B) Yes, I do like tea.
+(C) It costs $2.50.
+
+3). Shouldn&apos;t Mr. Cobb be here by now?
+(A) He shouldn&apos;t have been here by three.
+(B) No, he should. Let&apos;s call him.
+(C) Yes, he should. Traffic must be bad.</string>
+			<key>question</key>
+			<array>
+				<string>C</string>
+				<string>A</string>
+				<string>C</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). The food here is supposed to be of a very high standard.
+(A) Let&apos;s try some then and find out.
+(B) Most people go to the less expensive restaurant on the other side of the road.
+(C) I always think it&apos;s worth paying extra if the food is good.
+
+2). Do you think anyone is going to come and ask us what we want to eat?
+(A) I&apos;m really so hungry today that I could eat a horse.
+(B) There are three waiters on duty today.
+(C) I&apos;m sure a waiter will come along in a minute.
+
+3). Are you going to choose something from the main menu or from the &apos;specials&apos; one?
+(A) I think I&apos;ll go for the more expensive dishes on the main menu.
+(B) My favourite dish isn&apos;t on the menu today.
+(C) Last time I came here it cost me a fortune.</string>
+			<key>question</key>
+			<array>
+				<string>A</string>
+				<string>C</string>
+				<string>A</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). Wouldn&apos;t you rather have a latte?
+(A) Hmm... yeah, I think I would.
+(B) I won&apos;t have a latte, thanks.
+(C) I could have a double mocha.
+
+2). Whose turn is it to refill the ink?
+(A) We all take turns.
+(B) Turn it to the left.
+(C) It&apos;s Jessie&apos;s.
+
+3). Which picture did you take?
+(A) I&apos;ll take two, please.
+(B) A pitcher of lemonade.
+(C) The one of the mountain.</string>
+			<key>question</key>
+			<array>
+				<string>A</string>
+				<string>C</string>
+				<string>C</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). Ida isn&apos;t ready for her presentation, is she?
+(A) Yes, she isn&apos;t.
+(B) No, not quite.
+(C) No, she wasn&apos;t.
+
+2). What&apos;s the next stop after Bowling Street?
+(A) Center station
+(B) It&apos;s $2.50.
+(C) Turn right at the light.
+
+3). Who&apos;s available to help unload this shipment?
+(A) It&apos;s Tony&apos;s.
+(B) Matt is.
+(C) Freight ship.</string>
+			<key>question</key>
+			<array>
+				<string>B</string>
+				<string>A</string>
+				<string>B</string>
+			</array>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). What do you say we grab a beer?
+(A) Yes, I&apos;m very hungry.
+(B) That sounds good.
+(C) Come back tomorrow.
+
+2). Would you like cream in your coffee?
+(A) It&apos;s too cold for ice cream.
+(B) A short non-fat latte, please.
+(C) Yes, but just a little.
+
+3). I didn&apos;t expect to wait so long.
+(A) Neither did I.
+(B) Yes, I need to lose weight.
+(C) Thanks, I accept.</string>
+			<key>question</key>
+			<array>
+				<string>B</string>
+				<string>C</string>
+				<string>A</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). What is your date of birth?
+(A) May 15th, 1989.
+(B) Wednesday.
+(C) 1996.
+
+2). How long did you work at ATZ corporation?
+(A) Since 2005.
+(B) For four years.
+(C) I started in 2000.
+
+3). Where did Mr. Johnston go?
+(A) He will fly to Boston.
+(B) She&apos;s in the bathroom.
+(C) He went to lunch.</string>
+			<key>question</key>
+			<array>
+				<string>A</string>
+				<string>B</string>
+				<string>C</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). Excuse me, do you know which road goes to Smallville?
+(A) No, sorry, I didn&apos;t know.
+(B) Sure, you know the way.
+(C) Yes, take State Route 50.
+
+2). Does this bus stop at 72nd Street?
+(A) The bus stop is around the corner.
+(B) No, it doesn&apos;t. It stops at 75th.
+(C) Yes, it doesn&apos;t stop at 72nd.
+
+3). What if Ms. Blowers is unavailable?
+(A) Then try Mr. Graham.
+(B) Yes, she is.
+(C) No, she wouldn&apos;t be.</string>
+			<key>question</key>
+			<array>
+				<string>C</string>
+				<string>B</string>
+				<string>A</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). Why would you want to transfer to Asia?
+(A) I didn&apos;t want to.
+(B) I wouldn&apos;t if I were you.
+(C) I think it would be exciting there.
+
+2). What about the weekly sales report?
+(A) Oh yeah. I&apos;ll do it tomorrow.
+(B) The resort is lovely.
+(C) Because it&apos;s too late now.
+
+3). Didn&apos;t you say you had to go the airport?
+(A) I did have to go.
+(B) I did, but now I don&apos;t have to.
+(C) I didn&apos;t have to say that.</string>
+			<key>question</key>
+			<array>
+				<string>C</string>
+				<string>A</string>
+				<string>B</string>
+			</array>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). In which year were you born?
+(A) On February 28th.
+(B) In Los Angeles.
+(C) In 1992.
+
+2). Where were you yesterday?
+(A) I was at an all-day conference.
+(B) I&apos;m going to special training.
+(C) I will be out tomorrow.
+
+3). Shouldn&apos;t we pay before we leave?
+(A) Yes, we should have paid.
+(B) No, I don&apos;t like to pray.
+(C) No, they&apos;ll bill us later.</string>
+			<key>question</key>
+			<array>
+				<string>C</string>
+				<string>A</string>
+				<string>C</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). Is Stephen Johansen available?
+(A) It&apos;s 567-4943
+(B) I&apos;m afraid he&apos;s in a meeting
+(C) Mr. Johansen is our vice president
+
+2). Why is Martha leaving work early?
+(A) She has a dentist appointment
+(B) Martha works in accounting
+(C) It&apos;s only 4 o&apos;clock
+
+3). Did you take a message?
+(A) No, I did
+(B) Yes, I couldn&apos;t
+(C) Yes, I did</string>
+			<key>question</key>
+			<array>
+				<string>B</string>
+				<string>A</string>
+				<string>C</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). When were these files last updated?
+(A) About three months ago.
+(B) It was in Los Angeles.
+(C) They&apos;ll do it next year.
+
+2). How long will Mr. Krakov be away?
+(A) Since Monday
+(B) He&apos;s six-foot-three
+(C) For four days
+
+3). You&apos;ll phone when you get there, won&apos;t you?
+(A) Don&apos;t worry. Of course I will.
+(B) Yes, you&apos;ll phone me soon.
+(C) Sure, I won&apos;t call you.</string>
+			<key>question</key>
+			<array>
+				<string>A</string>
+				<string>C</string>
+				<string>A</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). Where are you going this afternoon?
+(A) I&apos;m leaving the office at three.
+(B) I have a meeting with Ms. Kirk.
+(C) Because I have a doctor&apos;s appointment.
+
+2). Excuse me, would you mind taking our picture?
+(A) No, not at all.
+(B) Yes, I would mind.
+(C) Sorry, I&apos;m in a hurry.
+
+3). Could we swing by my house on the way?
+(A) Sure, we&apos;ve got plenty of time.
+(B) I couldn&apos;t go to my house.
+(C) We wouldn&apos;t have time.</string>
+			<key>question</key>
+			<array>
+				<string>B</string>
+				<string>A</string>
+				<string>A</string>
+			</array>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). What&apos;s the code for the fax machine?
+(A) It&apos;s 2329.
+(B) Yes, turn up the heat.
+(C) Down the hall on the left.
+
+2). We made a profit last quarter.
+(A) I have two dimes and a nickel.
+(B) I&apos;ll help you.
+(C) I&apos;m not surprised.
+
+3). Do you know when Ms. Peabody will return?
+(A) I have to go home now.
+(B) She&apos;ll be back at 2.
+(C) I&apos;m busy right now.</string>
+			<key>question</key>
+			<array>
+				<string>A</string>
+				<string>C</string>
+				<string>B</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). What do you think of the new boss?
+(A) She seems to be very efficient at delegating.
+(B) I don&apos;t suppose she&apos;ll say very long.
+(C) I&apos;ve heard that she&apos;s moving to a new post next week.
+
+2). Have you filed all those documents about the accident?
+(A) There&apos;s too much paperwork in this office.
+(B) I&apos;ll do that later when I&apos;m not so busy.
+(C) The files really need to be sorted into alphabetical order.
+
+3). Is it all right to take tomorrow off as leave because I have an interview that day?
+(A) We already have seven vacancies on our staff.
+(B) I suppose so but you&apos;ll have a lot of work to do when you come back.
+(C) When I was younger, you had to lose a day&apos;s pay when you went on an interview.</string>
+			<key>question</key>
+			<array>
+				<string>A</string>
+				<string>B</string>
+				<string>B</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). Why can&apos;t the project wait until Monday?
+(A) That will be too late.
+(B) We can wait &apos;til Tuesday.
+(C) I need to lose weight.
+
+2). Sorry to keep you on hold.
+(A) Hold on a moment.
+(B) Yes, I&apos;ll keep holding.
+(C) It&apos;s OK. No problem.
+
+3). Hasn&apos;t that question already been answered?
+(A) You&apos;re right; it hasn&apos;t.
+(B) No, I don&apos;t think it has.
+(C) Yes, it is done answering.</string>
+			<key>question</key>
+			<array>
+				<string>A</string>
+				<string>C</string>
+				<string>B</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). How many types of products does your firm make?
+(A) There is seven product.
+(B) We make 15 different kinds.
+(C) We specialize in printers.
+
+2). What&apos;s the date today?
+(A) It&apos;s the 15th.
+(B) It starts at 3.
+(C) Today&apos;s Thursday.
+
+3). Have you seen Linda lately?
+(A) No, I didn&apos;t see her.
+(B) I watched her last week.
+(C) I haven&apos;t seen her for a couple of months.</string>
+			<key>question</key>
+			<array>
+				<string>B</string>
+				<string>A</string>
+				<string>C</string>
+			</array>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). Where is your office located?
+(A) It&apos;s on the 15th floor
+(B) I&apos;m an architect
+(C) It&apos;s 216-8763
+
+2). Which color do you like best?
+(A) It looks blue
+(B) Purple
+(C) I don&apos;t like pink
+
+3). When do we leave for New York?
+(A) For three weeks
+(B) To visit relatives
+(C) On the 25th</string>
+			<key>question</key>
+			<array>
+				<string>A</string>
+				<string>B</string>
+				<string>C</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). I thought Cynthia was the department head.
+(A) No, she&apos;s just an assistant.
+(B) Let&apos;s head up the department.
+(C) I thought that you&apos;re wrong.
+
+2). Who&apos;s not available to come in on Saturday?
+(A) Pieter and Jane are available.
+(B) Geoff, Missy, and Brandon.
+(C) Lance can&apos;t make it on Sunday.
+
+3). Excuse me, do you know when the next train leaves for Detroit?
+(A) It leaves from platform three.
+(B) It stops first in Cleveland.
+(C) It departs in forty minutes.</string>
+			<key>question</key>
+			<array>
+				<string>A</string>
+				<string>B</string>
+				<string>C</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). Do you live by yourself?
+(A) No, I have two roommates.
+(B) Yes, I live with my wife.
+(C) Yes, there are four of us.
+
+2). When will he be available?
+(A) He&apos;s away from his desk.
+(B) No, he won&apos;t.
+(C) After two o&apos;clock.
+
+3). Would David Hanson be able to help us?
+(A) He cannot be able to.
+(B) No, I&apos;m afraid he wouldn&apos;t.
+(C) Yes, she could help.</string>
+			<key>question</key>
+			<array>
+				<string>A</string>
+				<string>C</string>
+				<string>B</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). What type of wine do you prefer?
+(A) White, please.
+(B) Yes, I do like wine.
+(C) No thank you.
+
+2). How would you like your meat cooked?
+(A) It&apos;s delicious!
+(B) I&apos;d like to meet him.
+(C) Medium rare.
+
+3). Whose department handles collection?
+(A) She&apos;s Karen.
+(B) Karen&apos;s does.
+(C) Who is Karen?</string>
+			<key>question</key>
+			<array>
+				<string>A</string>
+				<string>C</string>
+				<string>B</string>
+			</array>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). When is the company picnic?
+(A) I don&apos;t have any.
+(B) It&apos;s next Saturday.
+(C) I&apos;ll bring some chips.
+
+2). Who do you report to?
+(A) The marketing manager.
+(B) The report was due last week.
+(C) Yes, I&apos;m a reporter.
+
+3). Will you be able to fix the computer?
+(A) No, I will be.
+(B) Yes, I&apos;m unable.
+(C) Yes, I think so.</string>
+			<key>question</key>
+			<array>
+				<string>B</string>
+				<string>A</string>
+				<string>C</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). Where do you live?
+(A) On South 29th Street.
+(B) It&apos;s 776-7788.
+(C) I was born in Canada.
+
+2). Do you know when our new computers will arrive?
+(A) No, I&apos;m not sure.
+(B) They will come yesterday.
+(C) They came next week.
+
+3). Why didn&apos;t you ask me before you ordered?
+(A) I&apos;m sorry that I did.
+(B) No, you didn&apos;t ask me.
+(C) I didn&apos;t want to bother you.</string>
+			<key>question</key>
+			<array>
+				<string>A</string>
+				<string>A</string>
+				<string>C</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). You wouldn&apos;t happen to have change for a dollar, would you?
+(A) Yes, I believe I do. Here you are.
+(B) Sorry, I have change for a dollar.
+(C) No I didn&apos;t. Sorry about that.
+
+2). Mr. Roth is here to see you.
+(A) Good to see you too.
+(B) She will come tomorrow.
+(C) Please send him in.
+
+3). Why don&apos;t we call it a day?
+(A) Oh, I didn&apos;t know.
+(B) Good idea. I&apos;m tired.
+(C) Why don&apos;t you call him?</string>
+			<key>question</key>
+			<array>
+				<string>A</string>
+				<string>C</string>
+				<string>B</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). How much do those headphones cost?
+(A) I need a new phone.
+(B) They&apos;re $22.50.
+(C) The price is right.
+
+2). Are you going to eat the rest of those fries?
+(A) No I&apos;m not. You can have them.
+(B) Yes, there are lots of flies in here.
+(C) No, I will have finished them.
+
+3). Why didn&apos;t Saundra attend the conference?
+(A) Because she did not attend to it.
+(B) Because she was on vacation.
+(C) Because she wasn&apos;t there.</string>
+			<key>question</key>
+			<array>
+				<string>B</string>
+				<string>A</string>
+				<string>B</string>
+			</array>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). Why don&apos;t you take a short break?
+(A) I broke my coffee cup.
+(B) That&apos;s a good idea!
+(C) You&apos;ve been working too hard.
+
+2). Excuse me, where can I catch the subway going uptown?
+(A) You are in the middle of downtown.
+(B) It leaves at 6:23.
+(C) At the 23rd Street Station.
+
+3). You haven&apos;t seen the Jenkins report, have you?
+(A) No I haven&apos;t.
+(B) No I have.
+(C) Yes I haven&apos;t.</string>
+			<key>question</key>
+			<array>
+				<string>B</string>
+				<string>C</string>
+				<string>A</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). How many copies of the report do you need?
+(A) I don&apos;t drink coffee.
+(B) No problem.
+(C) I&apos;d like 30, please.
+
+2). When will we leave for Toronto?
+(A) At the airport.
+(B) On the 14th.
+(C) We left Tuesday.
+
+3). Who&apos;s in charge of marketing?
+(A) That would be Ms. Williams.
+(B) No thanks, I&apos;ll pay cash.
+(C) It&apos;s at First and Broad.</string>
+			<key>question</key>
+			<array>
+				<string>C</string>
+				<string>B</string>
+				<string>A</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). Which dates will you be on vacation?
+(A) March 23rd to April 5th.
+(B) From Thursday to Wednesday.
+(C) I&apos;ll be gone for two weeks.
+
+2). Whose jacket is that green one?
+(A) Jack Green is our new manager.
+(B) It&apos;s hanging up near the window.
+(C) I believe it belongs to Wendy.
+
+3). Who&apos;s Mr. Duvall speaking with?
+(A) He&apos;s in his office.
+(B) A potential new client.
+(C) He&apos;s not available.</string>
+			<key>question</key>
+			<array>
+				<string>A</string>
+				<string>C</string>
+				<string>B</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). Would you please tell him that I called?
+(A) Sure, I told him.
+(B) Yes, I&apos;ll let him know.
+(C) I&apos;ll tell him you will call.
+
+2). Do you want juice or milk?
+(A) I did want milk.
+(B) I wanted juice.
+(C) I&apos;d like juice.
+
+3). Whose car are you driving?
+(A) It belongs to my friend.
+(B) My car is getting fixed.
+(C) Yes, I like it very much.</string>
+			<key>question</key>
+			<array>
+				<string>B</string>
+				<string>C</string>
+				<string>A</string>
+			</array>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). I suggest consulting a lawyer before signing a contract.
+(A) No, I don&apos;t want to work in consulting.
+(B) Yes, that&apos;s what I&apos;m planning to do.
+(C) He studied international law.
+
+2). Have you ever used this kind of machine?
+(A) The new copiers are great.
+(B) Yes, a couple of months ago.
+(C) I&apos;ve never seen an arrangement like this.
+
+3). When can you deliver the order to our warehouse?
+(A) By the end of the week.
+(B) By courier would be fastest.
+(C) It&apos;s on Main Street by the docks.</string>
+			<key>question</key>
+			<array>
+				<string>B</string>
+				<string>B</string>
+				<string>A</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). Where do we keep the expense vouchers?
+(A) They&apos;re in Mr. Doran&apos;s office.
+(B) Yes, they&apos;re very expensive.
+(C) I don&apos;t have any pouches.
+
+2). This CD-ROM isn&apos;t working right.
+(A) I hate DVDs.
+(B) What&apos;s wrong with it?
+(C) Yes, I&apos;m working tonight.
+
+3). When will you go on vacation?
+(A) To Disneyland.
+(B) The week of the 12th.
+(C) I was going on the 24th.</string>
+			<key>question</key>
+			<array>
+				<string>A</string>
+				<string>B</string>
+				<string>B</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). Some people say almost with pride that they have never read a book.
+(A) I need a really good plot to keep me reading a book to the end.
+(B) Well, if it were me, I would keep quiet about it.
+(C) I usually read at least six books every month.
+
+2). Can I borrow that book after you&apos;ve finished with it?
+(A) The trouble is that if you lend a book to someone, you can&apos;t be sure you&apos;ll get it back.
+(B) I borrowed a book once over 20 years ago and never gave it back.
+(C) Of course you can but don&apos;t spill coffee all over it.
+
+3). There&apos;s a saying isn&apos;t there, that you should never judge a book by its cover?
+(A) They try so hard nowadays by putting sexy pictures on a book cover to make you buy it.
+(B) He always reads certain books with a plain cover so that no one knows what it&apos;s about.
+(C) You can say the same thing about people can&apos;t you, as sometimes people are quite different from the way they look.</string>
+			<key>question</key>
+			<array>
+				<string>B</string>
+				<string>C</string>
+				<string>C</string>
+			</array>
+		</dict>
+		<dict>
+			<key>audio</key>
+			<string></string>
+			<key>script</key>
+			<string>1). How long have you wanted to work for yourself?
+(A) Until five years
+(B) Ever since college
+(C) From 1999
+
+2). Where did Mark say we should put these boxes?
+(A) He said we shouldn&apos;t put them in the basement.
+(B) He said we wouldn&apos;t carry them upstairs.
+(C) He said to store them in the lunch room.
+
+3). Haven&apos;t you heard about our merger?
+(A) No, nobody told me.
+(B) I couldn&apos;t hear anything.
+(C) I had heard it once.</string>
+			<key>question</key>
+			<array>
+				<string>B</string>
+				<string>C</string>
+				<string>A</string>
+			</array>
+		</dict>
+	</array>
+</array>
 </plist>

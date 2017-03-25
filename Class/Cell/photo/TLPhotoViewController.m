@@ -13,12 +13,27 @@
 @end
 
 @implementation TLPhotoViewController
+@dynamic anwser;
 
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     
+    _anwser = kUnknow;
+    
+    [self deSelectAll];
+    
     [self setupView];
+}
+
+-(void)viewDidAppear:(BOOL)animated{
+//    [_playerBar setPlayerURL:@"https://raw.githubusercontent.com/OlalaStudio/600EWT-Listening/master/01%20Contracts.mp3"];
+//    [_playerBar setPlayerBarDelegate:self];
+//    [_playerBar loadContent];
+}
+
+-(void)viewDidDisappear:(BOOL)animated{
+    [_playerBar stop];
 }
 
 - (void)didReceiveMemoryWarning {
@@ -42,6 +57,10 @@
     
     [_scriptview setHidden:YES];
 }
+
+-(void)showAnwser:(BOOL)result{
+    [super showAnwser:result];
+}
 /*
 #pragma mark - Navigation
 
@@ -56,4 +75,105 @@
     [_scriptview setHidden:![_scriptview isHidden]];
 }
 
+-(void)checkAnwser{
+    NSString *validAnwser = [_dataDic objectForKey:@"answer"];
+    AnwserState validAnwserSt = kUnknow;
+    
+    if ([[validAnwser uppercaseString] isEqualToString:@"A"]) {
+        validAnwserSt = kAnwserA;
+    }
+    else if ([[validAnwser uppercaseString] isEqualToString:@"B"]){
+        validAnwserSt = kAnwserB;
+    }
+    else if ([[validAnwser uppercaseString] isEqualToString:@"C"]){
+        validAnwserSt = kAnwserC;
+    }
+    else if ([[validAnwser uppercaseString] isEqualToString:@"D"]){
+        validAnwserSt = kAnwserD;
+    }
+    
+    if (_anwser != validAnwserSt) {
+        [self showAnwser:NO];
+        return;
+    }
+    
+    [self showAnwser:YES];
+}
+
+#pragma mark - UIAction
+-(IBAction)select_A:(id)sender{
+    NSLog(@"[Photo]select A");
+    
+    _anwser = kAnwserA;
+    
+    [self deSelectAll];
+    
+    [self.anwser_A.titleLabel setFont:[UIFont boldSystemFontOfSize:FONT_SIZE]];
+    [self.anwser_A setTitleColor:SELECT_COLOR forState:UIControlStateNormal];
+}
+
+-(IBAction)select_B:(id)sender{
+    NSLog(@"[Photo]select B");
+    
+    _anwser = kAnwserB;
+    
+    [self deSelectAll];
+    
+    [self.anwser_B.titleLabel setFont:[UIFont boldSystemFontOfSize:FONT_SIZE]];
+    [self.anwser_B setTitleColor:SELECT_COLOR forState:UIControlStateNormal];
+}
+
+-(IBAction)select_C:(id)sender{
+    NSLog(@"[Photo]select C");
+    
+    _anwser = kAnwserC;
+    
+    [self deSelectAll];
+    
+    [self.anwser_C.titleLabel setFont:[UIFont boldSystemFontOfSize:FONT_SIZE]];
+    [self.anwser_C setTitleColor:SELECT_COLOR forState:UIControlStateNormal];
+}
+
+-(IBAction)select_D:(id)sender{
+    NSLog(@"[Photo]select D");
+    
+    _anwser = kAnwserD;
+    
+    [self deSelectAll];
+    
+    [self.anwser_D.titleLabel setFont:[UIFont boldSystemFontOfSize:FONT_SIZE]];
+    [self.anwser_D setTitleColor:SELECT_COLOR forState:UIControlStateNormal];
+}
+
+-(void)deSelectAll{
+    
+    [self.anwser_A.titleLabel setFont:[UIFont systemFontOfSize:FONT_SIZE]];
+    [self.anwser_B.titleLabel setFont:[UIFont systemFontOfSize:FONT_SIZE]];
+    [self.anwser_C.titleLabel setFont:[UIFont systemFontOfSize:FONT_SIZE]];
+    [self.anwser_D.titleLabel setFont:[UIFont systemFontOfSize:FONT_SIZE]];
+    
+    [self.anwser_A setTitleColor:DESELECT_COLOR forState:UIControlStateNormal];
+    [self.anwser_B setTitleColor:DESELECT_COLOR forState:UIControlStateNormal];
+    [self.anwser_C setTitleColor:DESELECT_COLOR forState:UIControlStateNormal];
+    [self.anwser_D setTitleColor:DESELECT_COLOR forState:UIControlStateNormal];
+}
+
+#pragma mark - Player Bar Delegate
+-(void)didFinishPlayer{
+    
+    //show score
+    NSLog(@"Show score");
+    
+    [self checkAnwser];
+}
+
+-(void)didClickPlayer
+{
+    
+}
+
+-(void)canClickPlayer
+{
+    
+}
 @end

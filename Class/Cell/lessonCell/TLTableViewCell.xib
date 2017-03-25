@@ -12,29 +12,29 @@
             <rect key="frame" x="0.0" y="0.0" width="399" height="60"/>
             <autoresizingMask key="autoresizingMask"/>
             <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="1gk-Ke-IZ6" id="5X2-qo-lRs">
-                <rect key="frame" x="0.0" y="0.0" width="366" height="60"/>
+                <rect key="frame" x="0.0" y="0.0" width="366" height="59"/>
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
-                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="mrH-oc-M2w">
-                        <rect key="frame" x="10" y="0.0" width="60" height="60"/>
-                        <constraints>
-                            <constraint firstAttribute="width" constant="60" id="mFP-My-nnJ"/>
-                            <constraint firstAttribute="height" constant="60" id="mzX-K0-Tl3"/>
-                        </constraints>
-                    </imageView>
                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XYm-nZ-WvA">
-                        <rect key="frame" x="80" y="10" width="286" height="19.5"/>
-                        <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
+                        <rect key="frame" x="70" y="10" width="296" height="16"/>
+                        <fontDescription key="fontDescription" type="boldSystem" pointSize="13"/>
                         <color key="textColor" red="0.37055522203445435" green="0.37056469917297363" blue="0.37055957317352295" alpha="1" colorSpace="calibratedRGB"/>
                         <nil key="highlightedColor"/>
                     </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="mrH-oc-M2w">
+                        <rect key="frame" x="10" y="5" width="50" height="50"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="50" id="Fdz-1M-Won"/>
+                            <constraint firstAttribute="width" constant="50" id="jpU-nU-4ut"/>
+                        </constraints>
+                    </imageView>
                 </subviews>
                 <constraints>
-                    <constraint firstItem="mrH-oc-M2w" firstAttribute="leading" secondItem="5X2-qo-lRs" secondAttribute="leading" constant="10" id="Ekd-W6-p0W"/>
-                    <constraint firstItem="XYm-nZ-WvA" firstAttribute="leading" secondItem="mrH-oc-M2w" secondAttribute="trailing" constant="10" id="KoS-Aj-pdj"/>
-                    <constraint firstItem="mrH-oc-M2w" firstAttribute="top" secondItem="5X2-qo-lRs" secondAttribute="top" id="MXo-sh-b1v"/>
+                    <constraint firstItem="XYm-nZ-WvA" firstAttribute="leading" secondItem="mrH-oc-M2w" secondAttribute="trailing" constant="10" id="Gqr-mw-REQ"/>
                     <constraint firstAttribute="trailing" secondItem="XYm-nZ-WvA" secondAttribute="trailing" id="OJ5-sL-ur0"/>
                     <constraint firstItem="XYm-nZ-WvA" firstAttribute="top" secondItem="5X2-qo-lRs" secondAttribute="top" constant="10" id="TBM-Aj-O11"/>
+                    <constraint firstItem="mrH-oc-M2w" firstAttribute="centerY" secondItem="5X2-qo-lRs" secondAttribute="centerY" id="YnY-rK-uKZ"/>
+                    <constraint firstItem="mrH-oc-M2w" firstAttribute="leading" secondItem="5X2-qo-lRs" secondAttribute="leading" constant="10" id="fRN-ad-Uer"/>
                 </constraints>
             </tableViewCellContentView>
             <connections>

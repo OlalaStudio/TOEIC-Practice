@@ -7,18 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
-typedef enum : NSUInteger {
-    kUnknow  = 0,
-    kAnwserA = 1,
-    kAnwserB = 2,
-    kAnwserC = 3,
-    kAnwserD = 4,
-} AnwserState;
-
-#define FONT_SIZE       18
-#define SELECT_COLOR    [UIColor blueColor]
-#define DESELECT_COLOR  [UIColor blackColor]
+#import "UICommonDefines.h"
 
 @class TLTableViewCellBase;
 
