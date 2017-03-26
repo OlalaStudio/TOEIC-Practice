@@ -10,13 +10,13 @@
 #import "PlayerBarView.h"
 
 @interface TLPart3LearningViewController : UIViewController <UITableViewDelegate,UITableViewDataSource,PlayerBarViewDelegate>{
-    NSArray          *_itemList;
+    NSDictionary          *_itemList;
 }
 
 @property (weak, nonatomic) IBOutlet PlayerBarView *playerBar;
 @property (weak, nonatomic) IBOutlet UITableView *tableview;
 @property (weak, nonatomic) IBOutlet UITextView *scriptview;
 
--(void)setData:(NSArray*)dataArr;
+-(void)setData:(NSDictionary*)dataDic;
 
 @end

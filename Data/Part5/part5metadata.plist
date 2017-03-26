@@ -1,5 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<array/>
+<array>
+	<array>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>When you need supplies,..........a request with the office manager.</string>
+			<key>A</key>
+			<string>filling</string>
+			<key>B</key>
+			<string>fell</string>
+			<key>C</key>
+			<string>fallen</string>
+			<key>D</key>
+			<string>file</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>C</string>
+			<key>question</key>
+			<string>The bell captain suggested that more porters..........hired.</string>
+			<key>A</key>
+			<string>are</string>
+			<key>B</key>
+			<string>have</string>
+			<key>C</key>
+			<string>be</string>
+			<key>D</key>
+			<string>do</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>The last train to Hamburg..........at 10:30.</string>
+			<key>A</key>
+			<string>depart</string>
+			<key>B</key>
+			<string>departs</string>
+			<key>C</key>
+			<string>to depart</string>
+			<key>D</key>
+			<string>departing</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>The vice-president will be seated .......... the chairman at the banquet.</string>
+			<key>A</key>
+			<string>as</string>
+			<key>B</key>
+			<string>by</string>
+			<key>C</key>
+			<string>to</string>
+			<key>D</key>
+			<string>from</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>A</string>
+			<key>question</key>
+			<string>The manager got his staff .......... last weekend.</string>
+			<key>A</key>
+			<string>to work</string>
+			<key>B</key>
+			<string>was working</string>
+			<key>C</key>
+			<string>workable</string>
+			<key>D</key>
+			<string>worked</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>The newspaper expects circulation .......... next year.</string>
+			<key>A</key>
+			<string>to ascend</string>
+			<key>B</key>
+			<string>to increase</string>
+			<key>C</key>
+			<string>to escalate</string>
+			<key>D</key>
+			<string>to raise</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>The head of operations .......... to the management convention.</string>
+			<key>A</key>
+			<string>going</string>
+			<key>B</key>
+			<string>are going</string>
+			<key>C</key>
+			<string>go</string>
+			<key>D</key>
+			<string>is going</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>Reductions in the budget require us .......... our costs for international travel.</string>
+			<key>A</key>
+			<string>limits</string>
+			<key>B</key>
+			<string>to limit</string>
+			<key>C</key>
+			<string>limiting</string>
+			<key>D</key>
+			<string>limit</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>C</string>
+			<key>question</key>
+			<string>The ticketholders may be .......... about the change in date.</string>
+			<key>A</key>
+			<string>confusing</string>
+			<key>B</key>
+			<string>confuse</string>
+			<key>C</key>
+			<string>confused</string>
+			<key>D</key>
+			<string>confuses</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>Ms. Mosley is .......... member of our advertising team.</string>
+			<key>A</key>
+			<string>creative</string>
+			<key>B</key>
+			<string>most creative</string>
+			<key>C</key>
+			<string>more creative</string>
+			<key>D</key>
+			<string>the most creative</string>
+		</dict>
+	</array>
+</array>
 </plist>

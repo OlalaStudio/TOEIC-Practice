@@ -1,5 +1,210 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<array/>
+<array>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>Mike Mannequin here with a KRKR news update. The Senate will vote today on a bill to bail out the nation&apos;s farmers. The bill passed the House of Representatives last week in a very close vote. The president has said he will sign the bill if it passed. Locally, work crews are still cleaning up debris from last week&apos;s flooding in the eastern part of the state. The governor has declared the flood spots a disaster area, and asked the federal government for financial help. In sports, State and Tech universities are preparing for tomorrow&apos;s annual showdown to see who takes home the Silver Cup. Kickoff is at noon, and you can hear the game right here on KRKR 550 AM. I&apos;m Mike Mannequin in the news center. Stay tuned for traffic and weather after this word from our sponsor.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>Who most likely are the speakers?</string>
+				<key>A</key>
+				<string>College roommates</string>
+				<key>B</key>
+				<string> Next-door neighbors</string>
+				<key>C</key>
+				<string>Business colleagues</string>
+				<key>D</key>
+				<string>Best friends</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What are the speakers mainly discussing?</string>
+				<key>A</key>
+				<string>The merits of the subway</string>
+				<key>B</key>
+				<string>The high cost of gasoline</string>
+				<key>C</key>
+				<string>Which station to get off at</string>
+				<key>D</key>
+				<string>How to get more exercise</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What does the woman say about the subway?</string>
+				<key>A</key>
+				<string>It&apos;s more expensive than driving.</string>
+				<key>B</key>
+				<string> It&apos;s less reliable than a bus.</string>
+				<key>C</key>
+				<string>It&apos;s more convenient than a bus.</string>
+				<key>D</key>
+				<string>It&apos;s not as much fun as driving.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>Hey guys. Are you having trouble sleeping at night? Pat O&apos;Donnell here, and I was too, until I discovered Snoozers. I&apos;d tried everything -- pills, tea, counting sheep -- but nothing was working for me. Then a friend introduced me to Snoozers, an amazing medication that worked the first time I tried it, and has kept on working to give me the rest I deserve. Snoozers is an herbal remedy that interacts naturally with your body, leaving you relaxed and ready to lay down and sleep. Just one teaspoonful, mixed with warm water, is all you need to ensure a good night&apos;s rest. Try it today for free! For a limited time, you can get a free sample by calling 1-888-666-5454. That&apos;s 1-888-666-5454. Take it from me, Pat O&apos;Donnell, Snoozers works! Don&apos;t spend another night thrashing and turning. Call 1-888-666-5454 for your free Snoozers sample now!</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What is being advertised?</string>
+				<key>A</key>
+				<string>Pat O&apos;Donnell</string>
+				<key>B</key>
+				<string>A free sample</string>
+				<key>C</key>
+				<string>Pills</string>
+				<key>D</key>
+				<string>A sleep aide</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What does the speaker suggest?</string>
+				<key>A</key>
+				<string>Trying a new medication</string>
+				<key>B</key>
+				<string>Drinking tea</string>
+				<key>C</key>
+				<string>Counting sheep</string>
+				<key>D</key>
+				<string>Drinking water</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What should listeners do?</string>
+				<key>A</key>
+				<string>Contact Pat O&apos;Donnell</string>
+				<key>B</key>
+				<string>Dial a phone number</string>
+				<key>C</key>
+				<string>Go to a drug store</string>
+				<key>D</key>
+				<string>Buy a sample</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>Hello, this message is for Dick Lyons. My name is Janelle Archer from Lincoln Bank, and you had called us asking about interest rates for our CDs and money market accounts. Our current top CD rate is 5 percent for 48 months, with a minimum investment of $5,000. We also offer a CD of 4 percent for 36 months, with a minimum of $2,000. To purchase either of these CDs, you must first have a Lincoln Bank checking account. Our money market account is currently paying an interest rate of 3.50 percent. You don&apos;t need a previous checking account to open a money market account, but you do have to make an initial deposit of at least $1,000. I hope this answers your questions, Mr. Lyons. If there&apos;s anything else I can help you with, please give me a call. My name&apos;s Janelle Archer, and my number is 555-2002. Have a great day.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>Why did the caller telephone Dick Lyons?</string>
+				<key>A</key>
+				<string>She was returning a phone call.</string>
+				<key>B</key>
+				<string>She was trying to sell a product.</string>
+				<key>C</key>
+				<string>She was announcing a new CD rate.</string>
+				<key>D</key>
+				<string>She was meeting a new customer.</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What did Dick Lyons want to know?</string>
+				<key>A</key>
+				<string>The interest rate for Lincoln Bank&apos;s 48-month CD</string>
+				<key>B</key>
+				<string>The minimum deposit for a money market account</string>
+				<key>C</key>
+				<string>How to open a Lincoln Bank checking account</string>
+				<key>D</key>
+				<string>Interest rates for CDs and money market accounts</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What does the caller offer to do for Dick Lyons?</string>
+				<key>A</key>
+				<string>Open an account</string>
+				<key>B</key>
+				<string>Give him a discount</string>
+				<key>C</key>
+				<string>Call him back later</string>
+				<key>D</key>
+				<string>Provide further help</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>OK, let&apos;s go over a few important details. First, do you all have your employee handbook? If you need one, go see Ms. Chambers in HR right away. Please read your handbooks, sign the form on the back page, and return those to the HR department by the end of the day Friday. Next, timesheets are to be turned in to your department manager by 5 p.m. each Friday. It&apos;s your responsibility to make sure they are filled out properly. If they aren&apos;t, your paycheck will be delayed. If you have any expense vouchers or overtime documentation sheets, paper clip - do not staple - them, to the back of your timesheet. Overtime must be pre-approved by your direct supervisor, and you have to get a documentation sheet from the supervisor before working the overtime hours. Pay days are the 15th and 30th of each month, or the closest Friday if one of those dates falls on a weekend. Finally, please note carefully company policy in regard to keeping your work stations clean and projecting a professional appearance in your personal dress.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>Who is probably making this speech?</string>
+				<key>A</key>
+				<string>A college professor</string>
+				<key>B</key>
+				<string>A business recruiter</string>
+				<key>C</key>
+				<string>A company executive</string>
+				<key>D</key>
+				<string>An advertising salesman</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What is the purpose of the speech?</string>
+				<key>A</key>
+				<string>To persuade consumers</string>
+				<key>B</key>
+				<string>To impart information</string>
+				<key>C</key>
+				<string>To debate policy</string>
+				<key>D</key>
+				<string>To explain a problem</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>When will employees be paid?</string>
+				<key>A</key>
+				<string>At the middle and end of each month</string>
+				<key>B</key>
+				<string>By 5 p.m. each Friday</string>
+				<key>C</key>
+				<string>After they work overtime</string>
+				<key>D</key>
+				<string>Before the weekends</string>
+			</dict>
+		</array>
+	</dict>
+</array>
 </plist>

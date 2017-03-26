@@ -13,7 +13,11 @@
 
 @end
 
-@implementation TLPart3LearningViewController
+@implementation TLPart3LearningViewController{
+    NSString *audio;
+    NSArray  *questions;
+    NSString *script;
+}
 
 - (void)viewDidLoad {
     [super viewDidLoad];
@@ -35,6 +39,7 @@
     self.navigationItem.rightBarButtonItem = rightBtn;
     self.navigationController.navigationBar.tintColor = [UIColor redColor];
     
+    [_scriptview setText:script];
     [_scriptview setHidden:YES];
 }
 
@@ -47,8 +52,12 @@
     [_playerBar stop];
 }
 
--(void)setData:(NSArray *)dataArr{
-    _itemList = [[NSArray alloc] initWithArray:dataArr];
+-(void)setData:(NSDictionary *)dataDic{
+    _itemList = [[NSDictionary alloc] initWithDictionary:dataDic];
+    
+    audio = [_itemList objectForKey:@"audio"];
+    questions = [_itemList objectForKey:@"question"];
+    script = [_itemList objectForKey:@"script"];
 }
 
 -(void)show_Script:(id)sender
@@ -70,19 +79,19 @@
 #pragma mark -
 #pragma mark UITableViewDelegate
 -(NSInteger)numberOfSectionsInTableView:(UITableView *)tableView{
-    return 4;
+    return 1;
 }
 
 -(NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section{
     
-    return 3;
+    return [questions count];
 }
 
 -(UITableViewCell*)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath{
     
     TLQuestionTableViewCell *cell = [_tableview dequeueReusableCellWithIdentifier:@"idnormalcell"];
     [cell setQNumber:indexPath.section * 2 + indexPath.row];
-//    [cell setData:[_conversation objectAtIndex:indexPath.row]];
+    [cell setData:[questions objectAtIndex:indexPath.row]];
     [cell setIndex:indexPath];
         
     return cell;
