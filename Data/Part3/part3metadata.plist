@@ -1083,5 +1083,220 @@ gas company and ask if the rates have gone up.
 			</dict>
 		</array>
 	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— So in summary Michael, your review is mostly favorable. You met four of your seven incentive goals, which means your bonus will total $3,000. You got high marks for promptness and dedication, and need to improve your business etiquette and time management. Do you have any questions?
+— Yes, just a couple. What do you do with my performance review after I review it and sign it? Will you use it next year in deciding on salary increases?
+— Those are good questions. Your review will go into your file, which is part of your permanent employment record. It will be considered in determining salary, but it&apos;s just one factor among many. We&apos;ll also consider your overall performance since you joined the company, and any improvement made following this evaluation. In general, you&apos;re doing very nice work. Keep up the good work, and you shouldn&apos;t have any worries.
+— Thank you, Ms. Donaldson. I appreciate your fairness, and I enjoy working for you.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What is the woman&apos;s position?</string>
+				<key>A</key>
+				<string>Employee</string>
+				<key>B</key>
+				<string>Manager</string>
+				<key>C</key>
+				<string>Counselor</string>
+				<key>D</key>
+				<string>Receptionist</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What are the speakers mainly discussing?</string>
+				<key>A</key>
+				<string>The man&apos;s performance review</string>
+				<key>B</key>
+				<string>The woman&apos;s job duties</string>
+				<key>C</key>
+				<string>How to get a salary increase</string>
+				<key>D</key>
+				<string>What is in the man&apos;s file</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>When does this conversation take place?</string>
+				<key>A</key>
+				<string> At the beginning of the month</string>
+				<key>B</key>
+				<string>In the middle of the year</string>
+				<key>C</key>
+				<string>At the end of the year</string>
+				<key>D</key>
+				<string>In the summer</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— Here are the steps for reimbursing travel expenses. First, you need to fill out a travel voucher, that&apos;s the blue form here. Take that to your manager, and get his or her signature on the bottom line. Then, take a copy of that form -- that&apos;s the yellow page underneath -- and turn it into accounting. Be sure to attach copies of all your receipts. You keep the third page, the pink form, along with all your original receipts. Reimbursement checks are cut once a month, and they are separate from your normal paycheck. They usually go out on the 15th.
+— OK, blue form to manager, yellow to accounting. I think I&apos;ve got it. What type of expenses will the company reimburse?
+— Typically taxi, subway and bus fares; admission fees; meals and drinks up to $30 a day; and any necessary business supplies -- either for use on your trip or after you return. Of course, we&apos;ll also reimburse for unexpected costs, such as having to rent a hotel room if your flight is cancelled or delayed, or expenses associated with a lost wallet or natural disaster.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>Who most likely are the speakers?</string>
+				<key>A</key>
+				<string>Business colleagues</string>
+				<key>B</key>
+				<string>Hotel clerks</string>
+				<key>C</key>
+				<string>Next-door neighbors</string>
+				<key>D</key>
+				<string>Sales representatives</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What are the speakers mainly discussing?</string>
+				<key>A</key>
+				<string>Inflation rates</string>
+				<key>B</key>
+				<string>Travel destinations</string>
+				<key>C</key>
+				<string>Expensive checks</string>
+				<key>D</key>
+				<string>Company procedures</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What does the woman say about reimbursement checks?</string>
+				<key>A</key>
+				<string>They are included in normal paychecks.</string>
+				<key>B</key>
+				<string>They usually are sent on the 25th.</string>
+				<key>C</key>
+				<string>They are issued once a month.</string>
+				<key>D</key>
+				<string>They do not include taxi fares. </string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— That&apos;s a fair price. The problem is, my hours were just cut back at my job, and I really can&apos;t afford it right now, even though it&apos;s a good deal. I guess I&apos;ll look for something cheaper.
+— You could, but you like this vehicle, right? Tell you what. If I could get the price down another $500, would that be affordable for you?
+— $500? Well, that would certainly help. If you could get it down another $1,000, I&apos;d definitely buy it.
+— OK, I need to talk with my manager. Please wait here a few moments. Would you like any coffee or tea?</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What is the main purpose of the discussion?</string>
+				<key>A</key>
+				<string>To negotiate</string>
+				<key>B</key>
+				<string>To collaborate</string>
+				<key>C</key>
+				<string>To debate</string>
+				<key>D</key>
+				<string>To litigate</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What problem does the woman have?</string>
+				<key>A</key>
+				<string>Her husband has been laid off from his job.</string>
+				<key>B</key>
+				<string>She does not like the color of the vehicle.</string>
+				<key>C</key>
+				<string>She does not have $1,000s</string>
+				<key>D</key>
+				<string>Her work hours have been decreased.</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What does the man offer to do?</string>
+				<key>A</key>
+				<string>Check with his supervisor</string>
+				<key>B</key>
+				<string>Lend the women money</string>
+				<key>C</key>
+				<string> Find another vehicle</string>
+				<key>D</key>
+				<string>Phone the woman later    </string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— Hi, this is Ella from Business Brochures. We need to order printing paper, and I wanted to inquire about your bulk rates. We&apos;re going to need 100 reams of white paper, and 300 reams of colored paper.
+— Thank you for calling. For the white paper, we offer a 10-percent discount, so that would be $50 per ream. For the colored paper, we offer a 20-percent discount. It&apos;s more expensive, so that would be $65 per ream.
+— OK, thanks. I called Super Warehouse, and their prices are $40 a ream for the white and $55 for the color, so I think we&apos;ll go with them.
+— Hmm. Forty and 55? I&apos;ll beat those prices by 5 percent, if you&apos;ll order from us instead.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What is the relationship between the speakers?</string>
+				<key>A</key>
+				<string>Employer-employee</string>
+				<key>B</key>
+				<string>Supplier-customer</string>
+				<key>C</key>
+				<string>Diner-waiter</string>
+				<key>D</key>
+				<string>Shopper-cashier</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>Why is the woman phoning the man?</string>
+				<key>A</key>
+				<string>To register a complaint</string>
+				<key>B</key>
+				<string>To place an order</string>
+				<key>C</key>
+				<string>To demand a discount</string>
+				<key>D</key>
+				<string>To compare prices</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What does the man offer to do?</string>
+				<key>A</key>
+				<string>Match the discount for colored paper</string>
+				<key>B</key>
+				<string>Top a competitor&apos;s price</string>
+				<key>C</key>
+				<string> Give the woman extra paper</string>
+				<key>D</key>
+				<string>Negotiate with Super Warehouse</string>
+			</dict>
+		</array>
+	</dict>
 </array>
 </plist>
