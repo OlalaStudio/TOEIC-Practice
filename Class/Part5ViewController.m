@@ -7,6 +7,7 @@
 //
 
 #import "Part5ViewController.h"
+#import "TLPart5LearningController.h"
 #import "TLTableViewCell.h"
 
 @interface Part5ViewController ()
@@ -67,9 +68,8 @@
     cell.selectionStyle = UITableViewCellSelectionStyleGray;
     cell.textLabel.textColor = [UIColor grayColor];
     
-    NSDictionary *item  = [dataArr objectAtIndex:indexPath.row];
-    NSString *title     = [item objectForKey:@"name"];
-    NSString *avate     = [item objectForKey:@"avata"];
+    NSString *title     = [NSString stringWithFormat:@"Incomplete Sentences Test %ld",(long)indexPath.row + 1];
+    NSString *avate     = @"part5.png";
     
     [cell setDisplayTitle:title];
     [cell setDisplayAvata:avate];
@@ -78,12 +78,17 @@
 }
 
 -(void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath{
+    TLPart5LearningController *lessonViewController = (TLPart5LearningController*)[self.storyboard instantiateViewControllerWithIdentifier:@"idvpart5"];
     
+    [lessonViewController setModalTransitionStyle:UIModalTransitionStyleCoverVertical];
+    [lessonViewController setData:[dataArr objectAtIndex:indexPath.row]];
+    
+    [self.navigationController pushViewController:lessonViewController animated:YES];
 }
 
 -(CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath
 {
-    return 80;
+    return 60;
 }
 
 @end

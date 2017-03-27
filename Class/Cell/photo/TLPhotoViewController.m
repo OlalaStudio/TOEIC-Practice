@@ -8,7 +8,11 @@
 
 #import "TLPhotoViewController.h"
 
-@interface TLPhotoViewController ()
+@interface TLPhotoViewController (){
+    NSString *avata;
+    NSString *script;
+    NSString *audio;
+}
 
 @end
 
@@ -27,9 +31,9 @@
 }
 
 -(void)viewDidAppear:(BOOL)animated{
-//    [_playerBar setPlayerURL:@"https://raw.githubusercontent.com/OlalaStudio/600EWT-Listening/master/01%20Contracts.mp3"];
-//    [_playerBar setPlayerBarDelegate:self];
-//    [_playerBar loadContent];
+    [_playerBar setPlayerURL:audio];
+    [_playerBar setPlayerBarDelegate:self];
+    [_playerBar loadContent];
 }
 
 -(void)viewDidDisappear:(BOOL)animated{
@@ -47,12 +51,11 @@
 
 -(void)setupView{
     
-    NSString *pic = [_dataDic valueForKey:@"picture"];
+    avata = [_dataDic valueForKey:@"picture"];
+    audio = [_dataDic valueForKey:@"audio"];
+    script = [_dataDic valueForKey:@"script"];
     
-    [_picture setImage:[UIImage imageNamed:pic]];
-
-    NSString *script = [_dataDic valueForKey:@"script"];
-    
+    [_picture setImage:[UIImage imageNamed:avata]];
     [_scriptview setText:script];
     
     [_scriptview setHidden:YES];

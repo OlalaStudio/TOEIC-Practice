@@ -12,6 +12,9 @@
     AnwserState _anwser1;
     AnwserState _anwser2;
     AnwserState _anwser3;
+    
+    NSString *script;
+    NSString *audio;
 }
 
 @end
@@ -36,9 +39,9 @@
 }
 
 -(void)viewDidAppear:(BOOL)animated{
-//    [_playerBar setPlayerURL:@"https://raw.githubusercontent.com/OlalaStudio/600EWT-Listening/master/01%20Contracts.mp3"];
-//    [_playerBar setPlayerBarDelegate:self];
-//    [_playerBar loadContent];
+    [_playerBar setPlayerURL:audio];
+    [_playerBar setPlayerBarDelegate:self];
+    [_playerBar loadContent];
 }
 
 -(void)viewDidDisappear:(BOOL)animated{
@@ -55,10 +58,11 @@
 }
 
 -(void)setupView{
-    NSString *script = [_dataDic valueForKey:@"script"];
+    
+    script = [_dataDic valueForKey:@"script"];
+    audio = [_dataDic valueForKey:@"audio"];
     
     [_scriptview setText:script];
-    
     [_scriptview setHidden:YES];
 }
 

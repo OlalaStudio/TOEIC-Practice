@@ -68,7 +68,7 @@
     cell.selectionStyle = UITableViewCellSelectionStyleGray;
     cell.textLabel.textColor = [UIColor grayColor];
     
-    NSString *title     = [NSString stringWithFormat:@"Talks Test %ld",(long)indexPath.row + 1];
+    NSString *title     = [NSString stringWithFormat:@"Short Talks Test %ld",(long)indexPath.row + 1];
     NSString *avate     = @"part4.png";
     
     [cell setDisplayTitle:title];

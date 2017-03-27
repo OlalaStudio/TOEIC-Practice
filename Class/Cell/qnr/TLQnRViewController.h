@@ -10,7 +10,7 @@
 #import "PlayerBarView.h"
 #import "TLBaseViewController.h"
 
-@interface TLQnRViewController : TLBaseViewController{
+@interface TLQnRViewController : TLBaseViewController <PlayerBarViewDelegate>{
     NSDictionary    *_dataDic;
 }
 
