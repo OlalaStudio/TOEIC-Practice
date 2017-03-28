@@ -1298,5 +1298,870 @@ gas company and ask if the rates have gone up.
 			</dict>
 		</array>
 	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— Honey, we need to cut our expenses. I think we should refinance our mortgage. I heard an ad on the radio today. It said that the interest rate right now is only 5 percent.
+— Hmm... That&apos;s a good idea. What&apos;s our mortgage payment now, about $300 a month?
+— Yes. I called the phone number on the radio ad. The gentleman said we could lower our payment to about $200 a month if we refinance soon.
+— Let&apos;s make an appointment with the mortgage company. We sure could use an extra hundred bucks each month.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>Who most likely are the speakers?</string>
+				<key>A</key>
+				<string>Employer and employee</string>
+				<key>B</key>
+				<string>Banker and client</string>
+				<key>C</key>
+				<string>Salesman and customer</string>
+				<key>D</key>
+				<string>Husband and wife</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What does the woman suggest?</string>
+				<key>A</key>
+				<string>Reducing the house payment</string>
+				<key>B</key>
+				<string>Increasing expenses</string>
+				<key>C</key>
+				<string> Listening to the radio</string>
+				<key>D</key>
+				<string>Borrowing some money</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What will the speakers probably do next?</string>
+				<key>A</key>
+				<string>Schedule a meeting</string>
+				<key>B</key>
+				<string>Drive to the bank</string>
+				<key>C</key>
+				<string>Spend $100</string>
+				<key>D</key>
+				<string>Save 5 percent</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— Here&apos;s your withdrawal receipt. How would you like your bills? Are 20s OK?
+— Could I get three 20s, three 10s, a five and five ones?
+— Sure. Is there anything else I can help you with today?
+— No thank you.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>Where is this conversation most likely taking place?</string>
+				<key>A</key>
+				<string>In an office</string>
+				<key>B</key>
+				<string>In a store</string>
+				<key>C</key>
+				<string>In a meeting</string>
+				<key>D</key>
+				<string>In a bank</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What does the woman want?</string>
+				<key>A</key>
+				<string>More money</string>
+				<key>B</key>
+				<string>Different bills</string>
+				<key>C</key>
+				<string>A withdrawal receipt</string>
+				<key>D</key>
+				<string>A checking account</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What does the man offer?</string>
+				<key>A</key>
+				<string>Additional assistance</string>
+				<key>B</key>
+				<string>Twenty bills</string>
+				<key>C</key>
+				<string>A deposit receipt</string>
+				<key>D</key>
+				<string>A compliment</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— Do you know where Tanya is? I&apos;ve been phoning her and sending e-mails for the past hour. She&apos;s not at her desk.
+— She had to go to the downtown office to clear up a problem. Apparently, they sent us the wrong invoices.
+— Well, I have some good news. We have a new advertising client, and I want Tanya to be in charge of their account.
+— That&apos;s great news! You should call her on her cell phone. I&apos;m sure she&apos;d rather hear the news from you than read it in an e-mail.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>Where is Tanya now?</string>
+				<key>A</key>
+				<string>In a meeting</string>
+				<key>B</key>
+				<string>At her desk</string>
+				<key>C</key>
+				<string>At a branch office</string>
+				<key>D</key>
+				<string>Out to lunch</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What problem is Tanya handling?</string>
+				<key>A</key>
+				<string>An angry client</string>
+				<key>B</key>
+				<string>A paperwork mix-up</string>
+				<key>C</key>
+				<string>A printing mistake</string>
+				<key>D</key>
+				<string>A cancelled flight</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>How does the man suggest contacting Tanya?</string>
+				<key>A</key>
+				<string>By visiting her office</string>
+				<key>B</key>
+				<string>By leaving a message with a secretary</string>
+				<key>C</key>
+				<string>By sending her an e-mail</string>
+				<key>D</key>
+				<string>By calling her cell phone</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— Hello, Milo? I&apos;m having problems finding the conference center. I passed the Star Hotel but couldn&apos;t find Denman Street.
+— Okay. Denman Street is closed for construction, so you&apos;ll need to double back and take Trinity Way instead. Slow down when you see the gas station and take a right there.
+— But I can&apos;t see Trinity Way on the GPS. Are you sure this is right?
+— Yes, it&apos;s a new street so it might not show up yet.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>Where is the woman going?</string>
+				<key>A</key>
+				<string>To the office</string>
+				<key>B</key>
+				<string>To a gas station</string>
+				<key>C</key>
+				<string>To the hotel</string>
+				<key>D</key>
+				<string>To the conference center</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>How most likely is the woman traveling?</string>
+				<key>A</key>
+				<string>On foot</string>
+				<key>B</key>
+				<string>By Bus</string>
+				<key>C</key>
+				<string>By Taxi</string>
+				<key>D</key>
+				<string>By Car</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What does the man say about Trinity Way?</string>
+				<key>A</key>
+				<string>It is closed for construction.</string>
+				<key>B</key>
+				<string>It is a new road.</string>
+				<key>C</key>
+				<string>It is close to the hotel.</string>
+				<key>D</key>
+				<string> It is a one-way street.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— Wow, everything looks so good! I&apos;m not sure what to order.
+— Have anything you like. It&apos;s on the company. Personally, I recommend the lobster. It&apos;s fresh from Maine -- the best in town. But the steaks are also quite good. They use only grass-fed Angus cows. And for dessert, you&apos;ve got to try the New York Cheesecake!
+— Well thank you. That all sounds delicious. I think I&apos;ll have the lobster and a bowl of clam chowder. How about you?
+— I&apos;m going to try a T-bone steak and a Caesar salad. Now, what type of wine do you fancy?</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What are the speakers mainly discussing?</string>
+				<key>A</key>
+				<string>What to eat for dinner</string>
+				<key>B</key>
+				<string>Where to find fresh lobster</string>
+				<key>C</key>
+				<string>Why steaks are good</string>
+				<key>D</key>
+				<string>Which type of wine to drink</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What does the woman suggest for the man?</string>
+				<key>A</key>
+				<string>Angus lobster</string>
+				<key>B</key>
+				<string>Clam chowder</string>
+				<key>C</key>
+				<string>New York cheesecake</string>
+				<key>D</key>
+				<string>A Caesar salad</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>Who will pay for the meal?</string>
+				<key>A</key>
+				<string>The man</string>
+				<key>B</key>
+				<string>The woman&apos;s company</string>
+				<key>C</key>
+				<string>The man&apos;s firm</string>
+				<key>D</key>
+				<string>The man and the woman</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— Rebecca, I heard from Caitlin that you&apos;re in charge of replacing all our computers. This is great; it&apos;s about time!
+— It sure is! When the system crashed last Friday, it was the last straw. That&apos;s when Mr. Thompson gave me the green light to order new computers. I&apos;m aiming to get a new system installed by the end of the month, but I still have some research to do because I want to change vendors.
+— It&apos;d be a good idea to use a vendor that offers ongoing technical support. I know that Ingram Computers has an excellent reputation for customer service, and they have a comprehensive parts replacement warranty. During the warranty period, if something goes wrong they&apos;ll replace your computer outright or else lend you a computer while they repair yours.
+— Yeah, I&apos;ve heard really good things about Ingram too. We get their brochures in the mail all the time.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What is the woman doing?</string>
+				<key>A</key>
+				<string>Repairing the computers</string>
+				<key>B</key>
+				<string>Researching new computers</string>
+				<key>C</key>
+				<string>Selling used computers</string>
+				<key>D</key>
+				<string>Maintaining the computers</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What does the woman need?</string>
+				<key>A</key>
+				<string>Advice on purchasing electronics</string>
+				<key>B</key>
+				<string>Feedback on the old computers</string>
+				<key>C</key>
+				<string>Computer software sales</string>
+				<key>D</key>
+				<string>Information on available computers</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What does the man suggest the woman do?</string>
+				<key>A</key>
+				<string>Consult with a computer specialist</string>
+				<key>B</key>
+				<string>Ask Caitlin for some suggestions</string>
+				<key>C</key>
+				<string>Find a company that offers good customer service</string>
+				<key>D</key>
+				<string>Locate a different vendor than Ingram Computers</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— Have you had a chance to read through the contract yet?
+— Yes I have. It looks good, but I didn&apos;t completely understand the non-disclosure clause.
+— Oh, that means once you come to work for us, if you leave our company for any reason, you cannot tell anyone technical information about our products.
+— Yes, that makes sense. You do have to protect your trade secrets. Well then, everything looks like it&apos;s in order.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What is the relationship between the speakers?</string>
+				<key>A</key>
+				<string>Manager-employee</string>
+				<key>B</key>
+				<string>Waiter-customer</string>
+				<key>C</key>
+				<string>Employer-candidate</string>
+				<key>D</key>
+				<string>Professor-student</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What does the woman ask the man?</string>
+				<key>A</key>
+				<string>To give her a higher salary</string>
+				<key>B</key>
+				<string>To explain about benefits</string>
+				<key>C</key>
+				<string> To disclose trade secrets</string>
+				<key>D</key>
+				<string>To clarify a contract section</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What will the woman probably do next?</string>
+				<key>A</key>
+				<string>Ask a question</string>
+				<key>B</key>
+				<string>Decline an offer</string>
+				<key>C</key>
+				<string>Sign the contract</string>
+				<key>D</key>
+				<string>Phone her attorney</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— Hello, Thomas? This is Debra. I&apos;m on my way to Jim&apos;s office, but I&apos;m a bit confused.
+— Where are you?
+— I&apos;m at the 24th Street Station. Should I go north or south on 24th?
+— Actually, the best thing to do would be to ride two more stops, to Alder Street. At the Alder Street Station, go out the east door and turn left. Walk down Alder about two blocks to 24th, and turn right. Jim&apos;s office will be a half-block down on the right hand side.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>How is the woman most likely traveling?</string>
+				<key>A</key>
+				<string>By car</string>
+				<key>B</key>
+				<string>By subway</string>
+				<key>C</key>
+				<string>By taxi</string>
+				<key>D</key>
+				<string>By bus</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What problem does the woman have?</string>
+				<key>A</key>
+				<string>She does not know where she is.</string>
+				<key>B</key>
+				<string>She cannot find the directions.</string>
+				<key>C</key>
+				<string> She is walking in the wrong direction.</string>
+				<key>D</key>
+				<string>She is at the wrong station.</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What does the man suggest?</string>
+				<key>A</key>
+				<string>Heading north on 24th Street</string>
+				<key>B</key>
+				<string>Walking to Alder Street</string>
+				<key>C</key>
+				<string>Going to a different station</string>
+				<key>D</key>
+				<string>Calling Jim&apos;s office for help</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— Next on the agenda is a financial report. Simon.
+— Well, this was a good quarter for us. As you can see -- if I can just get this slide to work, ah there it is -- our revenues exceeded expenditures by about $10,000. Much of that was due to holiday sales. As this chart shows, this holiday season was about 10 percent better than last year&apos;s.
+— That&apos;s certainly good news. So how do we stand overall?
+— Well, despite this quarter we&apos;re still in the red, but we&apos;ve closed the gap considerably. Here&apos;s what it looks like. We have $100,000 in credits against $120,000 in debits.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>When does the conversation take place?</string>
+				<key>A</key>
+				<string>During a meeting</string>
+				<key>B</key>
+				<string>During an interview</string>
+				<key>C</key>
+				<string>During a TV show</string>
+				<key>D</key>
+				<string>During lunch</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What does the man say about the quarter?</string>
+				<key>A</key>
+				<string>Expenditures exceeded revenues.</string>
+				<key>B</key>
+				<string>Holiday sales were down.</string>
+				<key>C</key>
+				<string>It was profitable.</string>
+				<key>D</key>
+				<string> It put the company in the black.</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What position does the woman hold?</string>
+				<key>A</key>
+				<string>Receptionist</string>
+				<key>B</key>
+				<string>Sales person</string>
+				<key>C</key>
+				<string>Comptroller</string>
+				<key>D</key>
+				<string>Manager</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— Hello, is Randy Johnson available?
+— Mr. Johnson is in a meeting right now. Would you like to leave a message for him?
+— Yes please. This is Charley Cowles from Gecko Insurance. Could you please have him call me back as soon as he can? My number is 655-829-0657.
+— Sure. And can I tell him what this is regarding?</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>Who does the man want to speak to?</string>
+				<key>A</key>
+				<string>Charley Cowles</string>
+				<key>B</key>
+				<string>Randy Johnson</string>
+				<key>C</key>
+				<string>Gecko Insurance</string>
+				<key>D</key>
+				<string>William Beane</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What does the woman offer to do?</string>
+				<key>A</key>
+				<string>Make a phone call</string>
+				<key>B</key>
+				<string>Call Charley Cowles</string>
+				<key>C</key>
+				<string>Take a message</string>
+				<key>D</key>
+				<string>Page Randy Johnson</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What does the man ask Randy Johnson to do?</string>
+				<key>A</key>
+				<string>Send him a fax</string>
+				<key>B</key>
+				<string>Leave a message</string>
+				<key>C</key>
+				<string>Write him a letter</string>
+				<key>D</key>
+				<string>Return his call</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— Thanks for all your hard work. The yard looks fantastic, and it&apos;s nice to have the bushes trimmed. I was wondering if you could do me a small favor?
+— I&apos;ll try, ma&apos;m.
+— Could you please hold this check until Thursday. I don&apos;t get paid &apos;til then, and I don&apos;t want it to bounce.
+— Sure, no problem. I know how it is with a bounced check. We&apos;ll both have to pay fees. Tell you what, I&apos;ll hold it until Saturday, just to be safe.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What position does the man hold?</string>
+				<key>A</key>
+				<string>Laborer</string>
+				<key>B</key>
+				<string>Banker</string>
+				<key>C</key>
+				<string>Executive</string>
+				<key>D</key>
+				<string>Engineer</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What does the woman want the man to do?</string>
+				<key>A</key>
+				<string>Bounce a check</string>
+				<key>B</key>
+				<string>Delay a deposit</string>
+				<key>C</key>
+				<string>Pay a fee</string>
+				<key>D</key>
+				<string>Trim the bushes</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What does the man offer to do?</string>
+				<key>A</key>
+				<string>Work for free</string>
+				<key>B</key>
+				<string>Return on Saturday</string>
+				<key>C</key>
+				<string>Hold the check longer</string>
+				<key>D</key>
+				<string>Refund the woman&apos;s money</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— Hi. I deposited $500 into my checking account, but when I tried to withdraw, the ATM machine outside wouldn&apos;t let me take it out.
+— I see. When did you make the deposit?
+— On Monday. It was a $500 check. Do you want the transaction number?
+— No, I don&apos;t need it. If you deposited on Monday, the funds should be available to you by tomorrow afternoon. We place a three-day hold on all deposits, to make sure the money clears from the check-writer&apos;s bank.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string> Who most likely is the man?</string>
+				<key>A</key>
+				<string>A financial adviser </string>
+				<key>B</key>
+				<string>A bank CEO </string>
+				<key>C</key>
+				<string>A customer service agent </string>
+				<key>D</key>
+				<string>An attorney </string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What information does the woman offer to give the man?</string>
+				<key>A</key>
+				<string>Her account number </string>
+				<key>B</key>
+				<string>Her address </string>
+				<key>C</key>
+				<string> A check number </string>
+				<key>D</key>
+				<string>A verification code </string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>Why can&apos;t the woman access her funds?</string>
+				<key>A</key>
+				<string>She did not deposit enough money. </string>
+				<key>B</key>
+				<string>The bank made an error. </string>
+				<key>C</key>
+				<string>There is a waiting period. </string>
+				<key>D</key>
+				<string> It was a bad check. </string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— Excuse me, please. Do you have these Brooksbury trousers in size 38?
+— I&apos;m sorry, but we&apos;re out of size 38 in Brooksbury. We do have 38s in Foster trousers. They&apos;re 100 percent cotton, very comfortable and stylish. Would you like to try on a pair of those?
+— Hmm, all right. How about these Brooksbury shirts? Do you have any larges in blue?
+— I&apos;m afraid not. We have Foster larges in blue. Why don&apos;t you try one of those to match your pants?</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>Where is this conversation most likely taking place?</string>
+				<key>A</key>
+				<string>In a clothing store</string>
+				<key>B</key>
+				<string>In a pharmacy</string>
+				<key>C</key>
+				<string>In an office</string>
+				<key>D</key>
+				<string> In a supermarket</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What position does the woman hold?</string>
+				<key>A</key>
+				<string>Customer</string>
+				<key>B</key>
+				<string>Housewife</string>
+				<key>C</key>
+				<string>Sales person</string>
+				<key>D</key>
+				<string>Receptionist
+</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What does the woman suggest that the man do?</string>
+				<key>A</key>
+				<string> Try a different brand</string>
+				<key>B</key>
+				<string>Visit a competitor</string>
+				<key>C</key>
+				<string>Get a larger size</string>
+				<key>D</key>
+				<string>Try a different color</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— Can you help me please? My flight to Boston&apos;s been delayed until 8 o&apos;clock, but I need to be there by 5. Do you have any other flights I can take?
+— We have flights that leave at 2 and 3:30. But they&apos;re both full. I could book you on standby for each of them. If someone doesn&apos;t show up, you can have their seat.
+— What do you think my chances are of getting on? I have an important meeting that I really can&apos;t miss.
+— Well, there are two passengers ahead of you on the standby list. If you want to make sure you get to Boston on time, I could refund your money and you could try another airline.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>Where does this conversation most likely take place?</string>
+				<key>A</key>
+				<string>At a travel agency</string>
+				<key>B</key>
+				<string>At a store</string>
+				<key>C</key>
+				<string>At a ticket counter</string>
+				<key>D</key>
+				<string>At a cafe</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What is the woman&apos;s problem?</string>
+				<key>A</key>
+				<string> Her flight has been cancelled.</string>
+				<key>B</key>
+				<string>She lost her ticket.</string>
+				<key>C</key>
+				<string>Her plane will depart late.</string>
+				<key>D</key>
+				<string>She cannot fly standby.</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What does the man suggest?</string>
+				<key>A</key>
+				<string>Taking a train</string>
+				<key>B</key>
+				<string>Trying a competitor</string>
+				<key>C</key>
+				<string>Canceling a meeting</string>
+				<key>D</key>
+				<string>Paying more money</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— Excuse me. Is this the registration table for the Future Automobile Convention?
+— Yes sir. What&apos;s your name please? I&apos;ll find your information package and a name tag.
+— My name&apos;s Paul Hernandez. Also, would you happen to know when the discussion on plug-in electric cars will take place?
+— Let&apos;s see. That&apos;s scheduled for 3 p.m. in Building A. Room 322.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>Where most likely are the speakers?</string>
+				<key>A</key>
+				<string>In a car dealership</string>
+				<key>B</key>
+				<string>In a manager&apos;s office</string>
+				<key>C</key>
+				<string>In a convention center</string>
+				<key>D</key>
+				<string>In an electricity plant</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What will Mr. Hernandez receive?</string>
+				<key>A</key>
+				<string>An information packet</string>
+				<key>B</key>
+				<string>A list of names</string>
+				<key>C</key>
+				<string>A registration form</string>
+				<key>D</key>
+				<string> A training package</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What does Mr. Hernandez ask about?</string>
+				<key>A</key>
+				<string>The subject of a discussion</string>
+				<key>B</key>
+				<string>The location of a hotel room</string>
+				<key>C</key>
+				<string>The cost of registration</string>
+				<key>D</key>
+				<string>The time of an event</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>— King Card customer service. How can I help you today?
+— Yes, my purse has been stolen. I need to cancel my credit card and get a new one.
+— I&apos;m sorry to hear that. Hold on a second... OK, now, what is the name on the credit card? And what is the account number?
+— It&apos;s Diana Shidler, S-H-I-D-L-E-R.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What does the woman want to do?</string>
+				<key>A</key>
+				<string>Move to Las Vegas</string>
+				<key>B</key>
+				<string>Work overtime</string>
+				<key>C</key>
+				<string>Make a dentist appointment</string>
+				<key>D</key>
+				<string>Change her work schedule</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What does the man say about Lacy?</string>
+				<key>A</key>
+				<string>She wants to work more often.</string>
+				<key>B</key>
+				<string>She always works on Friday.</string>
+				<key>C</key>
+				<string>She is looking for a different job.</string>
+				<key>D</key>
+				<string>She is available on Monday.</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What day will the woman probably take off?</string>
+				<key>A</key>
+				<string>Monday</string>
+				<key>B</key>
+				<string>Friday</string>
+				<key>C</key>
+				<string>Saturday</string>
+				<key>D</key>
+				<string>Sunday</string>
+			</dict>
+		</array>
+	</dict>
 </array>
 </plist>

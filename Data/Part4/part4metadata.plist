@@ -206,5 +206,1025 @@
 			</dict>
 		</array>
 	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>Bad credit? Low credit? No credit? It doesn&apos;t matter during &quot;Mattress Madness&quot; days, on now at Sleep Tight USA. From now through Saturday, you can get tremendous deals, like this luxurious Saffron goose-down queen-size mattress for just $99! Or this Posture Perfect-rand king mattress for only $129. Got kids? How about this set of Panama twin mattresses, slashed down from $349 to only $200. Have we gone mad? Yes! But only for a limited time. &quot;Mattress Madness&quot; ends at midnight Saturday, so get in here now for great bargains and free delivery when you buy two mattresses or more. Sleep Tight has three locations to serve you better: Mega-Mall, South Plains Mall, and Northlake Mall. Sleep Right at Sleep Tight during &quot;Mattress Madness&quot; days!</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>Where is this advertisement most likely being broadcast?</string>
+				<key>A</key>
+				<string>On radio</string>
+				<key>B</key>
+				<string>On the Internet</string>
+				<key>C</key>
+				<string>On television</string>
+				<key>D</key>
+				<string>On an airplane</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What is being advertised?</string>
+				<key>A</key>
+				<string>Low credit</string>
+				<key>B</key>
+				<string>Free delivery</string>
+				<key>C</key>
+				<string>Used mattresses</string>
+				<key>D</key>
+				<string>A special sale</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What does the speaker urge listeners to do?</string>
+				<key>A</key>
+				<string> Buy a queen-size mattress</string>
+				<key>B</key>
+				<string>Come to a Sleep Tight store</string>
+				<key>C</key>
+				<string>Shop over the Internet</string>
+				<key>D</key>
+				<string>Wait until midnight Saturday</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>Ladies and gentlemen, can I have your attention please? It&apos;s time for tonight&apos;s &quot;Lucky Fan&quot; drawing. If your ticket stub is called, you&apos;ll receive a wonderful prize package consisting of a team jacket, an autographed team poster, a $50 gift certificate to Big Steaks Restaurant, and two tickets to an upcoming game. OK, get your stubs out. Tonight&apos;s winner is sitting in section 28, row G, seat 202. Congratulations! There she is, on the jumbo screen! To claim your prize, bring your ticket stub to the fan information booth adjacent to tunnel 28 before the end of the game. The rest of you, remember to keep your ticket stub from tonight&apos;s game. It entitles you to $5 off a regular wash and wax at any Red Panda Car Wash location.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>Where would this announcement most likely be heard?</string>
+				<key>A</key>
+				<string>At a stadium</string>
+				<key>B</key>
+				<string>In a cinema</string>
+				<key>C</key>
+				<string>In a restaurant</string>
+				<key>D</key>
+				<string>At a concert</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What is the speaker offering?</string>
+				<key>A</key>
+				<string>An autographed ball</string>
+				<key>B</key>
+				<string> Free gifts</string>
+				<key>C</key>
+				<string>Ticket stubs</string>
+				<key>D</key>
+				<string>A free car wash</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What should people do if they win the drawing?</string>
+				<key>A</key>
+				<string>Keep their ticket stubs</string>
+				<key>B</key>
+				<string>Go to a special booth</string>
+				<key>C</key>
+				<string>Appear on television</string>
+				<key>D</key>
+				<string>Get their car washed</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>Clinton City has announced delays and closures for schools due to the big snowstorm this morning. All public elementary, middle and high schools will begin two hours late. Because of ice on the roads, buses will pick children up at their special snow-stop locations, instead of the regular bus stops. If you do not know where your child&apos;s snow bus stop is, call the district transportation office at 555-3343. Schools will end at the regular time, but all after-school activities today have been cancelled. Buses will deliver students to their snow-stop locations. All private elementary, middle and high schools have cancelled school today. Community colleges, as well as City University, will begin one hour late this morning. For updated information on the snowstorm, visit the city website at www.clintoncity.com.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What is the main purpose of the radio announcement?</string>
+				<key>A</key>
+				<string>To warn about a big snowstorm</string>
+				<key>B</key>
+				<string>To remind drivers of icy roadways</string>
+				<key>C</key>
+				<string>To inform people of schedule changes</string>
+				<key>D</key>
+				<string>To publicize the city&apos;s web site</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What should students who take the bus do?</string>
+				<key>A</key>
+				<string>Get a ride with their parents</string>
+				<key>B</key>
+				<string>Wait at a special bus stop</string>
+				<key>C</key>
+				<string>Get to their bus stop early</string>
+				<key>D</key>
+				<string>Take the bus as usual</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>When will community colleges begin?</string>
+				<key>A</key>
+				<string>At the normal time</string>
+				<key>B</key>
+				<string>Two hours late</string>
+				<key>C</key>
+				<string>They have been cancelled</string>
+				<key>D</key>
+				<string>One hour late</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>How do we attract and retain customers? That&apos;s a great question, and for a retailer, probably the most crucial one to address. First, we pay a lot of attention to detail -- the way our stores look, the lighting, the cleanliness. Is the parking lot clean? Are the signs visible and easy to read? Second, we invest in our associates. We pay merit increases, we pay bonuses, and make contributions to their retirement plans. We believe that satisfied workers equals satisfied customers. We just introduced something we call power hours. In the hours that traffic is heaviest, we stop all activity that the customers can&apos;t see, like back-room unloading and storing, and put every associate out on the main floor. It&apos;s really that belly-to-belly experience that makes people want to come back. We hear from about 100,000 customers each week, and they rate us on a number of attributes. So far, they tell us that we&apos;re doing the right things.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>Who is probably making this speech?</string>
+				<key>A</key>
+				<string>A college professor</string>
+				<key>B</key>
+				<string>A business recruiter</string>
+				<key>C</key>
+				<string>A company executive</string>
+				<key>D</key>
+				<string>An advertising salesman</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What is the purpose of the speech?</string>
+				<key>A</key>
+				<string>To persuade consumers</string>
+				<key>B</key>
+				<string>To impart information</string>
+				<key>C</key>
+				<string>To debate policy</string>
+				<key>D</key>
+				<string>To explain a problem</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>When will employees be paid?</string>
+				<key>A</key>
+				<string>At the middle and end of each month</string>
+				<key>B</key>
+				<string>By 5 p.m. each Friday</string>
+				<key>C</key>
+				<string>After they work overtime</string>
+				<key>D</key>
+				<string>Before the weekends</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>Looking at our county-wide traffic map, we see that traffic is crawling along the valley freeway right now, as well as the southbound lanes of Interstate 6. Elsewhere it looks pretty good, with volumes on northbound Interstate 6 beginning to build up here, near Headport, and again here south of the city near Duwamps. A check of the KAPE real-time camera shows a smooth commute at this hour through downtown Floss. Now, switching to the eastside camera, we can see a stalled vehicle backing up traffic on State Route 7. But I see flashing lights, so help is on the scene. That&apos;s traffic at this hour, still pretty light but starting to build. I&apos;m Ross Dinsmore for KAPE news.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>Who is the intended audience?</string>
+				<key>A</key>
+				<string>Radio listeners</string>
+				<key>B</key>
+				<string>TV viewers</string>
+				<key>C</key>
+				<string>Football fans</string>
+				<key>D</key>
+				<string>Movie patrons</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What is the main purpose of the report?</string>
+				<key>A</key>
+				<string>To present the news</string>
+				<key>B</key>
+				<string>To introduce Ross Dinsmore</string>
+				<key>C</key>
+				<string>To update traffic</string>
+				<key>D</key>
+				<string>To find a stalled vehicle</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string> Where is the speaker now?</string>
+				<key>A</key>
+				<string>Inside a building</string>
+				<key>B</key>
+				<string>Outside near a road</string>
+				<key>C</key>
+				<string>In a helicopter</string>
+				<key>D</key>
+				<string>At his home</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>The leaves are changing color, the kids are back in school, and that means it&apos;s time for the annual fall savings spectacular at Lacy&apos;s Department Stores. For the next five days, you can save big on a wide variety of items for your home and family. In Lacy&apos;s furniture department, save 35 percent on Italian leather sofas, and as much as 50 percent on all Lazy-Man reclining chairs. Are you bundled up for the winter? Children&apos;s coats are 25- to 40-percent off, and men&apos;s and women&apos;s ski parkas are 30-60 percent off. Need a new dishwasher? Mayday dishwashers are on sale for only $199. Or perhaps it&apos;s time for a new mattress? We have Sleep Sound king- and queen-sizes for just $95! Don&apos;t miss this year&apos;s Lacy&apos;s fall spectacular, now through Friday. Hurry in today!</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What is being advertised?</string>
+				<key>A</key>
+				<string>Leather sofas </string>
+				<key>B</key>
+				<string> A special sale </string>
+				<key>C</key>
+				<string>A one-time discount </string>
+				<key>D</key>
+				<string>Children&apos;s jackets </string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>How long will the fall spectacular last?</string>
+				<key>A</key>
+				<string>Through autumn </string>
+				<key>B</key>
+				<string>Until Friday </string>
+				<key>C</key>
+				<string>For five days </string>
+				<key>D</key>
+				<string>Once a year </string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What does the speaker suggest that listeners do?</string>
+				<key>A</key>
+				<string>Call for more information </string>
+				<key>B</key>
+				<string>Come to the store quickly </string>
+				<key>C</key>
+				<string> Buy coats for the winter </string>
+				<key>D</key>
+				<string>Purchase a new mattress </string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>The reason we&apos;re meeting today is to introduce the plan for our new office layout. Starting next month, instead of cubicles, we will have an open office. There will be no cubicle walls or partitions. Instead, desks will be arranged in clusters for each department. The desks in each department will be facing each other in clusters of four or six. We feel this will facilitate better communication between workers in each departments. It will also create a more welcoming environment for clients. The department managers will still have their own offices, but each will have large windows and glass doors, to make employees and clients feel welcome to come inside. We&apos;re also going to paint the walls and put in new carpeting. The project will start on the first of next month and should take about three weeks to complete. We will be moving to the third floor during that period.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What is the speaker mainly discussing?</string>
+				<key>A</key>
+				<string>An office renovation</string>
+				<key>B</key>
+				<string>Building construction</string>
+				<key>C</key>
+				<string> A marketing campaign</string>
+				<key>D</key>
+				<string>New carpeting</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What does the speaker say about the new layout?</string>
+				<key>A</key>
+				<string>The desks will be facing away from each other.</string>
+				<key>B</key>
+				<string>Department managers will sit in cubicles.</string>
+				<key>C</key>
+				<string>It will increase the number of sales to clients.</string>
+				<key>D</key>
+				<string>It will improve employee communication.</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What is NOT true about plans for the office?</string>
+				<key>A</key>
+				<string>The walls will be painted.</string>
+				<key>B</key>
+				<string>New carpeting will be installed.</string>
+				<key>C</key>
+				<string>Work will begin next year.</string>
+				<key>D</key>
+				<string>The work will take three weeks.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>Welcome to Global Airlines&apos; inaugural flight from Portland to Tokyo. All passengers this morning will receive a commemorative medallion, as well as a $50 coupon to be applied toward future flights on Global Airlines. To celebrate this special occasion, we are serving complimentary snacks and drinks in the Global Airlines lounge next to the boarding gate. There will be speeches by Global Airlines President Juan Guittierez, and Portland mayor Jean Andreessen. Afterward, enjoy music by the local trio Three Tree Point. Boarding times for our historic flight will be as follows: All handicapped persons or those requiring special assistance will board at 3 o&apos;clock. Business-class passengers will board at 3:10. Passengers in rows 1 to 30 will start boarding at 3:20, and passengers in rows 30 to 50 will begin boarding at 3:30. If you have any questions about the flight today, or about our new round-trip service to Tokyo, please visit the Global Airlines service counter on the main concourse. Thank you for choosing Global!</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What is the main purpose of the announcement?</string>
+				<key>A</key>
+				<string>To introduce Global executives</string>
+				<key>B</key>
+				<string>To initiate boarding procedures</string>
+				<key>C</key>
+				<string>To answer customer questions</string>
+				<key>D</key>
+				<string>To celebrate a new flight</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What will each passenger receive?</string>
+				<key>A</key>
+				<string>A discount coupon</string>
+				<key>B</key>
+				<string>A special trophy</string>
+				<key>C</key>
+				<string>A commemorative T-shirt</string>
+				<key>D</key>
+				<string>A complimentary dinner</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What should passengers do if they have questions?</string>
+				<key>A</key>
+				<string>Ask the pilot</string>
+				<key>B</key>
+				<string>Visit the customer-service counter</string>
+				<key>C</key>
+				<string>Wait for a special announcement</string>
+				<key>D</key>
+				<string>Receive a brochure</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>Hello, this is Tony with Community Charities. I&apos;m calling to let you know we&apos;ll have a truck in your area on the 7th. We accept donations of clean used clothing; curtains and blinds; and blankets and bedding. We also accept small household appliances such as toasters and microwave ovens; cooking utensils; small children&apos;s toys; and books and magazines. There is a special need this winter for warm hats and gloves. If you would like to donate, please put your items in a large bag or box, and set them on your front porch or the curb in front of your house by 7 a.m. Wednesday, the 7th. Make sure the bags or boxes are marked &quot;CC&quot; in large letters. Our driver will leave you a donation receipt. If you have any questions, please call us at 1-888-555-5353. Thank you, and have a great day!</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What is the main purpose of this message?</string>
+				<key>A</key>
+				<string>To help homeless people</string>
+				<key>B</key>
+				<string>To raise money for charity</string>
+				<key>C</key>
+				<string>To solicit charitable donations</string>
+				<key>D</key>
+				<string> To remind about an appointment</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>Who is this message for?</string>
+				<key>A</key>
+				<string>Businesses</string>
+				<key>B</key>
+				<string>Children</string>
+				<key>C</key>
+				<string>Homeowners</string>
+				<key>D</key>
+				<string>College students</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>When will the truck be in the area?</string>
+				<key>A</key>
+				<string>By 7 a.m.</string>
+				<key>B</key>
+				<string>Next Wednesday</string>
+				<key>C</key>
+				<string>On the 2nd</string>
+				<key>D</key>
+				<string>On the 7th</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>I&apos;d like to focus a little bit on the year ahead. Starting in January, we will place increased emphasis on retaining customer deposits. We will be raising the rates on our certificates of deposits from 3 percent to 3.5 percent, and offering customers incentives, including free ipods, for opening new checking accounts with direct deposits. This is in response to the aggressive push by online depositories and credit unions, which are enticing customers with higher interest rates. This is squeezing our interest margin and decreasing our profitability. We can&apos;t lend money that we don&apos;t have, right? At the same time, we will be switching the title of &quot;loan officers&quot; to &quot;relationship officers.&quot; A large part of their job now will be to recruit, and retain, new deposits.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>Who is most likely listening to the talk?</string>
+				<key>A</key>
+				<string>Supermarket managers</string>
+				<key>B</key>
+				<string>Credit Union CEOs</string>
+				<key>C</key>
+				<string> Bank employees</string>
+				<key>D</key>
+				<string>Relationship officers</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What is the talk probably taking place?</string>
+				<key>A</key>
+				<string>At a business meeting</string>
+				<key>B</key>
+				<string>In a university classroom</string>
+				<key>C</key>
+				<string>At a credit union</string>
+				<key>D</key>
+				<string>In a restaurant</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What is the main purpose of the talk?</string>
+				<key>A</key>
+				<string>To raise deposit rates</string>
+				<key>B</key>
+				<string>To attract new customers</string>
+				<key>C</key>
+				<string>To get new deposits</string>
+				<key>D</key>
+				<string>To announce future changes</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>Thank you all for coming. After considering several factors, including the questionnaires you completed last spring, we&apos;ve decided that we&apos;re going to switch to four-day workweeks, beginning next month. We will work 10 hours a day, from 7 a.m. to 6 p.m., on Monday through Thursday. The office will be closed Fridays. Though we will still work 40 hours a week, we estimate that this change will reduce our energy use by 15 percent, and will also save each of you, on average, about $20 a month in gas and transportation costs. Overall, this change will significantly cut our company&apos;s greenhouse transmissions and reduce our carbon footprint. To save even more energy, we will be installing compact fluorescent light bulbs -- CFLs -- in every light socket at the start of next week. During the changeover period, we understand that some of you, particularly those with young children, might need special accommodations as you adjust to a four-day week. If you have troubles or concerns, let your manager know. We&apos;ll be happy to help you any way we can. Though this might be traumatic at first, we&apos;re confident that most of you will like the new schedule once you&apos;ve grown accustomed to the change.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What is the speaker announcing?</string>
+				<key>A</key>
+				<string>A longer workweek</string>
+				<key>B</key>
+				<string>A major change</string>
+				<key>C</key>
+				<string>A special promotion</string>
+				<key>D</key>
+				<string>A new questionnaire</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>Why will the company be closed on Fridays?</string>
+				<key>A</key>
+				<string>To give workers a rest</string>
+				<key>B</key>
+				<string>To reduce expenses</string>
+				<key>C</key>
+				<string>To save energy</string>
+				<key>D</key>
+				<string>To install new light bulbs</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What should listeners do if they need help?</string>
+				<key>A</key>
+				<string>Inform their manager</string>
+				<key>B</key>
+				<string>E-mail the speaker</string>
+				<key>C</key>
+				<string>Complete a questionnaire</string>
+				<key>D</key>
+				<string>Fill out a special form</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>This is Tom Moran with a KST-AM traffic update. Volume on the two major east-west roadways, Interstate 50 and Highway 44, is very heavy this afternoon as people head out of town for the holiday weekend. There are no accidents on either road, but on Interstate 50 there is a 90-minute delay getting over the mountain pass. North-south traffic looks good at this hour. Interstate 3 is mostly clear in both directions, with a little slowing northbound near the City Center exit due to an earlier two-car collision that has been moved off to the shoulder. We&apos;re getting reports now of a backup on Highway 10 southbound near Rodgers Street, where some furniture has fallen off the back of a pickup truck in the far left lane. Police are on the scene, helping the driver pick everything up. This is Tom Moran from the KST-AM traffic center, which provides traffic updates every 20 minutes.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>Who is most likely listening to the report?</string>
+				<key>A</key>
+				<string>Bus drivers</string>
+				<key>B</key>
+				<string>Workers</string>
+				<key>C</key>
+				<string>Commuters</string>
+				<key>D</key>
+				<string>Teenagers</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>Why is east and west traffic moving slowly?</string>
+				<key>A</key>
+				<string>There has been a collision.</string>
+				<key>B</key>
+				<string>It is a holiday.</string>
+				<key>C</key>
+				<string> It is rush hour.</string>
+				<key>D</key>
+				<string>There is road repair.</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What happened on Highway 10?</string>
+				<key>A</key>
+				<string>A debris spill</string>
+				<key>B</key>
+				<string>A two-car accident</string>
+				<key>C</key>
+				<string> A 90-minute delay</string>
+				<key>D</key>
+				<string>A slight slowdown</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>Hello Mr. and Mrs. Krawshack. My name is Sandra Doeic, and I&apos;m calling on behalf of the National Leukemia Foundation. We desperately need your help this year in our battle to find a cure for leukemia. Your gift of $100, $200 or $300 goes directly to scientific research on this deadly disease, and is completely tax deductible. It might help save the life of a friend or family member one day. Won&apos;t you consider donating this year? We realize that times are tough, and any amount, even as small as $5, would be greatly appreciated. To make a pledge to the NLF, please call 800-555-8846 between 8 a.m. and 5 p.m. - that&apos;s eastern time - or visit our website at www.nlf.org. If you&apos;d prefer to mail a contribution, you may send it to NLF, 2503 Gates Drive NW, Seattle, WA, 98178. Thank you for your time, Mr. and Mrs. Krawshack, and we hope you will be able to help.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What is the message for?</string>
+				<key>A</key>
+				<string>The Krawshacks</string>
+				<key>B</key>
+				<string>Sandra Doeic</string>
+				<key>C</key>
+				<string>The National Leukemia Foundation</string>
+				<key>D</key>
+				<string>Scientific research</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What is the purpose of the message?</string>
+				<key>A</key>
+				<string>To get a free gift</string>
+				<key>B</key>
+				<string>To help a friend or family member</string>
+				<key>C</key>
+				<string>To cure leukemia</string>
+				<key>D</key>
+				<string>To solicit money</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>When should the listeners telephone the NLF?</string>
+				<key>A</key>
+				<string>Between 9 a.m. and 4 p.m. western time</string>
+				<key>B</key>
+				<string>Between 8 a.m. and 9 p.m. central time</string>
+				<key>C</key>
+				<string>Between 5 a.m. and 8 p.m. pacific time</string>
+				<key>D</key>
+				<string>Between 8 a.m. and 5 p.m. eastern time</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>Hi, this message is for Liam. My name&apos;s Andy Smith, and I&apos;m calling about your ad in the Weekly for a roommate. I&apos;m very interested, and I&apos;d like to meet you and see the apartment as soon as I could. I&apos;m new in town, and I moved here because I have a job with Boogle starting next week. I&apos;m 25, a non-smoker, very reliable, and I have references from my previous landlord, Gil Harmon. If you&apos;d like to call Gil before you talk to me, his number is 555-876-0987. Again, my name is Andy, and you can reach me on my cell at 519-623-8651, or you could call me at my hotel: 519-805-2123, room 207. Thanks, Liam. I hope to hear from you soon. Bye.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>Who is the message for?</string>
+				<key>A</key>
+				<string>Liam</string>
+				<key>B</key>
+				<string>Andy Smith</string>
+				<key>C</key>
+				<string>Boogle</string>
+				<key>D</key>
+				<string>Gil Harmon</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>Why is the speaker calling?</string>
+				<key>A</key>
+				<string>To solicit a roommate</string>
+				<key>B</key>
+				<string>In reference to a job</string>
+				<key>C</key>
+				<string>To return a previous call</string>
+				<key>D</key>
+				<string>In response to an advertisement</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What does the speaker ask the listener to do?</string>
+				<key>A</key>
+				<string>Sell him a house</string>
+				<key>B</key>
+				<string>E-mail Gil Harmon</string>
+				<key>C</key>
+				<string>Call him back</string>
+				<key>D</key>
+				<string>Come to his hotel</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>Kathy Hendricks here with a live birds-eye traffic update, brought to you by Tri-State Insurance Company. Interstate 12 is flowing smoothly again now that cars involved in an earlier accident have been cleared to the shoulder, but volume on State Route 95 is starting to build. Traffic there is backed up near the city center exit due to a stalled vehicle in the right lane, and again north of the city due to a two-car injury accident on the Statesville off ramp. Interstate 1 is bumper-to-bumper on the bridge crossing the river, where work crews are re-paving part of the roadway. All other major routes look good right now, though traffic on Vine Street near the freeway entrance is slowing because of a malfunctioning traffic light. For KOKO, this is Kathy Hendricks with birds-eye traffic.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What is the purpose of this report?</string>
+				<key>A</key>
+				<string>To promote Tri-State Insurance Company</string>
+				<key>B</key>
+				<string>To announce a two-car injury accident</string>
+				<key>C</key>
+				<string>To clarify an error in a previous report</string>
+				<key>D</key>
+				<string>To inform drivers of traffic conditions</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>Why is traffic moving slowly on part of State Route 95?</string>
+				<key>A</key>
+				<string>Two cars collided at an exit.</string>
+				<key>B</key>
+				<string>There is road construction.</string>
+				<key>C</key>
+				<string>An accident was moved off the roadway.</string>
+				<key>D</key>
+				<string>There is a broken traffic signal.</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>How fast is traffic moving on the Interstate 1 bridge across the river?</string>
+				<key>A</key>
+				<string>At a normal pace</string>
+				<key>B</key>
+				<string>Quicker than usual</string>
+				<key>C</key>
+				<string>Extremely slowly</string>
+				<key>D</key>
+				<string>Completely stopped</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>Hi. My name is Mindy, and I&apos;ll be your guide today. We&apos;re going to start by visiting a sheep farm, so you can see the wool that this area is famous for. We&apos;ll watch a sheep dog perform a round up, then see a farmer shear off the sheep&apos;s wool. Next we&apos;ll visit a plant that makes apple juice, another famous local product. You&apos;ll get a chance to help pick apples, and also a carton of fresh juice to enjoy. We&apos;ll end our day by visiting our most well-known attraction, the oyster-shell opera house. While there, we&apos;ll watch a rehearsal for an upcoming performance.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>Who is the speaker probably talking to?</string>
+				<key>A</key>
+				<string>Farmers</string>
+				<key>B</key>
+				<string>Tourists</string>
+				<key>C</key>
+				<string>Managers</string>
+				<key>D</key>
+				<string>Toddlers</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What will happen first?</string>
+				<key>A</key>
+				<string>Picking apples</string>
+				<key>B</key>
+				<string>Visiting an opera house</string>
+				<key>C</key>
+				<string>Eating lunch</string>
+				<key>D</key>
+				<string>Watching a sheep dog</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>Why will the listeners go to the opera house?</string>
+				<key>A</key>
+				<string>To view a renowned landmark</string>
+				<key>B</key>
+				<string>To have a special meal</string>
+				<key>C</key>
+				<string>To take music lessons</string>
+				<key>D</key>
+				<string>To meet a famous singer</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>This is meteorologist George Bennett in the KOPS weather center. Well, summer&apos;s over and it&apos;s time to break out the umbrellas. As you can see on this KOPS satellite image, a storm front is pushing this way from the coast, bringing heavy rain and winds tonight, followed by afternoon showers tomorrow after some morning clearing. Highs will be 60 degrees today and 65 tomorrow, while lows both days will dive into the low 40s. Looking at the five-day forecast, this high-pressure system moving in from the south will bring more rain later in the week, interspersed with periods of partial clearing. Highs toward the end of the week will inch down toward 60, with lows possibly reaching the mid-30s. As we look out over the eastern part of the state, things look dryer there, with no rain expected and highs holding steady in the mid- to upper-70s for the next week or so.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>Where is this report probably taking place?</string>
+				<key>A</key>
+				<string>On radio</string>
+				<key>B</key>
+				<string>In an office</string>
+				<key>C</key>
+				<string>On television</string>
+				<key>D</key>
+				<string>On the Internet</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What does the speaker advise the audience to do?</string>
+				<key>A</key>
+				<string>Look at a satellite photo</string>
+				<key>B</key>
+				<string>Take a vacation</string>
+				<key>C</key>
+				<string>Break out suntan lotion</string>
+				<key>D</key>
+				<string>Prepare for rain</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What will happen over the next five days?</string>
+				<key>A</key>
+				<string>Temperatures will rise.</string>
+				<key>B</key>
+				<string>The rain will lessen, then stop.</string>
+				<key>C</key>
+				<string>It will gradually get colder.</string>
+				<key>D</key>
+				<string>It will rain in the east part of the state.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>Are you paying too much for car and home insurance? Call SureCo today and find out. A fifteen-minute phone call could save you hundreds a year on insurance for your car, home, and other vehicles. With features such as good-driver discounts, bundled auto- and home-insurance rates, and an accident forgiveness policy, you&apos;re bound to find protection that meets your needs, AND saves you money. New SureCo customers last year saved an average of $330. But that&apos;s not all. At SureCo, our experienced and friendly representatives are available 24-7 to answer your questions and settle claims quickly and efficiently. And with more than 1,000 offices nationwide, we&apos;re always nearby. Don&apos;t you owe it to yourself to call SureCo and compare? Call today: 888-555-2121. That&apos;s 888-555-2121. SureCo. In the service business for over 50 years.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What is being advertised?</string>
+				<key>A</key>
+				<string>Car and boat insurance</string>
+				<key>B</key>
+				<string>Life and health insurance</string>
+				<key>C</key>
+				<string>Auto and house insurance</string>
+				<key>D</key>
+				<string>Home and fire insurance</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What does the speaker urge listeners to do?</string>
+				<key>A</key>
+				<string> Switch to SureCo</string>
+				<key>B</key>
+				<string>Make a telephone call</string>
+				<key>C</key>
+				<string>Lower insurance rates</string>
+				<key>D</key>
+				<string>Save $330</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What is suggested about SureCo?</string>
+				<key>A</key>
+				<string>It is a well-respected company.</string>
+				<key>B</key>
+				<string>It is an international conglomerate.</string>
+				<key>C</key>
+				<string> It is a young, non-traditional company.</string>
+				<key>D</key>
+				<string>It specializes in home insurance.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>Hello, this is Felicia Morgan from Ron Valencia&apos;s office calling for Robert Douglas. Mr. Douglas, Mr. Valencia would like to confirm that you received his fax yesterday with the agenda for the conference on the 24th. Additionally, he would like to schedule a conference call with you and Frederick Pepper next week to discuss the conference. Mr. Valencia is available Monday and Wednesday mornings, and Tuesday and Friday afternoons. You can confirm the fax and schedule an appointment by phoning me at 456-9876. Again, my name&apos;s Felecia Morgan. Thank you.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>Who is the message for?</string>
+				<key>A</key>
+				<string>Felicia Morgan</string>
+				<key>B</key>
+				<string>Ron Valencia</string>
+				<key>C</key>
+				<string>Robert Douglas</string>
+				<key>D</key>
+				<string>Frederick Pepper</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What will happen on the 24th?</string>
+				<key>A</key>
+				<string>A conference</string>
+				<key>B</key>
+				<string>A conference call</string>
+				<key>C</key>
+				<string>A job interview</string>
+				<key>D</key>
+				<string>A fax request</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What should the listener do?</string>
+				<key>A</key>
+				<string>Page Ron Valencia</string>
+				<key>B</key>
+				<string>Contact Frederick Pepper</string>
+				<key>C</key>
+				<string>Fax Robert Douglas</string>
+				<key>D</key>
+				<string>Phone Felicia Morgan</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>We are pleased to announce the grand opening of our company&apos;s new day-care center, located on the third floor next to the lunch room. The center is open to employees&apos; children between the ages of 2 and 5. Starting next Monday, eligible employees can drop off their youngsters at the day-care center beginning at 7 a.m., and pick them up no later than 6 p.m. The cost is $20 an hour per child, and includes lunch and snacks. For those who work part-time, half-day and drop-in options are available. Our center features six experienced teachers, and includes modern play equipment and learning materials. It has 3,000 square feet, including a main play area, a lunch room, and three separate class rooms: one for two- and three-year-olds, one for four-year-olds, and one for five-year-olds. Don&apos;t worry, moms and dads. Your children will be safe, warm, and, best of all, nearby! You are welcome to visit them on the third floor during lunch hour and work breaks.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>Who is the intended audience for this announcement?</string>
+				<key>A</key>
+				<string>The general public</string>
+				<key>B</key>
+				<string>Company employees</string>
+				<key>C</key>
+				<string>Grandparents</string>
+				<key>D</key>
+				<string>Day care students</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>Where is the day-care center located?</string>
+				<key>A</key>
+				<string>Near company headquarters</string>
+				<key>B</key>
+				<string>Next door to a school</string>
+				<key>C</key>
+				<string> In the countryside</string>
+				<key>D</key>
+				<string>In the company&apos;s building</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>Which children can use the day-care center?</string>
+				<key>A</key>
+				<string>All children of company workers</string>
+				<key>B</key>
+				<string>Children who arrive at 7 a.m.</string>
+				<key>C</key>
+				<string>Children age 2 to 5</string>
+				<key>D</key>
+				<string>Only children of full-time workers</string>
+			</dict>
+		</array>
+	</dict>
 </array>
 </plist>
