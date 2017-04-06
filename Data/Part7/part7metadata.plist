@@ -1,5 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<array/>
+<array>
+	<dict>
+		<key>script</key>
+		<string>script1</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>Who participated in the survey?</string>
+				<key>A</key>
+				<string>Jefferson&apos;s too one hundred managers</string>
+				<key>B</key>
+				<string>Presidents from each of five hundred companies</string>
+				<key>C</key>
+				<string>One hundred executives of the top firms in the nation</string>
+				<key>D</key>
+				<string>Forty-three leaders of the watch Industry</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What did the survey reveal?</string>
+				<key>A</key>
+				<string>When executives do their best work</string>
+				<key>B</key>
+				<string>How many hours most businesses are open</string>
+				<key>C</key>
+				<string>What brands of watches top managers wear</string>
+				<key>D</key>
+				<string>How close workers lived to their jobs</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What percentage of those surveyed work on Saturdays or Sundays?</string>
+				<key>A</key>
+				<string>43</string>
+				<key>B</key>
+				<string>65</string>
+				<key>C</key>
+				<string>75</string>
+				<key>D</key>
+				<string>85</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>script</key>
+		<string>script2</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What is this form?</string>
+				<key>A</key>
+				<string>An airline ticket </string>
+				<key>B</key>
+				<string>A check</string>
+				<key>C</key>
+				<string>A membership card </string>
+				<key>D</key>
+				<string>An invoice</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What should be written on the back of the form?</string>
+				<key>A</key>
+				<string>Membership card number</string>
+				<key>B</key>
+				<string>Job title </string>
+				<key>C</key>
+				<string>Spouse&apos;s name</string>
+				<key>D</key>
+				<string>New address </string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>script</key>
+		<string>script3</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>Which of the following statements is true about the hotel industry last year?</string>
+				<key>A</key>
+				<string>More statistical reports were issued than in the previous year</string>
+				<key>B</key>
+				<string>Wages of hotel workers decreased by 5.5%</string>
+				<key>C</key>
+				<string>Fewer hotel rooms were rented than in the previous year </string>
+				<key>D</key>
+				<string>The average room rate was $35.30</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>Where did total room sales NOT increase significantly?</string>
+				<key>A</key>
+				<string>Canada </string>
+				<key>B</key>
+				<string>Africa </string>
+				<key>C</key>
+				<string>Central America </string>
+				<key>D</key>
+				<string>The United States </string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>script</key>
+		<string>script4</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>Which of the following would be the best heading for this notice?</string>
+				<key>A</key>
+				<string>Procedures for Depositing Checks</string>
+				<key>B</key>
+				<string>Availability of Registration Forms </string>
+				<key>C</key>
+				<string>Spring Course Offerings</string>
+				<key>D</key>
+				<string>Policy on Withdrawals </string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>How much most you pay if you cancel your registration three weeks before a session begins?</string>
+				<key>A</key>
+				<string>Nothing</string>
+				<key>B</key>
+				<string> $5</string>
+				<key>C</key>
+				<string>$10</string>
+				<key>D</key>
+				<string>$50 </string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What determines if your deposit can be transferred to a different course?</string>
+				<key>A</key>
+				<string>If you have paid the handling charge </string>
+				<key>B</key>
+				<string>If there is any space left in the second course </string>
+				<key>C</key>
+				<string>If the first course is canceled because of low enrollment</string>
+				<key>D</key>
+				<string>If your original space can be fitted</string>
+			</dict>
+		</array>
+	</dict>
+</array>
 </plist>

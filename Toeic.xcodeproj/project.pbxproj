@@ -89,6 +89,11 @@
 		083D85921E87C2AE00F87141 /* p1109.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 083D85421E87C2AE00F87141 /* p1109.jpg */; };
 		0846663A1E868F5900EB39E0 /* TLPart5LearningController.m in Sources */ = {isa = PBXBuildFile; fileRef = 084666391E868F5900EB39E0 /* TLPart5LearningController.m */; };
 		08A4C6891E9654B3007081F8 /* icon1024x1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 08A4C6881E9654B3007081F8 /* icon1024x1024.png */; };
+		08A4C68B1E966537007081F8 /* script1.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 08A4C68A1E966537007081F8 /* script1.rtf */; };
+		08A4C68D1E966603007081F8 /* script2.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 08A4C68C1E966603007081F8 /* script2.rtf */; };
+		08A4C6901E96665F007081F8 /* script3.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 08A4C68E1E96665F007081F8 /* script3.rtf */; };
+		08A4C6911E96665F007081F8 /* script4.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 08A4C68F1E96665F007081F8 /* script4.rtf */; };
+		08A4C6941E969252007081F8 /* TLPart7LearningController.m in Sources */ = {isa = PBXBuildFile; fileRef = 08A4C6931E969252007081F8 /* TLPart7LearningController.m */; };
 		BF3339561E837F6B00443437 /* TLPart2LearningController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF3339551E837F6B00443437 /* TLPart2LearningController.m */; };
 		BF33395D1E83872E00443437 /* part2.png in Resources */ = {isa = PBXBuildFile; fileRef = BF3339571E83872E00443437 /* part2.png */; };
 		BF33395E1E83872E00443437 /* part3.png in Resources */ = {isa = PBXBuildFile; fileRef = BF3339581E83872E00443437 /* part3.png */; };
@@ -254,6 +259,12 @@
 		084666381E868F5900EB39E0 /* TLPart5LearningController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TLPart5LearningController.h; sourceTree = "<group>"; };
 		084666391E868F5900EB39E0 /* TLPart5LearningController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TLPart5LearningController.m; sourceTree = "<group>"; };
 		08A4C6881E9654B3007081F8 /* icon1024x1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon1024x1024.png; sourceTree = "<group>"; };
+		08A4C68A1E966537007081F8 /* script1.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = script1.rtf; sourceTree = "<group>"; };
+		08A4C68C1E966603007081F8 /* script2.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = script2.rtf; sourceTree = "<group>"; };
+		08A4C68E1E96665F007081F8 /* script3.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = script3.rtf; sourceTree = "<group>"; };
+		08A4C68F1E96665F007081F8 /* script4.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = script4.rtf; sourceTree = "<group>"; };
+		08A4C6921E969252007081F8 /* TLPart7LearningController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TLPart7LearningController.h; sourceTree = "<group>"; };
+		08A4C6931E969252007081F8 /* TLPart7LearningController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TLPart7LearningController.m; sourceTree = "<group>"; };
 		BF3339541E837F6B00443437 /* TLPart2LearningController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TLPart2LearningController.h; sourceTree = "<group>"; };
 		BF3339551E837F6B00443437 /* TLPart2LearningController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TLPart2LearningController.m; sourceTree = "<group>"; };
 		BF3339571E83872E00443437 /* part2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = part2.png; sourceTree = "<group>"; };
@@ -629,6 +640,8 @@
 				BFE5C49F1E852BAA00F20EA6 /* TLPart3LearningViewController.m */,
 				084666381E868F5900EB39E0 /* TLPart5LearningController.h */,
 				084666391E868F5900EB39E0 /* TLPart5LearningController.m */,
+				08A4C6921E969252007081F8 /* TLPart7LearningController.h */,
+				08A4C6931E969252007081F8 /* TLPart7LearningController.m */,
 				BF7B0E291E768ACA00A19876 /* SidebarViewController.h */,
 				BF7B0E2A1E768ACA00A19876 /* SidebarViewController.m */,
 				BF7B0E2B1E768ACA00A19876 /* SWRevealViewController */,
@@ -802,6 +815,10 @@
 		BFC56F1A1E77EB700051E14A /* Part7 */ = {
 			isa = PBXGroup;
 			children = (
+				08A4C68F1E96665F007081F8 /* script4.rtf */,
+				08A4C68E1E96665F007081F8 /* script3.rtf */,
+				08A4C68C1E966603007081F8 /* script2.rtf */,
+				08A4C68A1E966537007081F8 /* script1.rtf */,
 				BFC56F301E77F8A50051E14A /* part7metadata.plist */,
 			);
 			path = Part7;
@@ -932,6 +949,7 @@
 				083D85751E87C2AE00F87141 /* p181.jpg in Resources */,
 				083D85831E87C2AE00F87141 /* p194.jpg in Resources */,
 				083D858E1E87C2AE00F87141 /* p1105.jpg in Resources */,
+				08A4C68D1E966603007081F8 /* script2.rtf in Resources */,
 				083D85571E87C2AE00F87141 /* p151.jpg in Resources */,
 				BFC56F2D1E77EFA10051E14A /* part5metadata.plist in Resources */,
 				083D856E1E87C2AE00F87141 /* p173.jpg in Resources */,
@@ -964,6 +982,7 @@
 				083D85611E87C2AE00F87141 /* p161.jpg in Resources */,
 				083D855C1E87C2AE00F87141 /* p155.jpg in Resources */,
 				BF6F84ED1E79281E00498E81 /* p123.jpg in Resources */,
+				08A4C68B1E966537007081F8 /* script1.rtf in Resources */,
 				BF33395E1E83872E00443437 /* part3.png in Resources */,
 				083D85431E87C2AE00F87141 /* p131.jpg in Resources */,
 				083D854C1E87C2AE00F87141 /* p139.jpg in Resources */,
@@ -1008,10 +1027,12 @@
 				BFC56F291E77EF8D0051E14A /* part3metadata.plist in Resources */,
 				083D855F1E87C2AE00F87141 /* p158.jpg in Resources */,
 				083D85761E87C2AE00F87141 /* p1810.jpg in Resources */,
+				08A4C6911E96665F007081F8 /* script4.rtf in Resources */,
 				083D85651E87C2AE00F87141 /* p164.jpg in Resources */,
 				BFC56F251E77EF6D0051E14A /* part1metadata.plist in Resources */,
 				083D85581E87C2AE00F87141 /* p1510.jpg in Resources */,
 				083D85851E87C2AE00F87141 /* p196.jpg in Resources */,
+				08A4C6901E96665F007081F8 /* script3.rtf in Resources */,
 				083D85461E87C2AE00F87141 /* p133.jpg in Resources */,
 				BF5C77431E83C20300499CD5 /* alert-round.png in Resources */,
 			);
@@ -1043,6 +1064,7 @@
 				BF3339561E837F6B00443437 /* TLPart2LearningController.m in Sources */,
 				BFE5C4991E85200B00F20EA6 /* TLQuestionTableViewCell.m in Sources */,
 				BFC56F201E77EB700051E14A /* Appirater.m in Sources */,
+				08A4C6941E969252007081F8 /* TLPart7LearningController.m in Sources */,
 				BFC56F081E77E8900051E14A /* TLTableViewCell.m in Sources */,
 				BF7B0E331E768ACA00A19876 /* Part3ViewController.m in Sources */,
 				BFC56F101E77E8900051E14A /* TLButton.m in Sources */,

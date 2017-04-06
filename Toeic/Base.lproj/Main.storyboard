@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7706" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7706" systemVersion="14A389" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
     <dependencies>
         <development version="7000" identifier="xcode"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
@@ -388,6 +388,55 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="2uN-0C-saV" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="2033" y="62"/>
+        </scene>
+        <!--Part7 Learning Controller-->
+        <scene sceneID="rPD-m4-MO3">
+            <objects>
+                <viewController storyboardIdentifier="idvpart7" id="0t0-QV-Ajs" customClass="TLPart7LearningController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="pZH-2a-9R6"/>
+                        <viewControllerLayoutGuide type="bottom" id="NcL-CP-zic"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="kny-jB-6am">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="190" sectionHeaderHeight="1" sectionFooterHeight="1" translatesAutoresizingMaskIntoConstraints="NO" id="oLC-nF-muF">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="623"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </tableView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GCC-y9-nZM">
+                                <rect key="frame" x="0.0" y="64" width="375" height="559"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <mutableString key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</mutableString>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="oLC-nF-muF" firstAttribute="leading" secondItem="kny-jB-6am" secondAttribute="leading" id="3Ni-3U-Alh"/>
+                            <constraint firstItem="GCC-y9-nZM" firstAttribute="leading" secondItem="kny-jB-6am" secondAttribute="leading" id="5qI-t8-RPf"/>
+                            <constraint firstItem="NcL-CP-zic" firstAttribute="top" secondItem="oLC-nF-muF" secondAttribute="bottom" id="7WP-nK-nTE"/>
+                            <constraint firstAttribute="trailing" secondItem="oLC-nF-muF" secondAttribute="trailing" id="Ihx-GO-8SH"/>
+                            <constraint firstItem="GCC-y9-nZM" firstAttribute="top" secondItem="pZH-2a-9R6" secondAttribute="bottom" id="dXE-I6-9Ez"/>
+                            <constraint firstItem="NcL-CP-zic" firstAttribute="top" secondItem="GCC-y9-nZM" secondAttribute="bottom" id="wWS-eS-g13"/>
+                            <constraint firstAttribute="trailing" secondItem="GCC-y9-nZM" secondAttribute="trailing" id="yYp-zN-XAi"/>
+                            <constraint firstItem="oLC-nF-muF" firstAttribute="top" secondItem="kny-jB-6am" secondAttribute="top" id="zKO-Ft-bj8"/>
+                        </constraints>
+                    </view>
+                    <toolbarItems/>
+                    <simulatedNavigationBarMetrics key="simulatedTopBarMetrics" prompted="NO"/>
+                    <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>
+                    <connections>
+                        <outlet property="tableview" destination="oLC-nF-muF" id="7YG-4t-svw"/>
+                        <outlet property="textview" destination="GCC-y9-nZM" id="OVH-Gs-4zQ"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="KK4-ei-Xbh" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3223.5" y="61.5"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="kwi-8D-1PT">

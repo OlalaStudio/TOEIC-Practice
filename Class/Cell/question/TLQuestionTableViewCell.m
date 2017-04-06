@@ -41,7 +41,7 @@
     NSString *c = [_data objectForKey:@"C"];
     NSString *d = [_data objectForKey:@"D"];
     
-    [self.question setText:[NSString stringWithFormat:@"%ld. %@",(long)_qNumber,question]];
+    [self.question setText:[NSString stringWithFormat:@"%ld. %@",(long)_qNumber + 1,question]];
     [self.anwserA setTitle:[NSString stringWithFormat:@"A. %@",a] forState:UIControlStateNormal];
     [self.anwserB setTitle:[NSString stringWithFormat:@"B. %@",b] forState:UIControlStateNormal];
     [self.anwserC setTitle:[NSString stringWithFormat:@"C. %@",c] forState:UIControlStateNormal];
