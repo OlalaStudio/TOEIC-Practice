@@ -88,6 +88,7 @@
 		083D85911E87C2AE00F87141 /* p1108.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 083D85411E87C2AE00F87141 /* p1108.jpg */; };
 		083D85921E87C2AE00F87141 /* p1109.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 083D85421E87C2AE00F87141 /* p1109.jpg */; };
 		0846663A1E868F5900EB39E0 /* TLPart5LearningController.m in Sources */ = {isa = PBXBuildFile; fileRef = 084666391E868F5900EB39E0 /* TLPart5LearningController.m */; };
+		08A4C6891E9654B3007081F8 /* icon1024x1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 08A4C6881E9654B3007081F8 /* icon1024x1024.png */; };
 		BF3339561E837F6B00443437 /* TLPart2LearningController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF3339551E837F6B00443437 /* TLPart2LearningController.m */; };
 		BF33395D1E83872E00443437 /* part2.png in Resources */ = {isa = PBXBuildFile; fileRef = BF3339571E83872E00443437 /* part2.png */; };
 		BF33395E1E83872E00443437 /* part3.png in Resources */ = {isa = PBXBuildFile; fileRef = BF3339581E83872E00443437 /* part3.png */; };
@@ -252,6 +253,7 @@
 		083D85421E87C2AE00F87141 /* p1109.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = p1109.jpg; sourceTree = "<group>"; };
 		084666381E868F5900EB39E0 /* TLPart5LearningController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TLPart5LearningController.h; sourceTree = "<group>"; };
 		084666391E868F5900EB39E0 /* TLPart5LearningController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TLPart5LearningController.m; sourceTree = "<group>"; };
+		08A4C6881E9654B3007081F8 /* icon1024x1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon1024x1024.png; sourceTree = "<group>"; };
 		BF3339541E837F6B00443437 /* TLPart2LearningController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TLPart2LearningController.h; sourceTree = "<group>"; };
 		BF3339551E837F6B00443437 /* TLPart2LearningController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TLPart2LearningController.m; sourceTree = "<group>"; };
 		BF3339571E83872E00443437 /* part2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = part2.png; sourceTree = "<group>"; };
@@ -646,6 +648,7 @@
 		BF7B0E2E1E768ACA00A19876 /* Resource */ = {
 			isa = PBXGroup;
 			children = (
+				08A4C6881E9654B3007081F8 /* icon1024x1024.png */,
 				BF5C77401E83C20300499CD5 /* alert-round.png */,
 				BF5C77411E83C20300499CD5 /* heart.png */,
 				BF5C77421E83C20300499CD5 /* star.png */,
@@ -923,6 +926,7 @@
 				083D85671E87C2AE00F87141 /* p166.jpg in Resources */,
 				083D85791E87C2AE00F87141 /* p184.jpg in Resources */,
 				083D854B1E87C2AE00F87141 /* p138.jpg in Resources */,
+				08A4C6891E9654B3007081F8 /* icon1024x1024.png in Resources */,
 				BF5C773E1E83C17F00499CD5 /* checkmark-round.png in Resources */,
 				083D85911E87C2AE00F87141 /* p1108.jpg in Resources */,
 				083D85751E87C2AE00F87141 /* p181.jpg in Resources */,
