@@ -20,7 +20,7 @@
     // Do any additional setup after loading the view.
     
     UIBarButtonItem *rightBtn = [[UIBarButtonItem alloc]initWithTitle:@"script"
-                                                                style:UIBarButtonItemStyleDone
+                                                                style:UIBarButtonItemStylePlain
                                                                target:self
                                                                action:@selector(show_Script:)];
     self.navigationItem.rightBarButtonItem = rightBtn;

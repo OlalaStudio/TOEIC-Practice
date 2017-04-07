@@ -7,6 +7,7 @@
 //
 
 #import "Part6ViewController.h"
+#import "TLPart6LearningController.h"
 #import "TLTableViewCell.h"
 
 @interface Part6ViewController ()
@@ -77,12 +78,17 @@
 }
 
 -(void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath{
+    TLPart6LearningController *lessonViewController = (TLPart6LearningController*)[self.storyboard instantiateViewControllerWithIdentifier:@"idvpart6"];
     
+    [lessonViewController setModalTransitionStyle:UIModalTransitionStyleCoverVertical];
+    [lessonViewController setData:[dataArr objectAtIndex:indexPath.row]];
+    
+    [self.navigationController pushViewController:lessonViewController animated:YES];
 }
 
 -(CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath
 {
-    return 80;
+    return 60;
 }
 
 @end

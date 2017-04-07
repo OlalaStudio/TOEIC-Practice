@@ -144,5 +144,1284 @@
 			<string>the most creative</string>
 		</dict>
 	</array>
+	<array>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>Mr. Cruz needs someone to .......... him with the conference display.</string>
+			<key>A</key>
+			<string>assume</string>
+			<key>B</key>
+			<string>assign</string>
+			<key>C</key>
+			<string>assent</string>
+			<key>D</key>
+			<string>assist</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>A</string>
+			<key>question</key>
+			<string>The stapler is .......... the desk.</string>
+			<key>A</key>
+			<string>on</string>
+			<key>B</key>
+			<string>through</string>
+			<key>C</key>
+			<string>into</string>
+			<key>D</key>
+			<string>without</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>C</string>
+			<key>question</key>
+			<string>Each passenger&apos;s name .......... with his or her cabin number.</string>
+			<key>A</key>
+			<string>in list</string>
+			<key>B</key>
+			<string>listing</string>
+			<key>C</key>
+			<string>is listed</string>
+			<key>D</key>
+			<string>is listing</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>If the delivery is late, we .......... the shipping charges.</string>
+			<key>A</key>
+			<string>paid</string>
+			<key>B</key>
+			<string>will pay</string>
+			<key>C</key>
+			<string>have paid</string>
+			<key>D</key>
+			<string>are paying</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>C</string>
+			<key>question</key>
+			<string>The bus will leave promptly .......... 8:30.</string>
+			<key>A</key>
+			<string>until</string>
+			<key>B</key>
+			<string>to</string>
+			<key>C</key>
+			<string>at</string>
+			<key>D</key>
+			<string>for</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>C</string>
+			<key>question</key>
+			<string>The ship&apos;s captain requests that all passengers .......... emergency procedures.</string>
+			<key>A</key>
+			<string>reviewing</string>
+			<key>B</key>
+			<string>reviews</string>
+			<key>C</key>
+			<string>review</string>
+			<key>D</key>
+			<string>to review</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>A</string>
+			<key>question</key>
+			<string>Ms. Friel .......... about her promotion before it was announced.</string>
+			<key>A</key>
+			<string>knew</string>
+			<key>B</key>
+			<string>known</string>
+			<key>C</key>
+			<string>is knowing</string>
+			<key>D</key>
+			<string>has known</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>All travel arrangements must be completed .......... December 5.</string>
+			<key>A</key>
+			<string>with</string>
+			<key>B</key>
+			<string>in</string>
+			<key>C</key>
+			<string>for</string>
+			<key>D</key>
+			<string>by</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>The airport was .......... Mr. Debionne had expected.</string>
+			<key>A</key>
+			<string>the busiest</string>
+			<key>B</key>
+			<string>busier than</string>
+			<key>C</key>
+			<string>busy as</string>
+			<key>D</key>
+			<string>as busy</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>A</string>
+			<key>question</key>
+			<string>A firm will not .......... if its employees are unhappy.</string>
+			<key>A</key>
+			<string>prosper</string>
+			<key>B</key>
+			<string>prosperous</string>
+			<key>C</key>
+			<string>prosperity</string>
+			<key>D</key>
+			<string>prospering</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>answer</key>
+			<string>C</string>
+			<key>question</key>
+			<string>At midnight, the second shift of security guards .......... . on duty.</string>
+			<key>A</key>
+			<string>coming</string>
+			<key>B</key>
+			<string>to come</string>
+			<key>C</key>
+			<string>comes</string>
+			<key>D</key>
+			<string>come</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>Ms. Najar wants to .......... the costs by tonight.</string>
+			<key>A</key>
+			<string>final</string>
+			<key>B</key>
+			<string>finalize</string>
+			<key>C</key>
+			<string>finally</string>
+			<key>D</key>
+			<string>finality</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>Ms. Yu has suggested ..........more reservation clerks.</string>
+			<key>A</key>
+			<string>hire</string>
+			<key>B</key>
+			<string>hiring</string>
+			<key>C</key>
+			<string>hired</string>
+			<key>D</key>
+			<string>to hire</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>A customer service representative .......... at our catalogue number.</string>
+			<key>A</key>
+			<string>always is available</string>
+			<key>B</key>
+			<string> is always available </string>
+			<key>C</key>
+			<string>is available always </string>
+			<key>D</key>
+			<string>being always available </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>C</string>
+			<key>question</key>
+			<string>Can you meet with us .......... 11:00?</string>
+			<key>A</key>
+			<string>on</string>
+			<key>B</key>
+			<string>for</string>
+			<key>C</key>
+			<string>at</string>
+			<key>D</key>
+			<string>in</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>The manager suggested .......... a research team.</string>
+			<key>A</key>
+			<string>organized</string>
+			<key>B</key>
+			<string>organizing </string>
+			<key>C</key>
+			<string>organizes </string>
+			<key>D</key>
+			<string>to organize </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>A</string>
+			<key>question</key>
+			<string>The receptionist .......... a message if you do not answer your phone.</string>
+			<key>A</key>
+			<string>takes</string>
+			<key>B</key>
+			<string>took</string>
+			<key>C</key>
+			<string>take</string>
+			<key>D</key>
+			<string>taken</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>A list of compatible software .......... with your new computer.</string>
+			<key>A</key>
+			<string>includes </string>
+			<key>B</key>
+			<string> is included </string>
+			<key>C</key>
+			<string>is including </string>
+			<key>D</key>
+			<string>included </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>The price of all cruises.......... airfare and all transfers.</string>
+			<key>A</key>
+			<string>to include </string>
+			<key>B</key>
+			<string>includes </string>
+			<key>C</key>
+			<string>including </string>
+			<key>D</key>
+			<string>include </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string> .......... we were late, we could not enter the conference hall.</string>
+			<key>A</key>
+			<string>Although </string>
+			<key>B</key>
+			<string>Because </string>
+			<key>C</key>
+			<string>Therefore </string>
+			<key>D</key>
+			<string>However</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>Hotel employees are..........to knock before entering the rooms.</string>
+			<key>A</key>
+			<string>requited </string>
+			<key>B</key>
+			<string>required</string>
+			<key>C</key>
+			<string>requisite </string>
+			<key>D</key>
+			<string>repulsed </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>A</string>
+			<key>question</key>
+			<string>Visitors are reminded..........name tags at all times.</string>
+			<key>A</key>
+			<string>to wear </string>
+			<key>B</key>
+			<string>wear 
+</string>
+			<key>C</key>
+			<string>be worn </string>
+			<key>D</key>
+			<string>is wearing </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>C</string>
+			<key>question</key>
+			<string>Mr. Nolde called to cancel his..........</string>
+			<key>A</key>
+			<string>notebook </string>
+			<key>B</key>
+			<string>calendar </string>
+			<key>C</key>
+			<string>appointment </string>
+			<key>D</key>
+			<string>notice</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>A</string>
+			<key>question</key>
+			<string>A manager .......... new things from his or her staff.</string>
+			<key>A</key>
+			<string>can sometimes learn </string>
+			<key>B</key>
+			<string>learning sometimes can </string>
+			<key>C</key>
+			<string>sometimes learn can </string>
+			<key>D</key>
+			<string>sometimes can learning </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string> The budget analysis is due .......... . Friday.</string>
+			<key>A</key>
+			<string>at</string>
+			<key>B</key>
+			<string>from</string>
+			<key>C</key>
+			<string>until</string>
+			<key>D</key>
+			<string>on</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>Please use the, .......... envelope for your reply.</string>
+			<key>A</key>
+			<string>is enclosed</string>
+			<key>B</key>
+			<string>enclose </string>
+			<key>C</key>
+			<string>enclosing </string>
+			<key>D</key>
+			<string>enclosed </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>We cannot ship the order now because our .......... is low.</string>
+			<key>A</key>
+			<string>invitation </string>
+			<key>B</key>
+			<string>inventory </string>
+			<key>C</key>
+			<string>invention </string>
+			<key>D</key>
+			<string>invoice </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>The technicians in the research division .......... the process confidential.</string>
+			<key>A</key>
+			<string>is keeping </string>
+			<key>B</key>
+			<string>are keeping </string>
+			<key>C</key>
+			<string>to keep </string>
+			<key>D</key>
+			<string>has kept </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>Our service technicians receive .......... training available.</string>
+			<key>A</key>
+			<string> better </string>
+			<key>B</key>
+			<string>as good</string>
+			<key>C</key>
+			<string>best</string>
+			<key>D</key>
+			<string>the best</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>Your room has been reserved .......... two nights.</string>
+			<key>A</key>
+			<string>in</string>
+			<key>B</key>
+			<string>for</string>
+			<key>C</key>
+			<string>with</string>
+			<key>D</key>
+			<string>at</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>The seminar was canceled because the invitations were not..........in time.</string>
+			<key>A</key>
+			<string>printer </string>
+			<key>B</key>
+			<string>printed</string>
+			<key>C</key>
+			<string>printing</string>
+			<key>D</key>
+			<string>print </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>This product..........our most popular item.</string>
+			<key>A</key>
+			<string>always has considered been </string>
+			<key>B</key>
+			<string>has been always considered </string>
+			<key>C</key>
+			<string>has been considered always </string>
+			<key>D</key>
+			<string> has always been considered </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>Budget meetings are held .......... in the conference room.</string>
+			<key>A</key>
+			<string>rarely </string>
+			<key>B</key>
+			<string>every&apos;week </string>
+			<key>C</key>
+			<string>always </string>
+			<key>D</key>
+			<string>sometimes </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>An administrative assistant keeps an office running ..........</string>
+			<key>A</key>
+			<string>smooth </string>
+			<key>B</key>
+			<string>smoothness </string>
+			<key>C</key>
+			<string>smoothed </string>
+			<key>D</key>
+			<string>smoothly </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>A record of complaints .......... kept in the purser&apos;s office.</string>
+			<key>A</key>
+			<string>are</string>
+			<key>B</key>
+			<string>is</string>
+			<key>C</key>
+			<string>were</string>
+			<key>D</key>
+			<string>has</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>The person .......... lost a briefcase may claim it in the lobby.</string>
+			<key>A</key>
+			<string>whose</string>
+			<key>B</key>
+			<string>which</string>
+			<key>C</key>
+			<string>whom</string>
+			<key>D</key>
+			<string>who</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>Salespeople .......... attract new clients receive a bonus.</string>
+			<key>A</key>
+			<string>whose</string>
+			<key>B</key>
+			<string>which</string>
+			<key>C</key>
+			<string>whom</string>
+			<key>D</key>
+			<string>who</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>A</string>
+			<key>question</key>
+			<string>Many customers have requested that they .......... notice of our sales.</string>
+			<key>A</key>
+			<string>receive </string>
+			<key>B</key>
+			<string>receives </string>
+			<key>C</key>
+			<string>received </string>
+			<key>D</key>
+			<string>receiving </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>The status report .......... the financial projections were both late.</string>
+			<key>A</key>
+			<string>or</string>
+			<key>B</key>
+			<string>and</string>
+			<key>C</key>
+			<string>but</string>
+			<key>D</key>
+			<string>nor</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>C</string>
+			<key>question</key>
+			<string>The message is .......... Mr. Moriwaki&apos;s answering machine.</string>
+			<key>A</key>
+			<string>in</string>
+			<key>B</key>
+			<string>of</string>
+			<key>C</key>
+			<string>on</string>
+			<key>D</key>
+			<string>to</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>answer</key>
+			<string>C</string>
+			<key>question</key>
+			<string>Many subscribers have requested that we .......... the journals to their offices.</string>
+			<key>A</key>
+			<string>mails </string>
+			<key>B</key>
+			<string>mailed </string>
+			<key>C</key>
+			<string>mail </string>
+			<key>D</key>
+			<string>mailing</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>.......... none of us were familiar with the city, Mr. Gutman drove us to the meeting.</string>
+			<key>A</key>
+			<string>Although </string>
+			<key>B</key>
+			<string>Because </string>
+			<key>C</key>
+			<string>Therefore </string>
+			<key>D</key>
+			<string>However </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>The auditor discovered that the accountant had not been .......... the checks into the correct account.</string>
+			<key>A</key>
+			<string>deposited </string>
+			<key>B</key>
+			<string>deposits </string>
+			<key>C</key>
+			<string>deposit </string>
+			<key>D</key>
+			<string>depositing </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>A</string>
+			<key>question</key>
+			<string>The trainers for the seminar had the crew .......... their equipment to the conference center.</string>
+			<key>A</key>
+			<string>move </string>
+			<key>B</key>
+			<string>moving </string>
+			<key>C</key>
+			<string>mover</string>
+			<key>D</key>
+			<string>moved </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>C</string>
+			<key>question</key>
+			<string>Mr. Cain will return your call .......... he arrives.</string>
+			<key>A</key>
+			<string>soon </string>
+			<key>B</key>
+			<string>as soon</string>
+			<key>C</key>
+			<string>as soon as</string>
+			<key>D</key>
+			<string>soon than</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>A</string>
+			<key>question</key>
+			<string>The travel agent persuaded us .......... an evening flight.</string>
+			<key>A</key>
+			<string>to take</string>
+			<key>B</key>
+			<string>taking</string>
+			<key>C</key>
+			<string>took</string>
+			<key>D</key>
+			<string>taken</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>The train from Madrid arrives .......... noon.</string>
+			<key>A</key>
+			<string>in</string>
+			<key>B</key>
+			<string>on</string>
+			<key>C</key>
+			<string>over</string>
+			<key>D</key>
+			<string>at</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>The clerk .......... the computer manual from the secretary.</string>
+			<key>A</key>
+			<string>lent</string>
+			<key>B</key>
+			<string>to loan</string>
+			<key>C</key>
+			<string>loaned</string>
+			<key>D</key>
+			<string>borrowed</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>A</string>
+			<key>question</key>
+			<string>If there .......... some restaurants near the hotel, the tourist would not have to take taxis.</string>
+			<key>A</key>
+			<string>were</string>
+			<key>B</key>
+			<string>was</string>
+			<key>C</key>
+			<string>will be</string>
+			<key>D</key>
+			<string>would be</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>A</string>
+			<key>question</key>
+			<string>Pens and stationery .......... kept in the top drawer.</string>
+			<key>A</key>
+			<string>are</string>
+			<key>B</key>
+			<string>is</string>
+			<key>C</key>
+			<string>was</string>
+			<key>D</key>
+			<string>am</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>The new insurance plan is especially .......... with employees who have families.</string>
+			<key>A</key>
+			<string>popularized </string>
+			<key>B</key>
+			<string>popular </string>
+			<key>C</key>
+			<string>populated </string>
+			<key>D</key>
+			<string>popularity </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>You should check your messages ..........</string>
+			<key>A</key>
+			<string>as soon as </string>
+			<key>B</key>
+			<string>twice a day </string>
+			<key>C</key>
+			<string>seldom </string>
+			<key>D</key>
+			<string>rarely </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>The operator .......... Mr. Smith if she knew where to reach him.</string>
+			<key>A</key>
+			<string>will call </string>
+			<key>B</key>
+			<string>had called</string>
+			<key>C</key>
+			<string>called </string>
+			<key>D</key>
+			<string>would call </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>C</string>
+			<key>question</key>
+			<string>The company .......... spouses of employees in the invitation to the banquet.</string>
+			<key>A</key>
+			<string>are included </string>
+			<key>B</key>
+			<string>have included</string>
+			<key>C</key>
+			<string>is including </string>
+			<key>D</key>
+			<string>has including </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>C</string>
+			<key>question</key>
+			<string>We cannot process the order .......... we get a copy of the purchase order.</string>
+			<key>A</key>
+			<string>because </string>
+			<key>B</key>
+			<string>that</string>
+			<key>C</key>
+			<string>until</string>
+			<key>D</key>
+			<string>when</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>The package should arrive .......... Tuesday.</string>
+			<key>A</key>
+			<string>in</string>
+			<key>B</key>
+			<string>on</string>
+			<key>C</key>
+			<string>over</string>
+			<key>D</key>
+			<string>at</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>C</string>
+			<key>question</key>
+			<string>The company has quit .......... in that magazine.</string>
+			<key>A</key>
+			<string>to advertise </string>
+			<key>B</key>
+			<string>advertise </string>
+			<key>C</key>
+			<string>advertising </string>
+			<key>D</key>
+			<string>advertisement</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>Hiring temporary workers can be very..........</string>
+			<key>A</key>
+			<string>economize </string>
+			<key>B</key>
+			<string>economically </string>
+			<key>C</key>
+			<string>economy </string>
+			<key>D</key>
+			<string>economical </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>Mr. Ho&apos;s assistant .......... his mail while he was away.</string>
+			<key>A</key>
+			<string>will answer </string>
+			<key>B</key>
+			<string>answered </string>
+			<key>C</key>
+			<string>answers </string>
+			<key>D</key>
+			<string>answering </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>A</string>
+			<key>question</key>
+			<string>The bookcase is .......... the door.</string>
+			<key>A</key>
+			<string>beside</string>
+			<key>B</key>
+			<string>among </string>
+			<key>C</key>
+			<string>between </string>
+			<key>D</key>
+			<string>across</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>answer</key>
+			<string>C</string>
+			<key>question</key>
+			<string>.......... it was Mr. Guiton&apos;s birthday, his staff took him to lunch.</string>
+			<key>A</key>
+			<string>Although </string>
+			<key>B</key>
+			<string>During</string>
+			<key>C</key>
+			<string>Because</string>
+			<key>D</key>
+			<string>That </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>Ms. Franklin directed a very .......... project.</string>
+			<key>A</key>
+			<string>successfully </string>
+			<key>B</key>
+			<string>successive </string>
+			<key>C</key>
+			<string>success </string>
+			<key>D</key>
+			<string>successful </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>The airport taxes are .......... in the ticket price.</string>
+			<key>A</key>
+			<string>including </string>
+			<key>B</key>
+			<string>include </string>
+			<key>C</key>
+			<string>been included </string>
+			<key>D</key>
+			<string> included </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>New paint .......... pictures will make the office look better.</string>
+			<key>A</key>
+			<string>but </string>
+			<key>B</key>
+			<string>and</string>
+			<key>C</key>
+			<string>as</string>
+			<key>D</key>
+			<string>though</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>C</string>
+			<key>question</key>
+			<string>The president had her travel agent .......... the reservations.</string>
+			<key>A</key>
+			<string>made</string>
+			<key>B</key>
+			<string>has made</string>
+			<key>C</key>
+			<string>make</string>
+			<key>D</key>
+			<string>makes</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>Please leave your luggage .......... the bus for loading.</string>
+			<key>A</key>
+			<string>among </string>
+			<key>B</key>
+			<string>between </string>
+			<key>C</key>
+			<string>from </string>
+			<key>D</key>
+			<string>beside </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>A</string>
+			<key>question</key>
+			<string>The cruise handbook .......... all ship policies.</string>
+			<key>A</key>
+			<string>explains </string>
+			<key>B</key>
+			<string>is explaining </string>
+			<key>C</key>
+			<string>explain </string>
+			<key>D</key>
+			<string>explaining </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>The fax was not received .......... the fax number was wrong.</string>
+			<key>A</key>
+			<string>until </string>
+			<key>B</key>
+			<string>because </string>
+			<key>C</key>
+			<string>although </string>
+			<key>D</key>
+			<string>once </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>A</string>
+			<key>question</key>
+			<string>A good waiter .......... to explain the menu.</string>
+			<key>A</key>
+			<string>is never too busy </string>
+			<key>B</key>
+			<string>never too busy is </string>
+			<key>C</key>
+			<string>is too busy never </string>
+			<key>D</key>
+			<string>being never too busy </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>Participants .......... fly to the convention can get a group rate.</string>
+			<key>A</key>
+			<string>they </string>
+			<key>B</key>
+			<string>who</string>
+			<key>C</key>
+			<string>which</string>
+			<key>D</key>
+			<string>whom</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>answer</key>
+			<string>A</string>
+			<key>question</key>
+			<string>Inter Coast Airlines&apos; flight .......... Seoul has been delayed.</string>
+			<key>A</key>
+			<string>to</string>
+			<key>B</key>
+			<string>in</string>
+			<key>C</key>
+			<string>by</string>
+			<key>D</key>
+			<string>at</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>The finance committee will meet again .......... the eighth of May.</string>
+			<key>A</key>
+			<string>for</string>
+			<key>B</key>
+			<string>to</string>
+			<key>C</key>
+			<string>from</string>
+			<key>D</key>
+			<string>on</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>The .......... of the new building will start next month.</string>
+			<key>A</key>
+			<string>constructive </string>
+			<key>B</key>
+			<string>construction</string>
+			<key>C</key>
+			<string>construct </string>
+			<key>D</key>
+			<string>constructed </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>The itinerary .......... with the cruise list.</string>
+			<key>A</key>
+			<string>be filing </string>
+			<key>B</key>
+			<string>is filed </string>
+			<key>C</key>
+			<string>be filed </string>
+			<key>D</key>
+			<string>is filing </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>Please .......... me any time if I can help you.</string>
+			<key>A</key>
+			<string>are calling </string>
+			<key>B</key>
+			<string>call </string>
+			<key>C</key>
+			<string>calls </string>
+			<key>D</key>
+			<string>will call</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>C</string>
+			<key>question</key>
+			<string>The laundry bag is .......... the cabinet.</string>
+			<key>A</key>
+			<string>within </string>
+			<key>B</key>
+			<string>among</string>
+			<key>C</key>
+			<string>inside</string>
+			<key>D</key>
+			<string>between</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>C</string>
+			<key>question</key>
+			<string>The corporate office is located .......... the Jamieson Building.</string>
+			<key>A</key>
+			<string>on </string>
+			<key>B</key>
+			<string>under </string>
+			<key>C</key>
+			<string>in</string>
+			<key>D</key>
+			<string>over</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>A</string>
+			<key>question</key>
+			<string>The conference .......... was scheduled for next week has been postponed.</string>
+			<key>A</key>
+			<string>that</string>
+			<key>B</key>
+			<string>whose</string>
+			<key>C</key>
+			<string>it</string>
+			<key>D</key>
+			<string>who</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>The purser got his assistant .......... the passenger orientation.</string>
+			<key>A</key>
+			<string>conducting </string>
+			<key>B</key>
+			<string>to conduct </string>
+			<key>C</key>
+			<string>conducted </string>
+			<key>D</key>
+			<string>conducts </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>Please use the parking spaces .......... for visitors.</string>
+			<key>A</key>
+			<string>be designating </string>
+			<key>B</key>
+			<string>are designating </string>
+			<key>C</key>
+			<string>were designated </string>
+			<key>D</key>
+			<string>designated</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>answer</key>
+			<string>C</string>
+			<key>question</key>
+			<string>Mr. Hatori was very..........when he got a promotion.</string>
+			<key>A</key>
+			<string>excite&apos; </string>
+			<key>B</key>
+			<string> exciting </string>
+			<key>C</key>
+			<string>excited </string>
+			<key>D</key>
+			<string>excites </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>.......... she left the ship, the purser signed out.</string>
+			<key>A</key>
+			<string>for</string>
+			<key>B</key>
+			<string>that</string>
+			<key>C</key>
+			<string>and</string>
+			<key>D</key>
+			<string>before</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>A</string>
+			<key>question</key>
+			<string>Ask the accounts receivable clerk .......... the invoice.</string>
+			<key>A</key>
+			<string>to send</string>
+			<key>B</key>
+			<string>sending</string>
+			<key>C</key>
+			<string>will send</string>
+			<key>D</key>
+			<string>sends</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>If the product were not safe, we .......... it.</string>
+			<key>A</key>
+			<string>had sold </string>
+			<key>B</key>
+			<string>don&apos;t sell</string>
+			<key>C</key>
+			<string>will sell </string>
+			<key>D</key>
+			<string>would not sell </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>D</string>
+			<key>question</key>
+			<string>The meeting will be held .......... Thursday.</string>
+			<key>A</key>
+			<string>of</string>
+			<key>B</key>
+			<string>in</string>
+			<key>C</key>
+			<string>for</string>
+			<key>D</key>
+			<string>on</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>Our company stands for quality .......... design.</string>
+			<key>A</key>
+			<string>or</string>
+			<key>B</key>
+			<string>and</string>
+			<key>C</key>
+			<string>but</string>
+			<key>D</key>
+			<string>neither</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>C</string>
+			<key>question</key>
+			<string>This list of contributors is more .......... that one.</string>
+			<key>A</key>
+			<string>current </string>
+			<key>B</key>
+			<string>currently </string>
+			<key>C</key>
+			<string>current than </string>
+			<key>D</key>
+			<string>current as </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>A</string>
+			<key>question</key>
+			<string>The ship&apos;s restaurant is located .......... the sun deck.</string>
+			<key>A</key>
+			<string>on</string>
+			<key>B</key>
+			<string>under</string>
+			<key>C</key>
+			<string>in</string>
+			<key>D</key>
+			<string>over</string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>C</string>
+			<key>question</key>
+			<string>The secretary .......... a letter when the computer crashed.</string>
+			<key>A</key>
+			<string>composed </string>
+			<key>B</key>
+			<string>is composing </string>
+			<key>C</key>
+			<string>was composing</string>
+			<key>D</key>
+			<string>composes </string>
+		</dict>
+		<dict>
+			<key>answer</key>
+			<string>B</string>
+			<key>question</key>
+			<string>The intern .......... a fax machine before.</string>
+			<key>A</key>
+			<string>had used never </string>
+			<key>B</key>
+			<string>had never used </string>
+			<key>C</key>
+			<string>never had used </string>
+			<key>D</key>
+			<string>used had never</string>
+		</dict>
+	</array>
 </array>
 </plist>

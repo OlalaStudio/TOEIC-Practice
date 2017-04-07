@@ -1,20 +1,23 @@
 //
-//  TLPart4LearningController.m
+//  TLPart6LearningController.m
 //  Toeic
 //
-//  Created by Nguyen Luan on 3/25/17.
-//  Copyright (c) 2017 Olala. All rights reserved.
+//  Created by NguyenThanhLuan on 07/04/2017.
+//  Copyright © 2017 Olala. All rights reserved.
 //
 
-#import "TLPart5LearningController.h"
+#import "TLPart6LearningController.h"
 #import "TLQuestionTableViewCell.h"
 #import "FCAlertView.h"
 
-@interface TLPart5LearningController ()
+@interface TLPart6LearningController ()
 
 @end
 
-@implementation TLPart5LearningController{
+@implementation TLPart6LearningController{
+    NSString *script;
+    NSArray *questions;
+    
     NSInteger       rAnwser;
     NSInteger       tAnwser;
 }
@@ -22,7 +25,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-
+    
     [_tableview setDelegate:self];
     [_tableview setDataSource:self];
     [_tableview registerNib:[UINib nibWithNibName:@"TLQuestionTableViewCell" bundle:nil] forCellReuseIdentifier:@"idnormalcell"];
@@ -35,12 +38,25 @@
                                                                action:@selector(show_score:)];
     self.navigationItem.rightBarButtonItem = rightBtn;
     self.navigationController.navigationBar.tintColor = [UIColor redColor];
+    
+    NSString *scriptPath = [[NSBundle mainBundle] pathForResource:script ofType:@"rtf"];
+    
+    _textview.attributedText =[[NSAttributedString alloc] initWithFileURL:[NSURL fileURLWithPath:scriptPath]
+                                                                  options:nil
+                                                       documentAttributes:nil
+                                                                    error:nil];
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+
+-(void)setData:(NSDictionary *)data{
+    dataDic = [NSDictionary dictionaryWithDictionary:data];
     
+    questions = [dataDic valueForKey:@"question"];
+    script = [dataDic valueForKey:@"script"];
 }
 
 -(void)viewDidAppear:(BOOL)animated{
@@ -55,13 +71,9 @@
     [self showAnwser];
 }
 
--(void)setData:(NSArray *)dataArr{
-    _itemList = [[NSArray alloc] initWithArray:dataArr];
-}
-
 -(void)showAnwser{
     rAnwser = [self findAnwser];
-    tAnwser = [_itemList count];
+    tAnwser = [questions count];
     
     FCAlertView *alert = [[FCAlertView alloc] init];
     
@@ -89,7 +101,7 @@
             
             AnwserState anwser = [[uDic objectForKey:indexpath] integerValue];
             
-            NSDictionary* itemDic = [_itemList objectAtIndex:j];
+            NSDictionary* itemDic = [questions objectAtIndex:j];
             
             if ([self checkAnwser:anwser valid:[itemDic objectForKey:@"answer"]]) {
                 count++;
@@ -142,18 +154,19 @@
 
 -(NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section{
     
-    return [_itemList count];
+    return [questions count];
 }
 
 -(UITableViewCell*)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath{
     
     TLQuestionTableViewCell *cell = [_tableview dequeueReusableCellWithIdentifier:@"idnormalcell"];
     [cell setDelegate:self];
-    [cell setQNumber:indexPath.section * 2 + indexPath.row];
-    [cell setData:[_itemList objectAtIndex:indexPath.row]];
+    [cell setQNumber:indexPath.row];
+    [cell setData:[questions objectAtIndex:indexPath.row]];
     [cell setIndex:indexPath];
     
     return cell;
+    
 }
 
 -(void)tableView:(UITableView *)tableView willDisplayCell:(UITableViewCell *)cell forRowAtIndexPath:(NSIndexPath *)indexPath{

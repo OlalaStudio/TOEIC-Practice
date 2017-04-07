@@ -29,7 +29,7 @@
     [_tableview registerNib:[UINib nibWithNibName:@"TLQuestionTableViewCell" bundle:nil] forCellReuseIdentifier:@"idnormalcell"];
     
     UIBarButtonItem *rightBtn = [[UIBarButtonItem alloc]initWithTitle:@"script"
-                                                                style:UIBarButtonItemStyleDone
+                                                                style:UIBarButtonItemStylePlain
                                                                target:self
                                                                action:@selector(show_Script:)];
     self.navigationItem.rightBarButtonItem = rightBtn;
