@@ -31,7 +31,6 @@
                                                                action:@selector(show_score:)];
     self.navigationItem.rightBarButtonItem = rightBtn;
     self.navigationController.navigationBar.tintColor = [UIColor redColor];
-
 }
 
 - (void)didReceiveMemoryWarning {

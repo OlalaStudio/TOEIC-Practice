@@ -1,5 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<array/>
+<array>
+	<dict>
+		<key>script</key>
+		<string>Our office is collecting money for the __(1)__ of last week’s terrible floods. Many people in our city lost their homes and all their __(2)__ in the floods. We would like to send money to. If you wish to make a __(3)__  please bring a check or cash to Mr. im in Human Resources before 5:00 on Friday. We __(4)__ send  a check in the name of everyone in the office to the Flood Fund.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>A</key>
+				<string>observers</string>
+				<key>B</key>
+				<string>victims</string>
+				<key>C</key>
+				<string>planners</string>
+				<key>D</key>
+				<string>reporters</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>A</key>
+				<string>possesses</string>
+				<key>B</key>
+				<string>possessed</string>
+				<key>C</key>
+				<string>possessing</string>
+				<key>D</key>
+				<string>possessions</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>A</key>
+				<string>cake</string>
+				<key>B</key>
+				<string>friend</string>
+				<key>C</key>
+				<string>salary</string>
+				<key>D</key>
+				<string>donation</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>A</key>
+				<string>send</string>
+				<key>B</key>
+				<string>sent</string>
+				<key>C</key>
+				<string>will send</string>
+				<key>D</key>
+				<string>might send</string>
+			</dict>
+		</array>
+	</dict>
+</array>
 </plist>

@@ -32,7 +32,8 @@ NSString *kTimedMetadataKey	= @"currentItem.timedMetadata";
 //}
 
 -(void)awakeFromNib{
-    [self disablePlayerBar];
+//    [self disablePlayerBar];
+    [self enablePlayerBar];
 }
 
 -(void)stop
@@ -53,6 +54,9 @@ NSString *kTimedMetadataKey	= @"currentItem.timedMetadata";
     [self removePlayerTimeObserver];
     
     if (player) {
+        
+        [_playbutton setPlayState:kPlay];
+        
         [player pause];
         player = nil;
     }
@@ -76,6 +80,9 @@ NSString *kTimedMetadataKey	= @"currentItem.timedMetadata";
     [self removePlayerTimeObserver];
     
     if (player) {
+        
+        [_playbutton setPlayState:kPlay];
+        
         [player pause];
         player = nil;
     }
@@ -189,8 +196,10 @@ NSString *kTimedMetadataKey	= @"currentItem.timedMetadata";
             case AVPlayerStatusReadyToPlay:
             {
                 NSLog(@"AVPlayerStatusReadyToPlay");
-                [self enablePlayerBar];
+//                [self enablePlayerBar];
                 [self initScrubberTimer];
+                [player play];
+                [_playbutton setPlayState:kPause];
             }
                 break;
             case AVPlayerStatusFailed:
@@ -275,8 +284,8 @@ NSString *kTimedMetadataKey	= @"currentItem.timedMetadata";
 
 #pragma mark - Play Button delegate
 -(void)play{
-    [player play];
-    [_playbutton setPlayState:kPause];
+//    [player play];
+//    [_playbutton setPlayState:kPause];
     
     //callback for show result
     if (_playerBarDelegate) {

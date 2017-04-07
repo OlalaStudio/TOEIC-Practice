@@ -25,15 +25,15 @@
     
     _anwser = kUnknow;
     
+    [_playerBar setPlayerBarDelegate:self];
+    
     [self deSelectAll];
     
     [self setupView];
 }
 
 -(void)viewDidAppear:(BOOL)animated{
-    [_playerBar setPlayerURL:audio];
-    [_playerBar setPlayerBarDelegate:self];
-    [_playerBar loadContent];
+    
 }
 
 -(void)viewDidDisappear:(BOOL)animated{
@@ -172,7 +172,9 @@
 
 -(void)didClickPlayer
 {
-    
+    [_playerBar setPlayerURL:audio];
+    [_playerBar setPlayerBarDelegate:self];
+    [_playerBar loadContent];
 }
 
 -(void)canClickPlayer

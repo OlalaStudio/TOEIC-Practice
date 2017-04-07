@@ -36,12 +36,12 @@
     [self deSelectAll3];
     
     [self setupView];
+    
+    [_playerBar setPlayerBarDelegate:self];
 }
 
 -(void)viewDidAppear:(BOOL)animated{
-    [_playerBar setPlayerURL:audio];
-    [_playerBar setPlayerBarDelegate:self];
-    [_playerBar loadContent];
+    
 }
 
 -(void)viewDidDisappear:(BOOL)animated{
@@ -279,7 +279,9 @@
 
 -(void)didClickPlayer
 {
-    
+    [_playerBar setPlayerURL:audio];
+    [_playerBar setPlayerBarDelegate:self];
+    [_playerBar loadContent];
 }
 
 -(void)canClickPlayer

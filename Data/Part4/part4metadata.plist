@@ -1226,5 +1226,821 @@
 			</dict>
 		</array>
 	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>This is Betty Bellarussa with your 5 p.m. WARP-AM traffic report. Well, if you&apos;re on the roads listening to this, you already know that traffic is pretty much a mess everywhere. On Interstate 7, it crawls from downtown to the county line. Vehicles crossing the lake on State Route 50 are gridlocked both eastbound and westbound, and the valley freeway is stop-and-go from Mayberry through Winwood. Highway 17 is slow through the city, then clears out until Overpass Road. If that weren&apos;t bad enough, an injury accident is blocking Main Street downtown, causing a 15-minute backup for cars waiting to get onto the freeway. This has been Betty Bellarussa with your 5 p.m. WARP-AM traffic update. Our next traffic report will be at the bottom of the hour.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>Who is most likely listening to the report?</string>
+				<key>A</key>
+				<string>Subway passengers</string>
+				<key>B</key>
+				<string>Vehicle drivers</string>
+				<key>C</key>
+				<string>Business executives</string>
+				<key>D</key>
+				<string>Housewives</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What does the speaker say about traffic?</string>
+				<key>A</key>
+				<string>It is flowing smoothly everywhere.</string>
+				<key>B</key>
+				<string>It is clear on Interstate 7.</string>
+				<key>C</key>
+				<string>It is slow only on east-west roads.</string>
+				<key>D</key>
+				<string>It is moving slowly everywhere.</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What is scheduled to happen at 5:30 p.m.?</string>
+				<key>A</key>
+				<string>Clear roads</string>
+				<key>B</key>
+				<string>Main Street accident</string>
+				<key>C</key>
+				<string>A new traffic update</string>
+				<key>D</key>
+				<string> A baseball game</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>February&apos;s here, and romance is in the air. What better time than Valentine&apos;s Day to express your love with a diamond ring or necklace? And what better place to purchase your special gift than Jonathan&apos;s Jewelry? I&apos;m Jonathan James, owner of Jonathan&apos;s Jewelry, here to tell you that we have the widest selection of diamonds in the state. No matter what your budget, we can find something that you can afford, and that she will love. At Jonathan&apos;s, we cut out the middle man and buy direct from suppliers, then pass that savings on to you. Our salespeople don&apos;t work on commission, so you don&apos;t have to worry about being pressured into buying something you don&apos;t want and can&apos;t afford. We&apos;re your friend in the diamond business, with three convenient locations: on Enormous Mall Parkway, Northeastgate Village, and downtown on First and Main. Come on in and see us today!</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What is being advertised?</string>
+				<key>A</key>
+				<string>Diamond jewelry</string>
+				<key>B</key>
+				<string>Jonathan James</string>
+				<key>C</key>
+				<string>Valentine&apos;s Day</string>
+				<key>D</key>
+				<string>A special gift</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>Who is the intended audience?</string>
+				<key>A</key>
+				<string>Middlemen</string>
+				<key>B</key>
+				<string>Men</string>
+				<key>C</key>
+				<string>Pet owners</string>
+				<key>D</key>
+				<string>Housewives</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What does the speaker suggest listeners do?</string>
+				<key>A</key>
+				<string>Buy direct from suppliers</string>
+				<key>B</key>
+				<string>Get married on Valentine&apos;s Day</string>
+				<key>C</key>
+				<string>Come to Jonathan&apos;s Jewelry</string>
+				<key>D</key>
+				<string>Phone Northeastgate Village</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>I&apos;m Sandra Simpson with a KPLZ traffic update. A five-car collision at the intersection of Highway 10 and State Route 20 is backing up traffic on both those roadways. Emergency vehicles are en route to the scene, and it looks like it will be quite awhile until that intersection is cleared. Meanwhile, a stalled vehicle in the right lane is causing hesitation on northbound Interstate Freeway 2 between the Main and First street exits. Southbound Interstate 2, on the other hand, is clear sailing right now, with only a 15-minute commute from downtown to the southern suburbs. There are no other major problems right now, but remember that the lake bridge westbound will be closed from 9 to midnight tonight for pavement repair. Now, back to the baseball game on KPLZ.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What problem does the speaker mention at a highway intersection?</string>
+				<key>A</key>
+				<string> An abandoned car</string>
+				<key>B</key>
+				<string>A multiple-vehicle accident</string>
+				<key>C</key>
+				<string>An overturned truck</string>
+				<key>D</key>
+				<string>A gasoline explosion</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>How is traffic on Southbound Interstate 2?</string>
+				<key>A</key>
+				<string>Bumper-to-bumper</string>
+				<key>B</key>
+				<string>A little bit slow</string>
+				<key>C</key>
+				<string>Blocked by a sailboat</string>
+				<key>D</key>
+				<string>Flowing smoothly</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What does the speaker remind listeners of?</string>
+				<key>A</key>
+				<string>A sporting event</string>
+				<key>B</key>
+				<string>A future traffic delay</string>
+				<key>C</key>
+				<string>An upcoming promotion</string>
+				<key>D</key>
+				<string>A recent collision</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>OK, now it&apos;s time for the highlight of the evening. My name&apos;s Randy Hornbaker, the emcee for tonight&apos;s program, and it&apos;s my privilege to introduce our featured speaker, Mr. Christopher Sparks. Ten years ago, Christopher started bottling tea that was based on his grandmother Tina&apos;s recipe. If you haven&apos;t heard of Tina&apos;s Tea yet, you soon will. Last year Mr. Sparks signed a distribution agreement with a national distributor, and soon Tina&apos;s Tea will be a household name. Tonight Christopher, who&apos;s only 24, will discuss what it&apos;s like to be successful at such a young age, and where he will take his young company from here. Mr. Sparks will speak for about 60 minutes. Please save all your questions for the end of his speech, when there will be a 30-minute question-and-answer session. If you have a question for Christopher at that time, raise your hand, and one of our ushers will bring you a wireless microphone so that everyone in the room will be able to hear you. So without further ado, please welcome Mr. Christopher Sparks.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>Where is this introduction most likely taking place?</string>
+				<key>A</key>
+				<string>In a business office</string>
+				<key>B</key>
+				<string>In a park</string>
+				<key>C</key>
+				<string>In a stadium</string>
+				<key>D</key>
+				<string>In an auditorium</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What will Christopher Sparks talk about?</string>
+				<key>A</key>
+				<string>His grandmother&apos;s recipe</string>
+				<key>B</key>
+				<string> His personal success</string>
+				<key>C</key>
+				<string> How to make money</string>
+				<key>D</key>
+				<string>His new distribution deal</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What will happen at the end of his speech?</string>
+				<key>A</key>
+				<string>He will sign autographs.</string>
+				<key>B</key>
+				<string>He will pose for pictures.</string>
+				<key>C</key>
+				<string>He will give out tea samples.</string>
+				<key>D</key>
+				<string>He will answer questions.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>I&apos;m Michelle Tomkins, and I have a special message from the state patrol. During the holidays, it&apos;s OK to celebrate with a little bit of good cheer. But it&apos;s not OK to get behind the wheel of a car after you&apos;ve been drinking. With winter weather already making driving tough, don&apos;t make it any harder on yourself - or others - by trying to drive while you&apos;re intoxicated. If you plan to drink, arrange a designated driver before the party begins. If you notice someone who shouldn&apos;t be driving, talk them into giving you their keys. If they refuse, call 911. Remember, friends don&apos;t let friends drive drunk. Finally, if you do happen to find yourself too drunk to drive, call 555-TAXI for a special, free holiday lift. That&apos;s 555-TAXI for a free ride anywhere in the county. The state patrol wishes everyone a happy, and safe, holiday season.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What is the main purpose of the advertisement?</string>
+				<key>A</key>
+				<string>To sell a product</string>
+				<key>B</key>
+				<string>To announce a public service</string>
+				<key>C</key>
+				<string>To promote alcohol</string>
+				<key>D</key>
+				<string>To warn criminals</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>Who is the intended audience?</string>
+				<key>A</key>
+				<string>Adults</string>
+				<key>B</key>
+				<string>Children</string>
+				<key>C</key>
+				<string>Women</string>
+				<key>D</key>
+				<string>Friends</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What is being offered?</string>
+				<key>A</key>
+				<string> A little bit of good cheer</string>
+				<key>B</key>
+				<string>Designated drivers</string>
+				<key>C</key>
+				<string>Tough winter driving</string>
+				<key>D</key>
+				<string>Free cab rides for drunk drivers</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>The first thing you need to know is that everybody here has clean slate with me. Whatever happened under the previous regime will not affect how you&apos;re treated by me and members of this staff. You are in good standing with us until you give us reason not to be. The second thing is, you have to believe that you can win. I know that you didn&apos;t win many games the past four years. I don&apos;t know why. We can&apos;t be satisfied with that. But I&apos;ve looked at tape, and I DO know that you have the talent to win. You need to believe that. I repeat: You are talented enough to succeed! I want you to think about something my high school coach told me. He said, &quot;Whether you think you can, or whether you think you can&apos;t, you&apos;re right.&quot; The choice is up to you.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>Who is probably speaking?</string>
+				<key>A</key>
+				<string>A school teacher</string>
+				<key>B</key>
+				<string>A football coach</string>
+				<key>C</key>
+				<string>A company CEO</string>
+				<key>D</key>
+				<string>A movie star</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What is the main purpose of the speech?</string>
+				<key>A</key>
+				<string>To motivate</string>
+				<key>B</key>
+				<string>To inform</string>
+				<key>C</key>
+				<string>To entertain</string>
+				<key>D</key>
+				<string>To educate</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>How does the speaker feel about his listeners?</string>
+				<key>A</key>
+				<string>Wary</string>
+				<key>B</key>
+				<string>Skeptical</string>
+				<key>C</key>
+				<string>Confident</string>
+				<key>D</key>
+				<string>Satisfield</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>As you know, we&apos;ve been negotiating with IBD Technology School to provide discount computer classes for our staff. Even though these classes are free to our employees, some of you have complained that workers in your department aren&apos;t taking advantage of them. Staff have complained that they are too tired and too busy to drive to the IBD campus after work. But I have a hunch that most of them don&apos;t recognize the benefit expanded computer skills will have for their job performance. I can understand this, since most of them already have the skill they need to perform their current jobs well. So, I propose that we hire a presenter, Jim Jefferson, to give our staff a motivational lecture about why continued learning is important in their careers.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>Who is the speaker most likely speaking to?</string>
+				<key>A</key>
+				<string>New employees</string>
+				<key>B</key>
+				<string>Software engineers</string>
+				<key>C</key>
+				<string> Advertising executives</string>
+				<key>D</key>
+				<string>Department managers</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What excuse do staff members have for not taking computer classes?</string>
+				<key>A</key>
+				<string>They cannot afford them.</string>
+				<key>B</key>
+				<string>They lack time and energy.</string>
+				<key>C</key>
+				<string>They have not heard about them.</string>
+				<key>D</key>
+				<string>They see no advantages to them.</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What does the speaker suggest the company do?</string>
+				<key>A</key>
+				<string>Hire a motivational speaker</string>
+				<key>B</key>
+				<string> Make computer classes mandatory</string>
+				<key>C</key>
+				<string> Charge employees money for the classes</string>
+				<key>D</key>
+				<string>Quit offering the computer classes</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>I have some big news for you. We have just bought Smith Company, our biggest rivals! The deal will be announced publicly tomorrow. We will spend the next six months working out logistics -- how to best absorb their employees and buildings and assimilate them into our corporate culture. Once this transition process is completed, we will be the largest company in our industry. Though there will be several changes, none of you will lose your positions. And please inform your employees that all of them will be retained. We don&apos;t know yet how many workers from the Smith Company that we will keep, or exactly what positions they will have with us. The biggest advantage for us is that we get Smith&apos;s nearly two million customers, to complement the three-and-a-half million we have now. Our focus will be on retaining the Smith customers during the transition. We want you to think about how to do this, and we will meet again next week to brainstorm specific ideas. You can announce the news to your staff this afternoon, but please caution them not to say anything until the public announcement is made tomorrow morning.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What is being announced?</string>
+				<key>A</key>
+				<string> A business closure</string>
+				<key>B</key>
+				<string>A retirement</string>
+				<key>C</key>
+				<string>An acquisition</string>
+				<key>D</key>
+				<string>A stock offering</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>Who is most likely listening to the announcement?</string>
+				<key>A</key>
+				<string>The news media</string>
+				<key>B</key>
+				<string>Certified accountants</string>
+				<key>C</key>
+				<string>Department managers</string>
+				<key>D</key>
+				<string>Company clients</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What will happen tomorrow?</string>
+				<key>A</key>
+				<string>Smith Company will be sold.</string>
+				<key>B</key>
+				<string>Staff will be informed.</string>
+				<key>C</key>
+				<string>They will brainstorm ideas.</string>
+				<key>D</key>
+				<string>The media will be notified.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>Ladies and gentlemen. Welcome to Smallville Theater for tonight&apos;s performance of &quot;Romeo and Juliet&quot; by the Smallville Theater Troupe. The performance will begin at 7:30, and there will be four acts with a 20-minute intermission. During intermission drinks and snacks are for sale in the lobby. We ask you at this time to kindly turn off all cell phones and pagers, and remind you that photography is not permitted during the performance. After the show, you can purchase tickets at the box office for any or all of Smallville Theater&apos;s six upcoming presentations this season. The box office is also open Monday through Friday from 9 a.m. to 5 p.m. You can buy tickets in person or by calling the box office at 555-8294. Thank you for coming, and enjoy the show!</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What type of performance will follow the announcement?</string>
+				<key>A</key>
+				<string>A movie</string>
+				<key>B</key>
+				<string>A concert</string>
+				<key>C</key>
+				<string>A game</string>
+				<key>D</key>
+				<string>A play</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What can people do during intermission?</string>
+				<key>A</key>
+				<string>Order season tickets</string>
+				<key>B</key>
+				<string>Silence their cell phones</string>
+				<key>C</key>
+				<string>Buy food and beverages</string>
+				<key>D</key>
+				<string>Photograph the director</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What should people do if they want tickets to future shows?</string>
+				<key>A</key>
+				<string>Order online</string>
+				<key>B</key>
+				<string>Contact the box office</string>
+				<key>C</key>
+				<string>Mail an order form</string>
+				<key>D</key>
+				<string>Leave a message</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>Welcome aboard the Goose, a unique vehicle that will take you across town on the roads and on the water. My name&apos;s Sandra, and I&apos;ll be your guide on this beautiful day. We&apos;ll start here at the pier, which seems natural since this city was founded 150 years ago as a major seaport. Next we&apos;ll explore the three major hills that surround downtown -- First Hill, Pill Hill, and High Point. These will include stops at the Native American Center, the Art Museum, and a ride to High Point via cable car for a picnic lunch. Then we&apos;ll take the Goose on a short cruise around Lake Lincoln, and end with a tour of the downtown historical district. Please keep your hands and feet inside the Goose at all times. If you have any questions, hold them until the end of the tour, when we will have a 15-minute question and answer session. Thank you for joining us today!</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What position does the speaker hold?</string>
+				<key>A</key>
+				<string>Entertainer</string>
+				<key>B</key>
+				<string>Professor</string>
+				<key>C</key>
+				<string>Travel agent</string>
+				<key>D</key>
+				<string>Tour guide</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What will be the first stop?</string>
+				<key>A</key>
+				<string>The pier</string>
+				<key>B</key>
+				<string>High Point Hill</string>
+				<key>C</key>
+				<string>Lake Lincoln</string>
+				<key>D</key>
+				<string>Downtown</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What should listeners do if they have questions?</string>
+				<key>A</key>
+				<string>Raise their hands</string>
+				<key>B</key>
+				<string>Wait until the tour is finished</string>
+				<key>C</key>
+				<string>Write them down</string>
+				<key>D</key>
+				<string> Ask them anytime</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>Hey Rebecca, this is Jerome. I&apos;ve got good news! I closed the deal here in Dallas early, so I can be back tomorrow in time to make the meeting with the clients from Seoul. I&apos;m catching a red-eye flight back to Atlanta. The only problem is, I arrive early in the morning, and my wife has to use our car to take the kids to school and get to work. So I need a ride from the airport to my house, and then into the office so I can make the meeting at 9. Oh, I also need for Erika to set up my power-point presentation and get it ready for the meeting. Could you please ask Antonio if he could pick me up at the airport? I know he lives near there. I arrive on Flight 397 from Dallas at 7 a.m. Thanks a lot Rebecca. If there are any problems, call me on my cell. Otherwise I&apos;ll see you tomorrow morning.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>Where is the speaker calling from?</string>
+				<key>A</key>
+				<string>Seoul</string>
+				<key>B</key>
+				<string>Atlanta</string>
+				<key>C</key>
+				<string>Dallas</string>
+				<key>D</key>
+				<string>Cincinnati</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What does Jerome ask Rebecca to do?</string>
+				<key>A</key>
+				<string>Call his wife</string>
+				<key>B</key>
+				<string> Talk to Antonio</string>
+				<key>C</key>
+				<string>Meet him at the airport</string>
+				<key>D</key>
+				<string>Prepare a presentation</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What should Rebecca do if there are problems?</string>
+				<key>A</key>
+				<string>Call Jerome on his cell phone</string>
+				<key>B</key>
+				<string>Page Jerome at the airport</string>
+				<key>C</key>
+				<string>Postpone the meeting</string>
+				<key>D</key>
+				<string>Consult with Erika</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>Hello, Ms. Whitehurst, this is Josh Levine from Levine Contractors returning your phone call. You had a couple of questions about the bid we gave you to remodel your office. First, yes, the quote to enlarge the conference room does include installing new carpet. Sorry if that wasn&apos;t clear on the spreadsheet. You had also asked why we quoted a range for the cost of lighting. That&apos;s because it depends on the type and style of lights you decide you want. The low figure is for standard lighting, and the high one is for fancy, canned track lights. As for painting, we subcontract that, so I&apos;ll have to check with my painters and see when they can come give you an estimate -- hopefully by the end of the week. I&apos;ll get back in touch with you about that later today. If you have more questions, give me a call or shoot me an e-mail. My cell phone is 344-612-0985, and the office is 344-555-7249. E-mail is josh at levine dot com. Otherwise, I&apos;ll put you in touch with the painters and wait to hear from you. Thanks Ms. Whitehurst, and have a good day!</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>A</string>
+				<key>question</key>
+				<string>What is the main purpose of the message?</string>
+				<key>A</key>
+				<string>To answer questions</string>
+				<key>B</key>
+				<string>To correct a mistake</string>
+				<key>C</key>
+				<string>To set an appointment</string>
+				<key>D</key>
+				<string>To solicit an estimate</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What does the speaker say about painting?</string>
+				<key>A</key>
+				<string>He will paint Ms. Whitehurst&apos;s office walls.</string>
+				<key>B</key>
+				<string>He will ask someone else about painting.</string>
+				<key>C</key>
+				<string>The office walls do not need to be painted.</string>
+				<key>D</key>
+				<string>The cost of painting was included in the bid.</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What will the speaker probably do next?</string>
+				<key>A</key>
+				<string>Remodel Ms. Whitehurst&apos;s office</string>
+				<key>B</key>
+				<string>Send Ms. Whitehurst an e-mail</string>
+				<key>C</key>
+				<string>Contact a subcontractor</string>
+				<key>D</key>
+				<string>Shop for carpeting</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>Patricia Prentice here with WRAP-FM traffic. The commute is pretty much a mess everywhere at this hour. Highway 22 is crawling from downtown to the North Street exit. Interstate 7 is a logjam between Hillville to the county line, and State Route 10 is heavy from the city heading east into Bell Acres. We&apos;re getting a report of a two-car collision on Highway 12 just south of Kinnear Street that&apos;s blocking the left two lanes there. The only route that looks pretty good right now is Interstate 306, which is bottle-necked at the convention center but clears west of there and then is off and on into Rockway. This report is brought to you by Koala Cola, the drink that is refreshingly different. This has been Patricia Prentice for WRAP-FM. Our next Koala Cola update will be at the top of the hour.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>Where is this report most likely being broadcast?</string>
+				<key>A</key>
+				<string>On television</string>
+				<key>B</key>
+				<string>On the Internet</string>
+				<key>C</key>
+				<string>On radio</string>
+				<key>D</key>
+				<string>On an MP 3.</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What does the speaker say about traffic?</string>
+				<key>A</key>
+				<string> It is flowing smoothly.</string>
+				<key>B</key>
+				<string>It is very heavy.</string>
+				<key>C</key>
+				<string>It is lighter than usual.</string>
+				<key>D</key>
+				<string>It is a commute.</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>Who is sponsoring this report?</string>
+				<key>A</key>
+				<string>Patricia Prentice</string>
+				<key>B</key>
+				<string>WRAP-FM</string>
+				<key>C</key>
+				<string>The convention center</string>
+				<key>D</key>
+				<string>Koala Cola</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>This is Tracy Thompson from the WHIP traffic center. All major roadways are flowing pretty smoothly at this hour. Interstate 99 is a little slow from downtown to North Lake because of an earlier stalled vehicle, which has now been cleared to the shoulder, and State Route 420 is a little bit heavy near the Stadium exit due to some construction work on the off ramp. But otherwise things look better than usual for your afternoon commute. We&apos;re just getting word of an overturned semi on the Valley highway near Mayberry, so we&apos;ll give you more details on that next hour. Traffic is brought to you this hour by Body Works, the place that works wonders for your body. This has been Tracy Thompson reporting for WHIP 91.7 FM.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>Who is the report mainly intended for?</string>
+				<key>A</key>
+				<string>Chauffeurs</string>
+				<key>B</key>
+				<string> Drivers</string>
+				<key>C</key>
+				<string>Bus riders</string>
+				<key>D</key>
+				<string>Car-poolers</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What does the speaker say about traffic?</string>
+				<key>A</key>
+				<string>It is bumper to bumper</string>
+				<key>B</key>
+				<string>It is blocked by a semi</string>
+				<key>C</key>
+				<string> It is typical for this hour</string>
+				<key>D</key>
+				<string> It is unusually light</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What is suggested about the traffic reports?</string>
+				<key>A</key>
+				<string>They begin at noon</string>
+				<key>B</key>
+				<string>They originate from Body Works</string>
+				<key>C</key>
+				<string>They are given once an hour</string>
+				<key>D</key>
+				<string>They are part of the news</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>Are you ready to have fun in the sun? Then come to Wild Water Park. We have something for everyone in the family. Toddlers will love our splash-and-squirt pool. Older boys and girls can surf with bodies or boogie board in our giant wave pool. And we have water slides suited for all ages, including our famous &quot;Howlin&apos; Hurricane&quot; and &quot;Daredevil Drop&quot; -- slides bigger and better than any you&apos;ll find at other water parks. Wild Water Park opens for the summer on Friday, June 21st. Right now, we&apos;re offering family passes to opening weekend for only $50 -- that&apos;s $25 less than the usual price. And, if you buy your family pass before June 14th, you&apos;ll a children&apos;s ticket for any other date during the summer absolutely free. Don&apos;t wait! To order tickets, call 555-7743, or visit us online at www.wildwater.com. Wild Water Park: the best attractions at the lowest prices.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What is suggested about Wild Water Park?</string>
+				<key>A</key>
+				<string>It is relatively small.</string>
+				<key>B</key>
+				<string>It has area competitors.</string>
+				<key>C</key>
+				<string>It is not very well known.</string>
+				<key>D</key>
+				<string>It is open throughout the year.</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>What free gift is being offered?</string>
+				<key>A</key>
+				<string>A family pass</string>
+				<key>B</key>
+				<string>A boogie board</string>
+				<key>C</key>
+				<string>A children&apos;s ticket</string>
+				<key>D</key>
+				<string>A bathing suit</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>What should people do to receive a gift?</string>
+				<key>A</key>
+				<string>Fill out a special form</string>
+				<key>B</key>
+				<string>Buy a family pass</string>
+				<key>C</key>
+				<string>Visit Wild Water Park</string>
+				<key>D</key>
+				<string>Ride the Howlin&apos; Hurricane</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>audio</key>
+		<string></string>
+		<key>script</key>
+		<string>You know, that&apos;s the question I&apos;m probably asked the most: Why? Sometimes I wonder myself. It&apos;s hard work to start a business, any business. So why do I work so hard to start one, get it going, and then walk away to start another one from scratch...? I don&apos;t know, really. It&apos;s not for the money. If I wanted to get rich I&apos;d make one business enormously successful, then sell it. I guess it&apos;s in my DNA. I love the challenge of creating something -- of seeing my dreams spring to life. But once they do, the excitement&apos;s gone, and I&apos;m ready for something else. I think the first sign I would be a businessman was when I was nine, and a friend and I started renting our used DVDs to the neighborhood kids. I started my first business at age 13 -- a lawn-mowing service -- and I&apos;ve been creating companies ever since. Not all of them have been successful, but I think I&apos;ve learned more from my failures than my successes. This current venture is my 12th start-up company. Five have failed, but six are going strong, so I&apos;m batting better than five-hundred. I&apos;m 60, I&apos;m still in good health, I love what I do -- so I see myself doing this until the day I die.</string>
+		<key>question</key>
+		<array>
+			<dict>
+				<key>answer</key>
+				<string>B</string>
+				<key>question</key>
+				<string>Who is the speaker?</string>
+				<key>A</key>
+				<string>An architect</string>
+				<key>B</key>
+				<string>An entrepreneur</string>
+				<key>C</key>
+				<string>An engineer</string>
+				<key>D</key>
+				<string>A banker</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>C</string>
+				<key>question</key>
+				<string>How many start-up companies has the speaker formed?</string>
+				<key>A</key>
+				<string>Five</string>
+				<key>B</key>
+				<string>Six</string>
+				<key>C</key>
+				<string>Twelve</string>
+				<key>D</key>
+				<string>Thirteen</string>
+			</dict>
+			<dict>
+				<key>answer</key>
+				<string>D</string>
+				<key>question</key>
+				<string>What does the speaker say about his future?</string>
+				<key>A</key>
+				<string>He is ready to retire</string>
+				<key>B</key>
+				<string>He is going to sell his assets</string>
+				<key>C</key>
+				<string>He will work for five more years</string>
+				<key>D</key>
+				<string>He will remain in the same job</string>
+			</dict>
+		</array>
+	</dict>
 </array>
 </plist>

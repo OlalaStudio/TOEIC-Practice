@@ -37,6 +37,8 @@
     
     [_scriptview setText:script];
     [_scriptview setHidden:YES];
+    
+    [_playerBar setPlayerBarDelegate:self];
 }
 
 - (void)didReceiveMemoryWarning {
@@ -45,9 +47,7 @@
 }
 
 -(void)viewDidAppear:(BOOL)animated{
-    [_playerBar setPlayerURL:audio];
-    [_playerBar setPlayerBarDelegate:self];
-    [_playerBar loadContent];
+    
 }
 
 -(void)viewDidDisappear:(BOOL)animated{
@@ -127,7 +127,9 @@
 
 -(void)didClickPlayer
 {
-    
+    [_playerBar setPlayerURL:audio];
+    [_playerBar setPlayerBarDelegate:self];
+    [_playerBar loadContent];
 }
 
 -(void)canClickPlayer
