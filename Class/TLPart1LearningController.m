@@ -29,6 +29,14 @@
     [self setupPageView];
 }
 
+-(void)viewWillAppear:(BOOL)animated{
+    [super viewWillAppear:animated];
+}
+
+-(void)viewDidAppear:(BOOL)animated{
+   
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
@@ -132,7 +140,7 @@
 
 -(void)addPageControll
 {
-    self.pageControll = [[UIPageControl alloc] initWithFrame:CGRectMake(0, self.view.frame.size.height - 50, self.view.frame.size.width, 50)];
+    self.pageControll = [[UIPageControl alloc] initWithFrame:CGRectMake(0, self.view.frame.size.height - 80, self.view.frame.size.width, 50)];
     [self.pageControll setTintColor:[UIColor redColor]];
     [self.pageControll setCurrentPageIndicatorTintColor:[UIColor redColor]];
     [self.pageControll setPageIndicatorTintColor:[UIColor lightGrayColor]];

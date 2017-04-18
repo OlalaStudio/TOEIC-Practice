@@ -44,6 +44,15 @@
     // Dispose of any resources that can be recreated.
 }
 
+-(void)viewWillAppear:(BOOL)animated{
+    
+}
+
+-(void)viewDidAppear:(BOOL)animated{
+    
+    [super viewDidAppear:animated];
+}
+
 /*
 #pragma mark - Navigation
 
@@ -62,6 +71,16 @@
 
 -(NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section{
     return [dataArr count];
+}
+
+-(UIView*)tableView:(UITableView *)tableView viewForFooterInSection:(NSInteger)section
+{
+    return _adBannerView;
+}
+
+-(CGFloat)tableView:(UITableView *)tableView heightForFooterInSection:(NSInteger)section
+{
+    return _adBannerView.frame.size.height;
 }
 
 -(UITableViewCell*)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath{

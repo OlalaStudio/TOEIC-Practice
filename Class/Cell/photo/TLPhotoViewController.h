@@ -10,6 +10,7 @@
 #import "TLBaseViewController.h"
 #import "PlayerBarView.h"
 
+
 @interface TLPhotoViewController : TLBaseViewController <PlayerBarViewDelegate>{
     NSDictionary    *_dataDic;
 }

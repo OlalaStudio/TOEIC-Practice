@@ -7,9 +7,13 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "PartBaseViewController.h"
 #import "SWRevealViewController.h"
 
-@interface Part1ViewController : UIViewController <UITableViewDelegate,UITableViewDataSource>
+@interface Part1ViewController : PartBaseViewController <UITableViewDelegate,UITableViewDataSource>
+{
+
+}
 
 @property (weak, nonatomic) IBOutlet UIBarButtonItem *sideBarButton;
 @property (weak, nonatomic) IBOutlet UITableView     *tableview;

@@ -175,6 +175,8 @@
 		BF7B0E351E768ACA00A19876 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF7B0E2D1E768ACA00A19876 /* SWRevealViewController.m */; };
 		BF7B0E361E768ACA00A19876 /* menu.png in Resources */ = {isa = PBXBuildFile; fileRef = BF7B0E2F1E768ACA00A19876 /* menu.png */; };
 		BF7B0E371E768ACA00A19876 /* menu@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF7B0E301E768ACA00A19876 /* menu@2x.png */; };
+		BF8345D91EA0F081001CE8DA /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BF8345D81EA0F081001CE8DA /* GoogleMobileAds.framework */; };
+		BF8345DE1EA0F2B0001CE8DA /* PartBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF8345DD1EA0F2B0001CE8DA /* PartBaseViewController.m */; };
 		BFC56F081E77E8900051E14A /* TLTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = BFC56EF61E77E8900051E14A /* TLTableViewCell.m */; };
 		BFC56F091E77E8900051E14A /* TLTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = BFC56EF71E77E8900051E14A /* TLTableViewCell.xib */; };
 		BFC56F101E77E8900051E14A /* TLButton.m in Sources */ = {isa = PBXBuildFile; fileRef = BFC56F051E77E8900051E14A /* TLButton.m */; };
@@ -388,6 +390,10 @@
 		BF7B0E2D1E768ACA00A19876 /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWRevealViewController.m; sourceTree = "<group>"; };
 		BF7B0E2F1E768ACA00A19876 /* menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = menu.png; sourceTree = "<group>"; };
 		BF7B0E301E768ACA00A19876 /* menu@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "menu@2x.png"; sourceTree = "<group>"; };
+		BF8345D81EA0F081001CE8DA /* GoogleMobileAds.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleMobileAds.framework; path = ../../7.Workspace/Resource/600EST/GoogleMobileAds.framework; sourceTree = "<group>"; };
+		BF8345DA1EA0F0AE001CE8DA /* GoogleMobileAds.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = GoogleMobileAds.framework; sourceTree = "<group>"; };
+		BF8345DC1EA0F2B0001CE8DA /* PartBaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PartBaseViewController.h; sourceTree = "<group>"; };
+		BF8345DD1EA0F2B0001CE8DA /* PartBaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PartBaseViewController.m; sourceTree = "<group>"; };
 		BFC56EF51E77E8900051E14A /* TLTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TLTableViewCell.h; sourceTree = "<group>"; };
 		BFC56EF61E77E8900051E14A /* TLTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TLTableViewCell.m; sourceTree = "<group>"; };
 		BFC56EF71E77E8900051E14A /* TLTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TLTableViewCell.xib; sourceTree = "<group>"; };
@@ -426,6 +432,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BF8345D91EA0F081001CE8DA /* GoogleMobileAds.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -616,6 +623,7 @@
 		BF7B0DFF1E768A5C00A19876 = {
 			isa = PBXGroup;
 			children = (
+				BF8345DA1EA0F0AE001CE8DA /* GoogleMobileAds.framework */,
 				BF6BAAF21E7AAD0400ED0B7B /* player */,
 				BFC56F131E77EB700051E14A /* Data */,
 				BFC56F1B1E77EB700051E14A /* Setting */,
@@ -623,6 +631,7 @@
 				BF7B0E2E1E768ACA00A19876 /* Resource */,
 				BF7B0E0A1E768A5C00A19876 /* Toeic */,
 				BF7B0E091E768A5C00A19876 /* Products */,
+				BF8345D71EA0F081001CE8DA /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -662,6 +671,8 @@
 			isa = PBXGroup;
 			children = (
 				BFC56EF31E77E83D0051E14A /* Cell */,
+				BF8345DC1EA0F2B0001CE8DA /* PartBaseViewController.h */,
+				BF8345DD1EA0F2B0001CE8DA /* PartBaseViewController.m */,
 				BF5C771E1E83A9F700499CD5 /* UICommonDefines.h */,
 				BF7B0E231E768ACA00A19876 /* Part1ViewController.h */,
 				BF7B0E241E768ACA00A19876 /* Part1ViewController.m */,
@@ -728,6 +739,14 @@
 				BF7B0E301E768ACA00A19876 /* menu@2x.png */,
 			);
 			path = Resource;
+			sourceTree = "<group>";
+		};
+		BF8345D71EA0F081001CE8DA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BF8345D81EA0F081001CE8DA /* GoogleMobileAds.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		BFC56EF31E77E83D0051E14A /* Cell */ = {
@@ -1136,6 +1155,7 @@
 			files = (
 				BFE5C4A01E852BAA00F20EA6 /* TLPart3LearningViewController.m in Sources */,
 				BF7B0E131E768A5C00A19876 /* ViewController.m in Sources */,
+				BF8345DE1EA0F2B0001CE8DA /* PartBaseViewController.m in Sources */,
 				BF7B0E101E768A5C00A19876 /* AppDelegate.m in Sources */,
 				BF5731D01E97601200736860 /* TLPart6LearningController.m in Sources */,
 				BFED98021E76A6C6002233E8 /* Part6ViewController.m in Sources */,

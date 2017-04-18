@@ -7,9 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "PartBaseViewController.h"
 #import "TLPhotoViewController.h"
 
-@interface TLPart1LearningController : UIViewController <UIPageViewControllerDelegate,UIPageViewControllerDataSource>{
+@interface TLPart1LearningController : PartBaseViewController <UIPageViewControllerDelegate,UIPageViewControllerDataSource>{
     NSArray          *_itemList;
     NSMutableArray   *_controllerArr;
 }

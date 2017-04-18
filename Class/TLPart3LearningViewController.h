@@ -7,10 +7,16 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "PartBaseViewController.h"
 #import "PlayerBarView.h"
+#import "TLTableViewCellBase.h"
 
-@interface TLPart3LearningViewController : UIViewController <UITableViewDelegate,UITableViewDataSource,PlayerBarViewDelegate>{
+@interface TLPart3LearningViewController : PartBaseViewController <UITableViewDelegate,UITableViewDataSource,PlayerBarViewDelegate,TLTableViewCellDelegate>{
     NSDictionary          *_itemList;
+    NSMutableDictionary     *uDic;
+    
+    NSInteger       rAnwser;
+    NSInteger       tAnwser;
 }
 
 @property (weak, nonatomic) IBOutlet PlayerBarView *playerBar;

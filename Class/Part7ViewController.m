@@ -39,6 +39,14 @@
     dataArr = [[NSArray alloc] initWithContentsOfFile:metadataPath];
 }
 
+-(void)viewWillAppear:(BOOL)animated{
+    
+}
+
+-(void)viewDidAppear:(BOOL)animated{
+    [super viewDidAppear:animated];
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
@@ -61,6 +69,16 @@
 
 -(NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section{
     return [dataArr count];
+}
+
+-(UIView*)tableView:(UITableView *)tableView viewForFooterInSection:(NSInteger)section
+{
+    return _adBannerView;
+}
+
+-(CGFloat)tableView:(UITableView *)tableView heightForFooterInSection:(NSInteger)section
+{
+    return _adBannerView.frame.size.height;
 }
 
 -(UITableViewCell*)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath{

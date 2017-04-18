@@ -7,9 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "PartBaseViewController.h"
 #import "TLTableViewCellBase.h"
 
-@interface TLPart5LearningController : UIViewController <UITableViewDelegate, UITableViewDataSource,TLTableViewCellDelegate> {
+@interface TLPart5LearningController : PartBaseViewController <UITableViewDelegate, UITableViewDataSource,TLTableViewCellDelegate> {
     NSArray    *_itemList;
     NSMutableDictionary *uDic;
 }

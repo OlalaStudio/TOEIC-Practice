@@ -10,8 +10,14 @@
 #import "UICommonDefines.h"
 #import "FCAlertView.h"
 
-@interface TLBaseViewController : UIViewController{
+#import "Appirater.h"
+
+@import GoogleMobileAds;
+
+@interface TLBaseViewController : UIViewController <GADBannerViewDelegate,AppiraterDelegate>{
     AnwserState     _anwser;
+    
+    GADBannerView           *_adBannerView;
 }
 
 @property AnwserState   anwser;

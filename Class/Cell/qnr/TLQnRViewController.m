@@ -41,7 +41,7 @@
 }
 
 -(void)viewDidAppear:(BOOL)animated{
-    
+    [super viewDidAppear:animated];
 }
 
 -(void)viewDidDisappear:(BOOL)animated{
@@ -82,8 +82,6 @@
 
 -(void)show_script{
     [_scriptview setHidden:![_scriptview isHidden]];
-    
-    [self didFinishPlayer];
 }
 
 -(BOOL)checkAnwser:(AnwserState)uAnwser validAnwser:(NSString*)validAnwser {

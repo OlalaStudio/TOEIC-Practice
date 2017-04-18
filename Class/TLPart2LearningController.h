@@ -7,9 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "PartBaseViewController.h"
 #import "TLQnRViewController.h"
 
-@interface TLPart2LearningController : UIViewController <UIPageViewControllerDelegate,UIPageViewControllerDataSource>{
+@interface TLPart2LearningController : PartBaseViewController <UIPageViewControllerDelegate,UIPageViewControllerDataSource>{
     NSArray          *_itemList;
     NSMutableArray   *_controllerArr;
 }

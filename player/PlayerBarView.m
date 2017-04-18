@@ -60,6 +60,8 @@ NSString *kTimedMetadataKey	= @"currentItem.timedMetadata";
         [player pause];
         player = nil;
     }
+    
+    _playerURL = nil;
 }
 
 -(void)dealloc
@@ -94,18 +96,23 @@ NSString *kTimedMetadataKey	= @"currentItem.timedMetadata";
     
     if ([network currentReachabilityStatus] != NotReachable) {
         
-        NSURL *streamURL = [NSURL URLWithString:_playerURL];
-        if ([streamURL scheme]) {
-            AVURLAsset *asset = [AVURLAsset URLAssetWithURL:streamURL options:nil];
-            NSArray *requestedKeys = [NSArray arrayWithObjects:kTracksKey, kPlayableKey, nil];
-
-            [asset loadValuesAsynchronouslyForKeys:requestedKeys completionHandler:
-             ^{
-                 dispatch_async(dispatch_get_main_queue(),
-                                ^{
-                                    [self prepareToPlayAsset:asset withKeys:requestedKeys];
-                                });
-             }];
+        if (!player) {
+            NSURL *streamURL = [NSURL URLWithString:_playerURL];
+            if ([streamURL scheme]) {
+                AVURLAsset *asset = [AVURLAsset URLAssetWithURL:streamURL options:nil];
+                NSArray *requestedKeys = [NSArray arrayWithObjects:kTracksKey, kPlayableKey, nil];
+                
+                [asset loadValuesAsynchronouslyForKeys:requestedKeys completionHandler:
+                 ^{
+                     dispatch_async(dispatch_get_main_queue(),
+                                    ^{
+                                        [self prepareToPlayAsset:asset withKeys:requestedKeys];
+                                    });
+                 }];
+            }
+        }
+        else{
+            [player play];
         }
     }
     else{

@@ -8,15 +8,22 @@
 
 #import "AppDelegate.h"
 
+@import GoogleMobileAds;
+
 @interface AppDelegate ()
 
 @end
 
 @implementation AppDelegate
 
-
+// App : ca-app-pub-4039533744360639~7390993309
+//banner : ca-app-pub-4039533744360639/8867726503
+// initialize : ca-app-pub-4039533744360639/1344459709
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+    [GADMobileAds configureWithApplicationID:@"ca-app-pub-4039533744360639~7390993309"];
+    
     return YES;
 }
 
